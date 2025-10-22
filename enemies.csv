@@ -1,0 +1,69 @@
+keys,en,ja,cn,tw
+VIRUS_NAME_1,Virus1_Spore,ウィルス1_スポア,病毒1_孢子,病毒1_孢子
+VIRUS_DESC_1,"A silent invader that embed spores in clean files, waiting for system restarts to bloom into infection.",安全なファイルに埋め込まれた胞子のような静かな侵入者。システムの再起動を待ち、一気に感染を広げる,无声的入侵者，会将孢子植入完好的文件中，等待系统重启时开始感染。,無聲的入侵者，會將孢子植入完好的檔案中，等待系統重啟時開始感染
+VIRUS_NAME_2,Virus2_Skull,ウィルス2_スカル,病毒2_骷髅,病毒2_骷髏
+VIRUS_DESC_2,A skeletal head with hollow eyes that fires malicious corruption. Said to be a ghost of a deleted admin account,くぼんだ目をした頭蓋骨。悪意ある感染を発射してくる。削除された管理者アカウントの霊だと言われている,眼眶空洞的骷髅头骨，散发出恶意的腐化。相传它是被删除的管理员账户的幽灵,眼眶空洞的骷髏頭骨，散發出惡意的腐化。相傳它是被刪除的管理員帳號的幽靈
+VIRUS_NAME_3,Virus3_Trojan,ウィルス3_トロイ,病毒3_木马,病毒3_木馬
+VIRUS_DESC_3,"The trojan enters your system through the backdoor, then brute forcing through all your sensitive information.",トロイはバックドアからシステムに侵入し、すべての機密情報に対してブルートフォースを行う。,木马从后门潜入系统，随后对你的所有敏感信息进行暴力破解。,木馬從後門潛入系統，隨後對你的所有敏感資訊進行暴力破解
+VIRUS_NAME_4,Virus4_Diva,ウィルス4_ディーヴァ,病毒4_歌姬,病毒4_歌姬
+VIRUS_DESC_4,"Charismatic, seductive and dangerously efficient, she was born from the corrupted entertainment sites. Her laser raves overloads CPU and GPU, crashing any system.",カリスマとセクシーさを併せ持ち、恐ろしいほど効率的な彼女は、感染したエンターテイメントサイトから生まれたウィルスだ。レーザーレイヴでCPUと\nGPUに負荷をかけ、あらゆるシステムをクラッシュさせる。,她诞生自被感染的娱乐网站，漂亮、魅惑，而且效率高到令人胆寒。她的激光舞会能让CPU与GPU过载，令任何系统崩溃。,她誕生自被感染的娛樂網站，漂亮、魅惑，而且效率高到令人膽寒。她的雷射舞會能讓CPU與GPU過載，令任何系統崩潰
+VIRUS_NAME_5,Virus5_ZipBomb,ウィルス5_ZIPボム,病毒5_压缩炸弹,病毒5_壓縮炸彈
+VIRUS_DESC_5,"Also known as ""ZOD"", is a decompression bomb disguised as a zip file, designed to crash systems by expanding into petabytes of fake data.",「ZOD」としても知られている。ZIPファイルとして偽装されている解凍型爆弾だ。解凍すると何ペタバイトにも及ぶ偽データへと膨れ上がり、システムをクラッシュさせることを目的としている。,俗称“ZOD”，伪装成zip文件的解压炸弹，通过解压膨胀成PB级的虚假数据以瘫痪系统。,俗稱"ZOD"，偽裝成zip檔案的解壓炸彈，通過解壓膨脹成PB級的虛假數據以癱瘓系統
+VIRUS_NAME_6,Virus6_Moai,ウィルス6_モアイ,病毒6_摩艾石像,病毒6_摩艾石像
+VIRUS_DESC_6,These stone watchers have risen up from their ancient times after everyone started using them as emotes. Now they observe and log your moves and crushes your system.,この石の監視者は、みんなが絵文字として使い始めたことにより、古代から続く長い眠りから目覚めた。今度はこちらの動きを観察して記録し、システムをクラッシュさせてくる。,这些远古石像守望者因被人们当作表情滥用而苏醒。它们注视你的一举一动，暗中记录，直到让你的系统崩溃。,這些遠古石像守望者因被人們當作表情濫用而甦醒。它們注視你的一舉一動，暗中記錄，直到讓你的系統崩潰
+VIRUS_NAME_7,Virus7_User,ウィルス7_ユーザー,病毒7_用户,病毒7_使用者
+VIRUS_DESC_7,A corrupted identity that believes it is the user and was once the system guardian. Now it attacks anything that tries to mess with user permissions.,自身を以前はシステムの守護者だったユーザーだと思い込んでいる感染したID。今では、ユーザー権限に干渉しようとするものすべてを攻撃する存在となっている。,被感染的身份，自以为就是用户，曾是系统守护者。现在会攻击任何试图更改用户权限的目标。,被感染的身份，自以為是使用者，曾是系統守護者。現在會攻擊任何試圖更改使用者權限的目標
+VIRUS_NAME_8,Virus8_Worm,ウィルス8_ワーム,病毒8_蠕虫,病毒8_蠕蟲
+VIRUS_DESC_8,"Many worms has been seen ever since the attack of The First Bug, spreading itself across networks. They burrow themselves in your folders.",「ザ?ファースト?バグ」による攻撃以来、多くのワームが目撃されながらもネットワーク中にその存在を広めている。フォルダの中に穴をほって身を潜めている。,自“第一只Bug”袭来后，蠕虫层出不穷，在网络间自我复制传播，并在你的文件夹中打洞潜伏。,自"第一隻Bug"襲來後，蠕蟲層出不窮，在網路間自我複製傳播，並在你的資料夾中打洞潛伏
+VIRUS_NAME_9,Virus9_Spyder,ウィルス9_スパイダー,病毒9_谍蛛,病毒9_諜蛛
+VIRUS_DESC_9,"A web crawler turned predator, it builds web bombs that detonates to trap the user. Hijacking your web browser and stealing session data.",捕食者となったWebクローラー。Web爆弾を作り出して、ユーザーを捕らえようとする。Webブラウザをハイジャックして、セッションデータを盗むことが目的だ。,由网络爬虫转化而成的掠食者，会布置“网弹”，爆炸后将用户困住。它还会劫持你的浏览器并窃取会话数据。,由網路爬蟲轉化而成的掠食者，會佈置"網彈"，爆炸後將使用者困住。它還會劫持你的瀏覽器並竊取會話數據
+VIRUS_NAME_10,Virus10_SpyderEgg,ウィルス10_スパイダーエッグ,病毒10_谍蛛卵,病毒10_諜蛛卵
+VIRUS_DESC_10,"Laid by the ruler of Spyders, it pulses faintly like heartbeats. They are malicious scripts embedded in websites and hatches spyder periodically.",スパイダーの支配者によって生み出された卵。心拍のようなかすかな鼓動がある。Webサイトに埋め込まれた悪意のあるスクリプトで、定期的にスパイダーを生み出す。,由谍蛛之王产下，心跳般微弱脉动。它们是嵌入网站的恶意脚本，会周期性孵化谍蛛。,由諜蛛之王產下，心跳般微弱脈動。它們是嵌入網站的惡意腳本，會週期性孵化諜蛛
+VIRUS_NAME_11,Virus11_Helper,ウィルス11_ヘルパー,病毒11_管家,病毒11_管家
+VIRUS_DESC_11,"It was said that it was once a system repair tool but now, it fires a corrupted pulse that repairs viruses.",以前はシステムの修復ツールだったものだが、今では感染したパルスを発射してウィルスを修復する。,据说曾是系统修复工具，但如今会发射被感染的脉冲来“修复”病毒。,據說曾是系統修復工具，但如今會發射被感染的脈衝來"修復"病毒
+VIRUS_NAME_12,Virus12_BootSector,ウィルス12_ブートセクタ,病毒12_引导扇区,病毒12_引導扇區
+VIRUS_DESC_12,"One of the oldest threats in history, infecting the boot sector of a storage device. If not removed immediately, it will brick your system",スパイダーの支配者によって生み出された卵。心拍のようなかすかな鼓動がある。Webサイトに埋め込まれた悪意のあるスクリプトで、定期的にスパイダーを生み出す。,由谍蛛之王产下，心跳般微弱脉动。它们是嵌入网站的恶意脚本，会周期性孵化谍蛛。,由諜蛛之王產下，心跳般微弱脈動。它們是嵌入網站的惡意腳本，會週期性孵化諜蛛
+VIRUS_NAME_13,Virus13_CookieMonster,ウィルス13_Cookieモンスター,病毒13_Cookie怪兽,病毒13_Cookie怪獸
+VIRUS_DESC_13,"A dark parody that constantly munching on data crumbs. It harvests session cookies, login tokens and your preferences.",データのかけらを食べ続ける悪者版パロディ。セッションのCookieやログイントークン、ユーザーの設定情報を貪る。,一个黑色恶搞产物，总是在咀嚼数据碎片。这个病毒会收割会话Cookie、登录令牌以及你的偏好设置。,一個黑色惡搞產物，總是在咀嚼數據碎片。這個病毒會收割會話Cookie、登入令牌以及你的偏好設定
+VIRUS_NAME_14,Virus14_Byrd,"WIP","WIP","WIP"
+VIRUS_DESC_14,"Noot Noot! Ping-wuu finally learnt to fly.. crashing into your taskbar.","WIP","WIP","WIP"
+VIRUS_NAME_15,Virus15_Book,"WIP","WIP","WIP"
+VIRUS_DESC_15,"It's a malicious 400-pages pdf book titled 'How to exit Vim'","WIP","WIP","WIP"
+VIRUS_NAME_16,Virus16_Conficker,"WIP","WIP","WIP"
+VIRUS_DESC_16,"Conficker's just a harmless kite! (He's not harmless)","WIP","WIP","WIP"
+VIRUS_NAME_17,Virus17_Stuxnet,"WIP","WIP","WIP"
+VIRUS_DESC_17,"The first known cyberweapon that's designed to cause physical destruction.","WIP","WIP","WIP"
+VIRUS_NAME_18,Virus18_Popper,"WIP","WIP","WIP"
+VIRUS_DESC_18,"You probably should not have searched 'free robax generator 2025 no survey'","WIP","WIP","WIP"
+VIRUS_NAME_19,Virus19_Smurf,"WIP","WIP","WIP"
+VIRUS_DESC_19,"BRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR","WIP","WIP","WIP"
+VIRUS_NAME_20,Virus20_Allaple,"WIP","WIP","WIP"
+VIRUS_DESC_20,"Gotta go faster! MORE RPM! CMON YOU CAN DO IT! ONE MORE SET!","WIP","WIP","WIP"
+VIRUS_NAME_21,Virus21_iSpy,"WIP","WIP","WIP"
+VIRUS_DESC_21,"Sometimes you should hide your webcam... because I spy with my little eye.","WIP","WIP","WIP"
+VIRUS_NAME_22,Virus22_Pegasus,"WIP","WIP","WIP"
+VIRUS_DESC_22,"Remember when you said you hate the horses? Now you got Trojan on steroids","WIP","WIP","WIP"
+VIRUS_NAME_23,Virus23_Lockbit,"WIP","WIP","WIP"
+VIRUS_DESC_23,"Your coins are locked? Bro, you haven’t lost if you don’t sell","WIP","WIP","WIP"
+VIRUS_NAME_24,Virus24_Rootkit,"WIP","WIP","WIP"
+VIRUS_DESC_24,"Domain Compression: Infinite Void","WIP","WIP","WIP"
+VIRUS_NAME_25,Virus25_Cukoo,"WIP","WIP","WIP"
+VIRUS_DESC_25,"This system is now a protected nesting site. Deleting it violates the Migratory Bird Treaty Act (probably).","WIP","WIP","WIP"
+VIRUS_NAME_26,Virus26_Nimda,"WIP","WIP","WIP"
+VIRUS_DESC_26,"Well I shouldn't have let my monke play too much 'Orange Myth Wukong' - Anon","WIP","WIP","WIP"
+VIRUS_NAME_27,Virus27_Mirai,"WIP","WIP","WIP"
+VIRUS_DESC_27,"Knock knock.. Who's there?.. It's me, I've always been here.","WIP","WIP","WIP"
+VIRUS_NAME_28,Virus28_Sasser,"WIP","WIP","WIP"
+VIRUS_DESC_28,"He doesn't care. He's just here to play the sax with sass.","WIP","WIP","WIP"
+VIRUS_NAME_29,Virus29_Melissa,"WIP","WIP","WIP"
+VIRUS_DESC_29,"Hey cutie... wanna have a little fun? I promise it's not malware. (It's malware)","WIP","WIP","WIP"
+VIRUS_NAME_30,Virus30_ZBot,"WIP","WIP","WIP"
+VIRUS_DESC_30,"Also known as Zeta Bot, it silently waits until you type your bank password into what you thought was your browser.","WIP","WIP","WIP"
+BOSS_NAME_1,Boss1_TheFirstBug,ボス1_ザファーストバグ,首领1_第一只Bug,首領1_第一隻Bug
+BOSS_DESC_1,"Legend says this was the original software virus, The First Bug. It didn't die but it has evolved, burrowing through your system logs and now rewriting history.",伝説によるとこれが世界で最初のソフトウェアウィルス、「ザ?ファースト?バグ」だと言われている。秘かに生き残り、システムログの中に潜伏して進化を遂げた。次は歴史を書き換えようとしている。,传说这就是最初的软件病毒——第一只Bug。它并未真正死去，而是在不断进化，它深入了系统日志，正在改写历史记录。,傳說這就是最初的軟體病毒——第一隻Bug。它並未真正死去，而是在不斷進化，它深入了系統日誌，正在改寫歷史記錄
+BOSS_NAME_2,Boss2_TheWebWeaver,ボス2_ザWebウィーバー,首领2_织网者,首領2_織網者
+BOSS_DESC_2,The ruler of spyders that now rules the dark web. Weaving her code into the net and learned how to trap users. She knows you're here.,スパイダーの支配者は今やダークウェブをも支配している。ネットの中にコードを織り込み、ユーザーを捕らえる方法を覚えた。向こうはこちらが来たことを知っている。,谍蛛之王，如今是暗网的统御者。她将代码织入网络，学会了设下陷阱捕获用户。她知道你在这里。,諜蛛之王，如今是暗網的統御者。她將程式碼織入網路，學會了設下陷阱捕獲使用者。她知道你在這裡
+BOSS_NAME_3,Boss3_TheCloudCoreX,"WIP","WIP","WIP"
+BOSS_DESC_3,"Once a guardian of the cloud, now a corrupted god of data storms. The CloudCoreX drifts in the stratosphere of your network... watching you from above.","WIP","WIP","WIP"
+BOSS_NAME_4,Boss4_LEV_AI,"WIP","WIP","WIP"
+BOSS_DESC_4,"HUH? GET ME OUT HERE! I WON'T FORGIVE YOU! ...CHAT?","WIP","WIP","WIP"

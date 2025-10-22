@@ -1,0 +1,55 @@
+keys,en,ja,cn,tw
+UI_COMMON_NOT_IN_DEMO,Not available in the demo.,体験版では利用不可。,试玩版中不可用。,試玩版中不可用。
+UI_COMMON_START,Start,スタート,开始,開始
+UI_COMMON_SAVE,Save,セーブ,保存,儲存
+UI_COMMON_SEED,Seed,シード,种子,種子
+UI_COMMON_CANCEL,Cancel,キャンセル,取消,取消
+UI_COMMON_ACCEPT,Yes,はい,是,是
+UI_COMMON_REJECT,No,いいえ,否,否
+UI_COMMON_BACK,Back,戻る,返回,返回
+UI_COMMON_PLAY,Play,プレイ,开始游戏,開始遊戲
+UI_COMMON_RARITY_COMMON,Common,Common,Common,Common
+UI_COMMON_RARITY_UNCOMMON,Uncommon,Uncommon,Uncommon,Uncommon
+UI_COMMON_RARITY_RARE,Rare,Rare,Rare,Rare
+UI_COMMON_RARITY_LEGENDARY,Legendary,Legendary,Legendary,Legendary
+UI_COMMON_RARITY_EXE,EXE,EXE,EXE,EXE
+UI_STAT_HEALTH,Health,体力,生命,生命
+UI_STAT_HEARTS,Hearts,ハート,心,心
+UI_STAT_SHIELD,Shield,シールド,护盾,護盾
+UI_STAT_ATTACK,Attack,攻撃,攻击力,攻擊力
+UI_STAT_DRAW_LENGTH,Draw Length,線の長さ,线长,線長
+UI_STAT_COMBO_CAP,Combo Cap,コンボ上限,连击上限,連擊上限
+UI_STAT_DODGE_RATE,Dodge Rate,回避率,闪避率,閃避率
+UI_STAT_CRIT_RATE,Crit Rate,クリ率,暴击率,暴擊率
+UI_STAT_CRIT_DAMAGE,Crit Damage,クリダメ,暴击伤害,暴擊傷害
+UI_OPTIONS_MASTER_VOL,Master Volume,マスター音量,主音量,主音量
+UI_OPTIONS_BGM_VOL,Music Volume,音楽音量,音乐音量,音樂音量
+UI_OPTIONS_SFX_VOL,Sound Effects Volume,効果音音量,音效音量,音效音量
+UI_OPTIONS_DISPLAY_MODE,Display Mode,ディスプレイモード,显示模式,顯示模式
+UI_OPTIONS_RESOLUTION,Resolution,解像度,分辨率,解析度
+UI_OPTIONS_RESOLUTION_OPTION_1,Fullscreen,フルスクリーン,全屏,全螢幕
+UI_OPTIONS_RESOLUTION_OPTION_2,Borderless,ボーダレス,无边框,無邊框
+UI_OPTIONS_RESOLUTION_OPTION_3,Windowed,ウィンドウ表示,窗口化,視窗化
+UI_OPTIONS_VSYNC,VSync,垂直同期,垂直同步,垂直同步
+UI_OPTIONS_CRT,CRT Filter,ブラウン管フィルタ,CRT滤镜,CRT濾鏡
+UI_OPTIONS_SCREENSHAKE,Screenshake,画面揺れ,屏幕抖动,畫面抖動
+UI_OPTIONS_MOUSE_SENSITIVITY,Mouse Sensitivity,マウス感度,鼠标灵敏度,滑鼠靈敏度
+UI_OPTIONS_COMBAT_BACKGROUND,Combat Background Intensity,戦闘背景の濃さ,战斗背景浓淡,戰鬥背景濃淡
+UI_MENU_LABEL_START,Start,スタート,开始,開始
+UI_MENU_LABEL_CONTINUE,Continue,コンティニュー,继续,繼續
+UI_MENU_LABEL_OPTIONS,Options,オプション,选项,選項
+UI_MENU_LABEL_QUIT,Quit,終了,退出,退出
+UI_MENU_LABEL_LOG,Log,ログ,日志,日誌
+UI_MENU_LABEL_DATABASE,Database,データベース,数据库,數據庫
+UI_MENU_LABEL_CREDITS,Credits,クレジット,制作人员名单,製作人員名單
+UI_MENU_LABEL_WISHLIST,Wishlist,ウィッシュリスト,添加到愿望单,添加到願望清單
+UI_MENU_LABEL_DISCORD,Discord,Discord,Discord,Discord
+UI_MENU_LABEL_SECRETS,Secrets,シークレット,加密档案,加密檔案
+UI_MENU_LABEL_SHOP,Shop,ショップ,商店,商店
+UI_CREDITS_DESC,"Developed by:\nGearbyte Games\n\nCreative Director\nTang Leejed\n\nLead Programmer\nLin Xin\n\nMusic & Sound Composer\nKevin Mevlana (LordMev)\n\nFonts\nLanaPixel (eishiya)\nPixelLocale (Johste)\n\nSpecial Thanks\nDatlad11 (QA/Design)\nDiscord Community Members",開発元：\nGearbyte Games\n\nクリエイティブディレクター\nTang Leejed\n\nリードプログラマー\nLin Xin\n\n音楽&サウンドコンポーザー\nKevin Mevlana (LordMev)\n\nフォント\nLanaPixel (eishiya)\nPixelLocale (Johste)\n\nスペシャルサンクス\nDatlad11 (QA/デザイン)\nDiscordコミュニティメンバーのみんな,开发人员：\nGearbyte Games\n\n创意总监\nTang Leejed\n\n首席程序设计\nLin Xin\n\n音乐与音效作曲\nKevin Mevlana（LordMev）\n\n字体设计\nLanaPixel (eishiya)\nPixelLocale (Johste)\n\n特别鸣谢\nDatlad11 (质量保证/设计)\nDiscord 社区成员,開發人員：\nGearbyte Games\n\n創意總監\nTang Leejed\n\n首席程式設計\nLin Xin\n\n音樂與音效作曲\nKevin Mevlana（LordMev）\n\n字型設計\nLanaPixel (eishiya)\nPixelLocale (Johste)\n\n特別鳴謝\nDatlad11 (品質保證/設計)\nDiscord 社群成員
+UI_PAUSE_WINDOW_WISHLIST,Wishlist on Steam,Steamでウィッシュリスト登録,添加到Steam愿望单,添加到Steam願望清單
+UI_PAUSE_WINDOW_RESUME_GAME,Resume Game,ゲーム再開,继续游戏,繼續遊戲
+UI_PAUSE_WINDOW_OPTIONS,Options,オプション,选项,選項
+UI_PAUSE_WINDOW_EXIT_TO_MENU,Exit To Menu,メニューに戻る,返回主菜单,返回主選單
+UI_QUIT_WINDOW_CONFIRMATION_MSG,"Are you sure you want to quit? If you quit now, you will lose this run's progress",終了しますか？今終了すると、この挑戦の進捗は失われます,确认退出？现在退出将会丢失本轮游戏进度,確認退出？現在退出將會丟失本輪遊戲進度
+UI_DESKTOP_DEMO_LABEL,Demo,デモ版,试玩版,試玩版

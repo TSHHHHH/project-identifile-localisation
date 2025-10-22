@@ -1,0 +1,175 @@
+keys,en,ja,cn,tw
+UI_EMPTY_FOLDER_NAME_1,Homework,宿題,家庭作业,家庭作業
+UI_EMPTY_FOLDER_NAME_2,Essays,エッセイ,论文,論文
+UI_EMPTY_FOLDER_NAME_3,Finals_Study,勉強（最終版）,期末复习,期末複習
+UI_EMPTY_FOLDER_NAME_4,GroupProject(1),グループプロジェクト(1),小组项目（1）,小組項目（1）
+UI_EMPTY_FOLDER_NAME_5,PastPapers,過去の論文,历年试卷,歷年試卷
+UI_EMPTY_FOLDER_NAME_6,PresentationSlides,プレゼンスライド,演示文稿,演示文稿
+UI_EMPTY_FOLDER_NAME_7,ClassNotes,授業メモ,课堂笔记,課堂筆記
+UI_EMPTY_FOLDER_NAME_8,LibraryScans,図書館スキャン,图书馆扫描件,圖書館掃描件
+UI_EMPTY_FOLDER_NAME_9,LabReports,研究報告,实验报告,實驗報告
+UI_EMPTY_FOLDER_NAME_10,Drafts,原稿,草稿,草稿
+UI_EMPTY_FOLDER_NAME_11,History101,歴史入門,历史学入门,歷史學入門
+UI_EMPTY_FOLDER_NAME_12,Math stuff,数学関係,数学资料,數學資料
+UI_EMPTY_FOLDER_NAME_13,flashcards,フラッシュカード,学习卡片,學習卡片
+UI_EMPTY_FOLDER_NAME_14,cheatsheets,早見表,速查表,速查表
+UI_EMPTY_FOLDER_NAME_15,research,調査,研究资料,研究資料
+UI_EMPTY_FOLDER_NAME_16,sciencefair,科学フェア,科学展览,科學展覽
+UI_EMPTY_FOLDER_NAME_17,ExtraCredit,追加のクレジット,额外学分,額外學分
+UI_EMPTY_FOLDER_NAME_18,attendance,出席者,出勤记录,出勤記錄
+UI_EMPTY_FOLDER_NAME_19,ClassRecordings,授業録画,课堂录音,課堂錄音
+UI_EMPTY_FOLDER_NAME_20,assignments,課題,课业,課業
+UI_EMPTY_FOLDER_NAME_21,late_submissions,提出遅れ,迟交作业,遲交作業
+UI_EMPTY_FOLDER_NAME_22,projects2024,2024年プロジェクト,2024项目,2024項目
+UI_EMPTY_FOLDER_NAME_23,myGrades,自分の成績,我的成绩,我的成績
+UI_EMPTY_FOLDER_NAME_24,studyMaterials,勉強資料,学习资料,學習資料
+UI_EMPTY_FOLDER_NAME_25,peer_review,査読,同侪评阅,同儕評閱
+UI_EMPTY_FOLDER_NAME_26,final_Draft,最終原稿,最终稿,最終稿
+UI_EMPTY_FOLDER_NAME_27,submission,提出物,提交,提交
+UI_EMPTY_FOLDER_NAME_28,incomplete,未完成,未完成,未完成
+UI_EMPTY_FOLDER_NAME_29,GroupChatLogs,グループチャットログ,群聊记录,群聊記錄
+UI_EMPTY_FOLDER_NAME_30,deadlines,締め切り,截止日期,截止日期
+UI_EMPTY_FOLDER_DESC,What could be inside?,中には何が？,里面会有什么？,裡面會有什麼？
+UI_COMBAT_FOLDER_NAME_1_1,Documents,ドキュメント,文档,文件
+UI_COMBAT_FOLDER_NAME_1_2,Downloads,ダウンロード,下载,下載
+UI_COMBAT_FOLDER_NAME_1_3,Pictures,ピクチャ,图片,圖片
+UI_COMBAT_FOLDER_NAME_1_4,Music,ミュージック,音乐,音樂
+UI_COMBAT_FOLDER_NAME_1_5,Videos,ビデオ,视频,影片
+UI_COMBAT_FOLDER_NAME_1_6,Media,メディア,媒体,媒體
+UI_COMBAT_FOLDER_NAME_1_7,Users,ユーザー,用户,用戶
+UI_COMBAT_FOLDER_NAME_1_8,Program Files,プログラムファイル,程序文件,程式檔案
+UI_COMBAT_FOLDER_NAME_1_9,Work,仕事,工作,工作
+UI_COMBAT_FOLDER_NAME_1_10,Notes,メモ,笔记,筆記
+UI_COMBAT_FOLDER_NAME_1_11,Invoices,請求書,发票,發票
+UI_COMBAT_FOLDER_NAME_1_12,client_data,クライアントデータ,客户数据,客戶數據
+UI_COMBAT_FOLDER_NAME_1_13,contracts,連絡先,合同,合約
+UI_COMBAT_FOLDER_NAME_1_14,presentations,プレゼン,演示,演示
+UI_COMBAT_FOLDER_NAME_1_15,Timesheets,タイムシート,工时表,工時表
+UI_COMBAT_FOLDER_NAME_1_16,Slides(1),スライド(1),幻灯片（1）,幻燈片（1）
+UI_COMBAT_FOLDER_NAME_1_17,Payrolls,給与支払い,薪资表,薪資表
+UI_COMBAT_FOLDER_NAME_1_18,templates,テンプレート,模板,範本
+UI_COMBAT_FOLDER_NAME_1_19,wip,作業中,半成品,半成品
+UI_COMBAT_FOLDER_NAME_1_20,hr_confidential,人事部外秘,人事机密,人事機密
+UI_COMBAT_FOLDER_NAME_1_21,SharedFolder,共有フォルダ,共享文件夹,共享資料夾
+UI_COMBAT_FOLDER_NAME_1_22,claims,クレーム,报销申请,報銷申請
+UI_COMBAT_FOLDER_NAME_1_23,expenses,経費,开支,開支
+UI_COMBAT_FOLDER_NAME_1_24,Training Materials,研修資料,培训资料,培訓資料
+UI_COMBAT_FOLDER_NAME_1_25,internal Docs,内部資料,内部文档,內部文件
+UI_COMBAT_FOLDER_NAME_1_26,Annual Reports,年次報告,年度报告,年度報告
+UI_COMBAT_FOLDER_NAME_1_27,Meeting_minutes,議事録,会议记录,會議記錄
+UI_COMBAT_FOLDER_NAME_1_28,onboarding,オンボーディング,入职文件,入職文件
+UI_COMBAT_FOLDER_NAME_1_29,Work_policies,作業ポリシー,工作政策,工作政策
+UI_COMBAT_FOLDER_NAME_1_30,team_proj,チームプロジェクト,团队项目,團隊項目
+UI_COMBAT_FOLDER_NAME_2_1,Homework,宿題,家庭作业,家庭作業
+UI_COMBAT_FOLDER_NAME_2_2,Homework_real,宿題_マジ,真_家庭作业,真_家庭作業
+UI_COMBAT_FOLDER_NAME_2_3,SandboxV2,サンドボックスV2,沙盒V2,沙盒V2
+UI_COMBAT_FOLDER_NAME_2_4,Cats,ネコ,猫猫,貓貓
+UI_COMBAT_FOLDER_NAME_2_5,Assets,アセット,资产,資產
+UI_COMBAT_FOLDER_NAME_2_6,New Folder,新しいフォルダ,新建文件夹,新增資料夾
+UI_COMBAT_FOLDER_NAME_2_7,New Folder(2),新しいフォルダ（2）,新建文件夹（2）,新增資料夾（2）
+UI_COMBAT_FOLDER_NAME_2_8,Not_virus,ウィルス_じゃない,不是_病毒,不是_病毒
+UI_COMBAT_FOLDER_NAME_2_9,TOP_secret,最高機密,最高_机密,最高_機密
+UI_COMBAT_FOLDER_NAME_2_10,Source,ソース,源代码,原始碼
+UI_COMBAT_FOLDER_NAME_2_11,scripts,スクリプト,脚本,腳本
+UI_COMBAT_FOLDER_NAME_2_12,bug_reports,バグ報告,Bug报告,Bug報告
+UI_COMBAT_FOLDER_NAME_2_13,APIs,API,API文档,API文件
+UI_COMBAT_FOLDER_NAME_2_14,lib,ライブラリ,库,庫
+UI_COMBAT_FOLDER_NAME_2_15,repos,リポジトリ,仓库,倉庫
+UI_COMBAT_FOLDER_NAME_2_16,sandbox1,サンドボックス1,沙盒1,沙盒1
+UI_COMBAT_FOLDER_NAME_2_17,VirtualEnv,バーチャル環境,虚拟环境,虛擬環境
+UI_COMBAT_FOLDER_NAME_2_18,patches,パッチ,补丁,修補程式
+UI_COMBAT_FOLDER_NAME_2_19,plugins,プラグイン,插件,外掛程式
+UI_COMBAT_FOLDER_NAME_2_20,ext,拡張,扩展,擴充功能
+UI_COMBAT_FOLDER_NAME_2_21,Extensions,エクステンション,扩展功能,擴充功能
+UI_COMBAT_FOLDER_NAME_2_22,alpha_,アルファ,内测,內測
+UI_COMBAT_FOLDER_NAME_2_23,beta_build,ベータ版,公测版,公測版
+UI_COMBAT_FOLDER_NAME_2_24,release,リリース,发布版,發佈版
+UI_COMBAT_FOLDER_NAME_2_25,debug_3,デバッグ3,调试_3,調試_3
+UI_COMBAT_FOLDER_NAME_2_26,dumps,ダンプ,转储文件,傾印檔案
+UI_COMBAT_FOLDER_NAME_2_27,Crash Reports,クラッシュレポート,崩溃报告,崩潰報告
+UI_COMBAT_FOLDER_NAME_2_28,personal_proj,個人プロジェクト,个人项目,個人項目
+UI_COMBAT_FOLDER_NAME_2_29,backups,バックアップ,备份,備份
+UI_COMBAT_FOLDER_NAME_2_30,unit_tests,ユニットテスト,单元测试,單元測試
+UI_COMBAT_FOLDER_NAME_3_1,XXX,XXX,XXX,XXX
+UI_COMBAT_FOLDER_NAME_3_2,Memes,ミーム,表情包,表情包
+UI_COMBAT_FOLDER_NAME_3_3,test,テスト,测试,測試
+UI_COMBAT_FOLDER_NAME_3_4,Test_final,最終テスト,最终_测试,最終_測試
+UI_COMBAT_FOLDER_NAME_3_5,Pictures_copy,ピクチャ_コピー,图片_副本,圖片_副本
+UI_COMBAT_FOLDER_NAME_3_6,Backup,バックアップ,备份,備份
+UI_COMBAT_FOLDER_NAME_3_7,backup2,バックアップ2,备份2,備份2
+UI_COMBAT_FOLDER_NAME_3_8,hidden,隠し,隐藏,隱藏
+UI_COMBAT_FOLDER_NAME_3_9,NoOpen,あけるな,不要打开,不要打開
+UI_COMBAT_FOLDER_NAME_3_10,SaveData,セーブデータ,存档数据,存檔數據
+UI_COMBAT_FOLDER_NAME_3_11,UserData,ユーザーデータ,用户数据,用戶數據
+UI_COMBAT_FOLDER_NAME_3_12,Mods,MOD,模组,模組
+UI_COMBAT_FOLDER_NAME_3_13,cheats,チート,修改器,修改器
+UI_COMBAT_FOLDER_NAME_3_14,ROMs,ROM,ROM文件,ROM檔案
+UI_COMBAT_FOLDER_NAME_3_15,Configs,コンフィグ,配置文件,設定檔
+UI_COMBAT_FOLDER_NAME_3_16,DLC,DLC,DLC,DLC
+UI_COMBAT_FOLDER_NAME_3_17,OldSaves,過去セーブ,旧存档,舊存檔
+UI_COMBAT_FOLDER_NAME_3_18,guides,ガイド,指南,指南
+UI_COMBAT_FOLDER_NAME_3_19,DevLogs,開発ログ,开发日志,開發日誌
+UI_COMBAT_FOLDER_NAME_3_20,workshop,ワークショップ,创意工坊,創意工坊
+UI_COMBAT_FOLDER_NAME_3_21,save_notes,セーブメモ,存档备注,存檔備註
+UI_COMBAT_FOLDER_NAME_3_22,clan_docs,クラン資料,公会文档,公會文件
+UI_COMBAT_FOLDER_NAME_3_23,replays,リプレイ,回放,回放
+UI_COMBAT_FOLDER_NAME_3_24,saved_clips,セーブ済みクリップ,已保存片段,已保存片段
+UI_COMBAT_FOLDER_NAME_3_25,achievement guides,実績ガイド,成就攻略,成就攻略
+UI_COMBAT_FOLDER_NAME_3_26,server rules,サーバールール,服务器规则,伺服器規則
+UI_COMBAT_FOLDER_NAME_3_27,cheatcodes,チートコード,作弊码,作弊碼
+UI_COMBAT_FOLDER_NAME_3_28,Spam,スパム,垃圾文件,垃圾檔案
+UI_COMBAT_FOLDER_NAME_3_29,cursed,呪われてる,被污染,被污染
+UI_COMBAT_FOLDER_NAME_3_30,funny,おもしろ,搞笑,搞笑
+UI_COMBAT_FOLDER_DESC,My virus senses are tingling…,ウィルスセンサーが反応してる…,我的病毒感应在发作……,我的病毒感應在發作……
+UI_COMBAT_ZIP_FOLDER_NAME_1,compressed.zip,圧縮.zip,压缩.zip,壓縮.zip
+UI_COMBAT_ZIP_FOLDER_NAME_2,part1.zip,パート1.zip,第1部分.zip,第1部分.zip
+UI_COMBAT_ZIP_FOLDER_NAME_3,poses.zip,ポーズ.zip,姿势.zip,姿勢.zip
+UI_COMBAT_ZIP_FOLDER_NAME_4,assignment1.zip,課題1.zip,任务1.zip,任務1.zip
+UI_COMBAT_ZIP_FOLDER_NAME_5,glsl64.zip,glsl64.zip,glsl64.zip,glsl64.zip
+UI_COMBAT_ZIP_FOLDER_NAME_6,_backup.zip,_バックアップ.zip,_备份.zip,_備份.zip
+UI_COMBAT_ZIP_FOLDER_NAME_7,assets.7z,アセット.7z,资产.7z,資產.7z
+UI_COMBAT_ZIP_FOLDER_NAME_8,new(1).7z,新規（1）.7z,新（1）.7z,新（1）.7z
+UI_COMBAT_ZIP_FOLDER_NAME_9,vids.tar,ビデオ.tar,视频.tar,影片.tar
+UI_COMBAT_ZIP_FOLDER_NAME_10,old_save.zip,古いセーブ.zip,旧存档.zip,舊存檔.zip
+UI_COMBAT_ZIP_FOLDER_NAME_11,release_build.rar,リリースビルド.rar,正式版.rar,正式版.rar
+UI_COMBAT_ZIP_FOLDER_NAME_12,cli_tools.zip,cliツール.zip,命令行工具.zip,命令列工具.zip
+UI_COMBAT_ZIP_FOLDER_NAME_13,dist.zip,dist.zip,分发包.zip,分發包.zip
+UI_COMBAT_ZIP_FOLDER_NAME_14,mods.7z,mod.7z,模组.7z,模組.7z
+UI_COMBAT_ZIP_FOLDER_NAME_15,modules.rar,モジュール.rar,模块.rar,模組.rar
+UI_COMBAT_ZIP_FOLDER_NAME_16,debug_logs.zip,デバッグログ.zip,调试日志.zip,調試日誌.zip
+UI_COMBAT_ZIP_FOLDER_NAME_17,hotfix_patch.7z,ホットフィックス.7z,热修补丁.7z,熱修補程式.7z
+UI_COMBAT_ZIP_FOLDER_NAME_18,utils.7z,ユーティリティ.7z,工具集.7z,工具集.7z
+UI_COMBAT_ZIP_FOLDER_NAME_19,reports.zip,レポート.zip,报告.zip,報告.zip
+UI_COMBAT_ZIP_FOLDER_NAME_20,events.rar,イベント.rar,事件.rar,事件.rar
+UI_COMBAT_ZIP_FOLDER_NAME_21,temp.7z,temp.7z,临时文件.7z,暫存檔.7z
+UI_COMBAT_ZIP_FOLDER_NAME_22,part2.7z,パート2.7z,part2.7z,part2.7z
+UI_COMBAT_ZIP_FOLDER_NAME_23,assignment_final.zip,課題（最終版）.zip,最终作业.zip,最終作業.zip
+UI_COMBAT_ZIP_FOLDER_NAME_24,Identifile.zip,Identifile.zip,Identifile.zip,Identifile.zip
+UI_COMBAT_ZIP_FOLDER_NAME_25,hacks.7z,ハック.7z,破解.7z,破解.7z
+UI_COMBAT_ZIP_FOLDER_NAME_26,release.zip,リリース.zip,发布版.zip,發佈版.zip
+UI_COMBAT_ZIP_FOLDER_NAME_27,final_submit_7z,最終提出.7z,最终提交.7z,最終提交.7z
+UI_COMBAT_ZIP_FOLDER_NAME_28,w1nrar.rar,w1nrar.rar,w1nrar.rar,w1nrar.rar
+UI_COMBAT_ZIP_FOLDER_NAME_29,tempz.zip,tempz.zip,临时包.zip,臨時包.zip
+UI_COMBAT_ZIP_FOLDER_NAME_30,extra.zip,エクストラ.zip,额外文件.zip,額外檔案.zip
+UI_COMBAT_ZIP_FOLDER_DESC,My virus senses are tingling…,ウィルスセンサーが反応してる…,我的病毒感应在发作……,我的病毒感應在發作……
+UI_TREASURE_FOLDER_NAME,Treasure,お宝,宝藏,寶藏
+UI_TREASURE_FOLDER_DESC,Various items can be found here!,いろいろなアイテムが見つかるよ！,此处可获取加密物品！,此處可獲取加密物品！
+UI_ADS_FOLDER_NAME,LIMITED OFFER!,限定オファー！,限时特惠！,限時特惠！
+UI_ADS_FOLDER_DESC,Hmm some advertisements...,うーん、何かの広告みたい…,唔，广告时间……,唔，廣告時間……
+UI_CHALLENGE_FOLDER_NAME,Challenge,チャレンジ,挑战,挑戰
+UI_CHALLENGE_FOLDER_DESC,Up for a challenge?,チャレンジする？,敢来试试吗？,敢來試試嗎？
+UI_SHOP_FOLDER_NAME,Shop,ショップ,商店,商店
+UI_SHOP_FOLDER_DESC,Various items can be bought here with coins!,コインでいろいろなアイテムが買えるよ！,消耗金币购买各类程序！,消耗金幣購買各類程式！
+UI_SACRIFICE_FOLDER_NAME,Sacrifice,捧げる,献祭,獻祭
+UI_SACRIFICE_FOLDER_DESC,To lose is to gain,捨てることで得る,失即是得,失即是得
+UI_REWARD_FOLDER_NAME,rewards.exe,報酬.exe,奖励.exe,獎勵.exe
+UI_REWARD_FOLDER_DESC,Rare rewards await...,レアな報酬が待ってる…,稀有奖励静待开启……,稀有獎勵靜待開啟……
+UI_KEY_FOLDER_NAME,Key!,鍵！,钥匙！,鑰匙！
+UI_KEY_FOLDER_DESC,Key to happiness right at your fingertips.,幸せへの鍵はその指先に。,触手可及的幸福密钥。,觸手可及的幸福密鑰。
+UI_BOSS_FOLDER_NAME,Boss,ボス,Boss,Boss
+UI_BOSS_FOLDER_DESC,Something dangerous lurks within...,危険なものが潜んでいそうだ…,高危目标蛰伏中……,高危目標蟄伏中……
+UI_MINIGAME_AIM_FOLDER_NAME,Bang! Bang!,バン！バン！,砰！砰！,砰！砰！
+UI_MINIGAME_AIM_FOLDER_DESC,How good are your shots?,狙いをつけるのは得意かな？,你枪法怎么样？,你槍法怎麼樣？
+UI_MINIGAME_DINO_FOLDER_NAME,Disconnected?!,切断！？,掉线了？！,斷線了？！
+UI_MINIGAME_DINO_FOLDER_DESC,Roarrr!!,ガオー！！,嗷呜！！,嗷嗚！！
+UI_LEVEL_COMPLETE_FOLDER_DESC,"What's in this new drive?","","",""

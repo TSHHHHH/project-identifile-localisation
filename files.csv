@@ -1,0 +1,92 @@
+keys,en,ja,cn,tw
+UI_FILE_NAME_TXT_1,HelloWorld.py,ハローワールド.py,你好世界.py,你好世界.py
+UI_FILE_NAME_TXT_2,Notes(1).txt,メモ（1）.txt,记事本（1）.txt,記事本（1）.txt
+UI_FILE_NAME_TXT_3,Memo.txt,メモ.txt,备忘录.txt,備忘錄.txt
+UI_FILE_NAME_TXT_4,NOT Passwords.txt,パスワードじゃない.txt,不是密码.txt,不是密碼.txt
+UI_FILE_NAME_TXT_5,NotAVirus.txt,ウィルスじゃない.txt,不是病毒.txt,不是病毒.txt
+UI_FILE_NAME_TXT_6,Report_final.docx,レポート_最終版.docx,报告_终版.docx,報告_終版.docx
+UI_FILE_NAME_TXT_7,log.txt,ログ.txt,日志.txt,日誌.txt
+UI_FILE_NAME_TXT_8,project.pdf,プロジェクト.pdf,项目.pdf,專案.pdf
+UI_FILE_NAME_TXT_9,data.csv,データ.csv,数据.csv,數據.csv
+UI_FILE_NAME_TXT_10,New Text.txt,新しいテキスト.txt,新建文本文档.txt,新增文字文件.txt
+UI_FILE_NAME_TXT_11,agenda.txt,ハローワールド.py,你好世界.py,你好世界.py
+UI_FILE_NAME_TXT_12,report_draft.txt,ハローワールド.py,你好世界.py,你好世界.py
+UI_FILE_NAME_TXT_13,save1.txt,ハローワールド.py,你好世界.py,你好世界.py
+UI_FILE_NAME_TXT_14,Nopass.txt,ハローワールド.py,你好世界.py,你好世界.py
+UI_FILE_NAME_TXT_15,feedback.txt,ハローワールド.py,你好世界.py,你好世界.py
+UI_FILE_NAME_TXT_16,final.docx,ハローワールド.py,你好世界.py,你好世界.py
+UI_FILE_NAME_TXT_17,debuglog.txt,ハローワールド.py,你好世界.py,你好世界.py
+UI_FILE_NAME_TXT_18,sales_pitch.pdf,ハローワールド.py,你好世界.py,你好世界.py
+UI_FILE_NAME_TXT_19,inventory.csv,ハローワールド.py,你好世界.py,你好世界.py
+UI_FILE_NAME_TXT_20,staff.csv,ハローワールド.py,你好世界.py,你好世界.py
+UI_FILE_NAME_TXT_21,readme.md,ハローワールド.py,你好世界.py,你好世界.py
+UI_FILE_NAME_TXT_22,myCode.txt,ハローワールド.py,你好世界.py,你好世界.py
+UI_FILE_NAME_TXT_23,mem_dump.dmp,ハローワールド.py,你好世界.py,你好世界.py
+UI_FILE_NAME_TXT_24,config.cfg,ハローワールド.py,你好世界.py,你好世界.py
+UI_FILE_NAME_TXT_25,my_notes.txt,ハローワールド.py,你好世界.py,你好世界.py
+UI_FILE_NAME_TXT_26,AAA.docx,ハローワールド.py,你好世界.py,你好世界.py
+UI_FILE_NAME_TXT_27,crashlog.log,ハローワールド.py,你好世界.py,你好世界.py
+UI_FILE_NAME_TXT_28,release_notes.pdf,ハローワールド.py,你好世界.py,你好世界.py
+UI_FILE_NAME_TXT_29,checklist.txt,ハローワールド.py,你好世界.py,你好世界.py
+UI_FILE_NAME_TXT_30,database.csv,ハローワールド.py,你好世界.py,你好世界.py
+UI_FILE_NAME_MP3_1,Namgang Style.mp3,ナンナムスタイル.mp3,南江Style.mp3,南江Style.mp3
+UI_FILE_NAME_MP3_2,Roll rick.mp3,ロールリック.mp3,Roll rick.mp3,Roll rick.mp3
+UI_FILE_NAME_MP3_3,Jillie Bean.mp3,ジリー?ビーン.mp3,Jillie Bean.mp3,Jillie Bean.mp3
+UI_FILE_NAME_MP3_4,Muma Muma Eh.mp3,ムマムマイェイ.mp3,Muma Muma Eh.mp3,Muma Muma Eh.mp3
+UI_FILE_NAME_MP3_5,Devhour.mp3,デヴアワー.mp3,Devhour.mp3,Devhour.mp3
+UI_FILE_NAME_MP3_6,SHEESH.mp4,シーシュ.mp4,SHEESH.mp4,SHEESH.mp4
+UI_FILE_NAME_MP3_7,CrayFrog.mp3,クレイフロッグ.mp3,CrayFrog.mp3,CrayFrog.mp3
+UI_FILE_NAME_MP3_8,Sound of Noice.mp3,ノイスの音.mp3,Sound of Noice.mp3,Sound of Noice.mp3
+UI_FILE_NAME_MP3_9,The rude sandstorm.mp3,ザ?ルードサンドストーム.mp3,The rude sandstorm.mp3,The rude sandstorm.mp3
+UI_FILE_NAME_MP3_10,Babeh.mp3,ベイベエ.mp3,Babeh.mp3,Babeh.mp3
+UI_FILE_NAME_MP3_11,q1_meeting.mp4,ナンナムスタイル.mp3,南江Style.mp3,南江Style.mp3
+UI_FILE_NAME_MP3_12,tutorial.mp4,ナンナムスタイル.mp4,南江Style.mp3,南江Style.mp3
+UI_FILE_NAME_MP3_13,dududu.mp3,ナンナムスタイル.mp5,南江Style.mp3,南江Style.mp3
+UI_FILE_NAME_MP3_14,uiiai.mp4,ナンナムスタイル.mp6,南江Style.mp3,南江Style.mp3
+UI_FILE_NAME_MP3_15,dancing_baby.mp4,ナンナムスタイル.mp7,南江Style.mp3,南江Style.mp3
+UI_FILE_NAME_MP3_16,hackerman_theme.mp3,ナンナムスタイル.mp8,南江Style.mp3,南江Style.mp3
+UI_FILE_NAME_MP3_17,menu_bgm.ogg,ナンナムスタイル.mp9,南江Style.mp3,南江Style.mp3
+UI_FILE_NAME_MP3_18,timer_chime.mp3,ナンナムスタイル.mp10,南江Style.mp3,南江Style.mp3
+UI_FILE_NAME_MP3_19,T.H.R.I.C.E.mp3,ナンナムスタイル.mp11,南江Style.mp3,南江Style.mp3
+UI_FILE_NAME_MP3_20,DOGESEYE.mp3,ナンナムスタイル.mp12,南江Style.mp3,南江Style.mp3
+UI_FILE_NAME_MP3_21,bespa.mp3,ナンナムスタイル.mp13,南江Style.mp3,南江Style.mp3
+UI_FILE_NAME_MP3_22,ETZY.mp3,ナンナムスタイル.mp14,南江Style.mp3,南江Style.mp3
+UI_FILE_NAME_MP3_23,Gady Laga.mp3,ナンナムスタイル.mp15,南江Style.mp3,南江Style.mp3
+UI_FILE_NAME_MP3_24,KPOPe.mp3,ナンナムスタイル.mp16,南江Style.mp3,南江Style.mp3
+UI_FILE_NAME_MP3_25,LENNIE.mp3,ナンナムスタイル.mp17,南江Style.mp3,南江Style.mp3
+UI_FILE_NAME_MP3_26,Calipao.mp4,ナンナムスタイル.mp18,南江Style.mp3,南江Style.mp3
+UI_FILE_NAME_MP3_27,SylverDev.mp3,ナンナムスタイル.mp19,南江Style.mp3,南江Style.mp3
+UI_FILE_NAME_MP3_28,MEV.mp3,ナンナムスタイル.mp20,南江Style.mp3,南江Style.mp3
+UI_FILE_NAME_MP3_29,Identifile_trailer.mp4,ナンナムスタイル.mp21,南江Style.mp3,南江Style.mp3
+UI_FILE_NAME_MP3_30,shootingstar.mp3,ナンナムスタイル.mp22,南江Style.mp3,南江Style.mp3
+UI_FILE_NAME_IMG_1,Cute Cat.png,かわいいネコ.png,可爱猫咪.png,可愛貓咪.png
+UI_FILE_NAME_IMG_2,Sus dog.jpg,怪しむイヌ.jpg,可疑狗狗.jpg,可疑狗狗.jpg
+UI_FILE_NAME_IMG_3,Photo(1).png,写真（1）.png,照片（1）.png,照片（1）.png
+UI_FILE_NAME_IMG_4,diagram.png,図表.png,图表.png,圖表.png
+UI_FILE_NAME_IMG_5,ScreenShot (1).png,スクリーンショット（1）.png,屏幕截图（1）.png,螢幕截圖（1）.png
+UI_FILE_NAME_IMG_6,profile.png,プロフィール.png,个人资料.png,個人資料.png
+UI_FILE_NAME_IMG_7,Updog.jpg,アップドッグ.jpg,Updog.jpg,Updog.jpg
+UI_FILE_NAME_IMG_8,211839777712.png,211839777712.png,211839777712.png,211839777712.png
+UI_FILE_NAME_IMG_9,Dat Boi.jpeg,ダットボーイ.jpeg,Dat Boi.jpeg,Dat Boi.jpeg
+UI_FILE_NAME_IMG_10,NewFinal FINAL.png,シン?最終最終版.png,新建最终最终版.png,新建最終最終版.png
+UI_FILE_NAME_IMG_11,screenshot11.png,かわいいネコ.png,可爱猫咪.png,可愛貓咪.png
+UI_FILE_NAME_IMG_12,Huh cat.jpg,かわいいネコ.png,可爱猫咪.png,可愛貓咪.png
+UI_FILE_NAME_IMG_13,sad hamster.png,かわいいネコ.png,可爱猫咪.png,可愛貓咪.png
+UI_FILE_NAME_IMG_14,happy cat.png,かわいいネコ.png,可爱猫咪.png,可愛貓咪.png
+UI_FILE_NAME_IMG_15,mockup.png,かわいいネコ.png,可爱猫咪.png,可愛貓咪.png
+UI_FILE_NAME_IMG_16,design.png,かわいいネコ.png,可爱猫咪.png,可愛貓咪.png
+UI_FILE_NAME_IMG_17,banner_.jpg,かわいいネコ.png,可爱猫咪.png,可愛貓咪.png
+UI_FILE_NAME_IMG_18,dwnl_123778662.png,かわいいネコ.png,可爱猫咪.png,可愛貓咪.png
+UI_FILE_NAME_IMG_19,ss_12.jpeg,かわいいネコ.png,可爱猫咪.png,可愛貓咪.png
+UI_FILE_NAME_IMG_20,final final draft.png,かわいいネコ.png,可爱猫咪.png,可愛貓咪.png
+UI_FILE_NAME_IMG_21,peepo_clown.png,かわいいネコ.png,可爱猫咪.png,可愛貓咪.png
+UI_FILE_NAME_IMG_22,moyai_emote.jpg,かわいいネコ.png,可爱猫咪.png,可愛貓咪.png
+UI_FILE_NAME_IMG_23,cat_yes.png,かわいいネコ.png,可爱猫咪.png,可愛貓咪.png
+UI_FILE_NAME_IMG_24,saved.png,かわいいネコ.png,可爱猫咪.png,可愛貓咪.png
+UI_FILE_NAME_IMG_25,header.png,かわいいネコ.png,可爱猫咪.png,可愛貓咪.png
+UI_FILE_NAME_IMG_26,doggo.png,かわいいネコ.png,可爱猫咪.png,可愛貓咪.png
+UI_FILE_NAME_IMG_27,homework_ss.jpg,かわいいネコ.png,可爱猫咪.png,可愛貓咪.png
+UI_FILE_NAME_IMG_28,A.png,かわいいネコ.png,可爱猫咪.png,可愛貓咪.png
+UI_FILE_NAME_IMG_29,meme.jpeg,かわいいネコ.png,可爱猫咪.png,可愛貓咪.png
+UI_FILE_NAME_IMG_30,wiwiwi cat.png,かわいいネコ.png,可爱猫咪.png,可愛貓咪.png
+UI_FILE_COIN_DESC,Chance to obtain coins!,コインを手に入れるチャンス！,有机会获得金币！,有機會獲得金幣！
