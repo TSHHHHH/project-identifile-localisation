@@ -1,92 +1,92 @@
-keys,en,ja,cn,tw
-ACHIEVEMENT_TITLE_1,"Hello World!","","",""
-ACHIEVEMENT_DESC_1,"Identified your first virus","","",""
-ACHIEVEMENT_TITLE_2,"Is that a virus?","","",""
-ACHIEVEMENT_DESC_2,"Identified {x} spore viruses","","",""
-ACHIEVEMENT_TITLE_3,"Creepy, spooky skeletons","","",""
-ACHIEVEMENT_DESC_3,"Identified {x} Skull viruses","","",""
-ACHIEVEMENT_TITLE_4,"Get Horsed!","","",""
-ACHIEVEMENT_DESC_4,"Identified {x} Trojan viruses","","",""
-ACHIEVEMENT_TITLE_5,"LASERS!!","","",""
-ACHIEVEMENT_DESC_5,"Identified {x} Diva viruses","","",""
-ACHIEVEMENT_TITLE_6,"Decompressed","","",""
-ACHIEVEMENT_DESC_6,"Identified a Zipbomb","","",""
-ACHIEVEMENT_TITLE_7,"Moai Moai Kyun!","","",""
-ACHIEVEMENT_DESC_7,"Identified {x} Moai viruses","","",""
-ACHIEVEMENT_TITLE_8,"User not found.","","",""
-ACHIEVEMENT_DESC_8,"Identified {x} User viruses","","",""
-ACHIEVEMENT_TITLE_9,"It's a bug, not a feature","","",""
-ACHIEVEMENT_DESC_9,"Identified the first bug","","",""
-ACHIEVEMENT_TITLE_10,"Formatted HDD","","",""
-ACHIEVEMENT_DESC_10,"Explored a drive","","",""
-ACHIEVEMENT_TITLE_11,"Virus Scanner","","",""
-ACHIEVEMENT_DESC_11,"Identified {x} viruses","","",""
-ACHIEVEMENT_TITLE_12,"This is so healthy!","","",""
-ACHIEVEMENT_DESC_12,"Consumed {x} health consumables","","",""
-ACHIEVEMENT_TITLE_13,".exe","","",""
-ACHIEVEMENT_DESC_13,"Used an executable file for the first time","","",""
-ACHIEVEMENT_TITLE_14,"Hide and Seek","","",""
-ACHIEVEMENT_DESC_14,"Identified {x} Worm viruses","","",""
-ACHIEVEMENT_TITLE_15,"Spyderman","","",""
-ACHIEVEMENT_DESC_15,"Identified {x} Spyder viruses","","",""
-ACHIEVEMENT_TITLE_16,"Eggcellent","","",""
-ACHIEVEMENT_DESC_16,"Identified {x} SpyderEggs viruses","","",""
-ACHIEVEMENT_TITLE_17,"Help?","","",""
-ACHIEVEMENT_DESC_17,"Identified {x} Helper viruses","","",""
-ACHIEVEMENT_TITLE_18,"Reboot Failed","","",""
-ACHIEVEMENT_DESC_18,"Identified {x} BootSector viruses","","",""
-ACHIEVEMENT_TITLE_19,"Mama, may I have cookie?","","",""
-ACHIEVEMENT_DESC_19,"Identified {x} CookieM0nst3r viruses","","",""
-ACHIEVEMENT_TITLE_20,"Cleared your web cache","","",""
-ACHIEVEMENT_DESC_20,"Identified the web weaver","","",""
-ACHIEVEMENT_TITLE_21,"Will it hit the corner?","","",""
-ACHIEVEMENT_DESC_21,"Stared at the screen saver for a total of {x} seconds","","",""
-ACHIEVEMENT_TITLE_22,"So close!","","",""
-ACHIEVEMENT_DESC_22,"Stared at the screen saver for a total of {x} seconds","","",""
-ACHIEVEMENT_TITLE_23,"Why am I still watching this logo?","","",""
-ACHIEVEMENT_DESC_23,"Stared at the screen saver for a total of {x} seconds","","",""
-ACHIEVEMENT_TITLE_24,"I swear it's getting closer...","","",""
-ACHIEVEMENT_DESC_24,"Stared at the screen saver for a total of {x} seconds","","",""
-ACHIEVEMENT_TITLE_25,"It's not even about the corner anymore...","","",""
-ACHIEVEMENT_DESC_25,"Stared at the screen saver for a total of {x} seconds","","",""
-ACHIEVEMENT_TITLE_26,"MOM GET THE CAMERA!!","","",""
-ACHIEVEMENT_DESC_26,"It hit the corner. Happy now?","","",""
-ACHIEVEMENT_TITLE_27,"It's a bird! It's a plane!","","",""
-ACHIEVEMENT_DESC_27,"Identified {x} Byrd viruses","","",""
-ACHIEVEMENT_TITLE_28,"Read people, READ!!","","",""
-ACHIEVEMENT_DESC_28,"Identified {x} Book viruses","","",""
-ACHIEVEMENT_TITLE_29,"Sky High Club","","",""
-ACHIEVEMENT_DESC_29,"Identified {x} Conficker viruses","","",""
-ACHIEVEMENT_TITLE_30,"Nuclear Meltdown","","",""
-ACHIEVEMENT_DESC_30,"Identified {x} Stuxnet viruses","","",""
-ACHIEVEMENT_TITLE_31,"Gotta close em all","","",""
-ACHIEVEMENT_DESC_31,"Identified {x} Popper viruses","","",""
-ACHIEVEMENT_TITLE_32,"DDOSed","","",""
-ACHIEVEMENT_DESC_32,"Identified {x} Smurf viruses","","",""
-ACHIEVEMENT_TITLE_33,"Do you even spin bro?","","",""
-ACHIEVEMENT_DESC_33,"Identified {x} Allaple viruses","","",""
-ACHIEVEMENT_TITLE_34,"I see you","","",""
-ACHIEVEMENT_DESC_34,"Identified {x} iSpy viruses","","",""
-ACHIEVEMENT_TITLE_35,"Stop horsing around!","","",""
-ACHIEVEMENT_DESC_35,"Identified {x} PegaSUS viruses","","",""
-ACHIEVEMENT_TITLE_36,"Locked out","","",""
-ACHIEVEMENT_DESC_36,"Identified {x} Lockbit viruses","","",""
-ACHIEVEMENT_TITLE_37,"The root sandbox","","",""
-ACHIEVEMENT_DESC_37,"Identified {x} Rootkit viruses","","",""
-ACHIEVEMENT_TITLE_38,"Coookooooo","","",""
-ACHIEVEMENT_DESC_38,"Identified {x} Cukoo viruses","","",""
-ACHIEVEMENT_TITLE_39,"Journey to the desk","","",""
-ACHIEVEMENT_DESC_39,"Identified {x} Nimda viruses","","",""
-ACHIEVEMENT_TITLE_40,"Botnetted","","",""
-ACHIEVEMENT_DESC_40,"Identified {x} Mirai viruses","","",""
-ACHIEVEMENT_TITLE_41,"Careful Whisper","","",""
-ACHIEVEMENT_DESC_41,"Identified {x} Sasser viruses","","",""
-ACHIEVEMENT_TITLE_42,"Watch Outlook!","","",""
-ACHIEVEMENT_DESC_42,"Identified {x} Melissa viruses","","",""
-ACHIEVEMENT_TITLE_43,"Hide your crypto wallets!","","",""
-ACHIEVEMENT_DESC_43,"Identified {x} Zetabot viruses","","",""
-UNLOCK_CURSOR_1,"Unlocked the Clicking Cursor!","クリックカーソルをアンロックしました！","已解锁点击光标！","已解鎖點擊游標！"
-UNLOCK_CURSOR_2,"Unlocked the Identifying Cursor!","識別カーソルをアンロックしました！","已解锁识别光标！","已解鎖識別游標！"
-UNLOCK_CURSOR_3,"Unlocked the Selection Cursor!","選択カーソルをアンロックしました！","已解锁选择光标！","已解鎖選擇游標！"
-UNLOCK_WIDGET_1,"Unlocked the Attack Widget!","攻撃用ウィジェットをアンロックしました！","已解锁攻击型插件！","已解鎖攻擊型插件！"
-UNLOCK_WIDGET_2,"Unlocked the Health Widget!","ヒール用ウィジェットをアンロックしました！","已解锁生命型插件！","已解鎖生命型插件！"
+﻿keys,en,ja,cn,tw,ptbr,es,kr,de,ru,pl,fr,ro
+ACHIEVEMENT_TITLE_1,Hello World!,,,,,¡Hola Mundo!,,,Hello World!,,,
+ACHIEVEMENT_DESC_1,Identified your first virus,,,,,Identifica tu primer virus,,,Индентифицировать свой первый вирус,,,
+ACHIEVEMENT_TITLE_2,Is that a virus?,,,,,¿Es eso un virus?,,,Это вирус?,,,
+ACHIEVEMENT_DESC_2,Identified {x} spore viruses,,,,,Identifica {x} 'Virus1_Espora',,,Идентифицировать {x} вирусов-спор,,,
+ACHIEVEMENT_TITLE_3,"Creepy, spooky skeletons",,,,,"Creepy, spooky skeletons",,,"Creepy, spooky skeletons",,,
+ACHIEVEMENT_DESC_3,Identified {x} Skull viruses,,,,,Identifica {x} 'Virus2_Calavera',,,Идентифицировать {x} вирусов-черепов,,,
+ACHIEVEMENT_TITLE_4,Get Horsed!,,,,,¡Domado!,,,По коням!,,,
+ACHIEVEMENT_DESC_4,Identified {x} Trojan viruses,,,,,Identifica {x} 'Virus3_Troyano',,,Идентифицировать {x} Троянов,,,
+ACHIEVEMENT_TITLE_5,LASERS!!,,,,,¡Láseres!,,,ЛАЗЕРЫ!!,,,
+ACHIEVEMENT_DESC_5,Identified {x} Diva viruses,,,,,Identifica {x} 'Virus4_Diva',,,Идентифицировать {x} Див,,,
+ACHIEVEMENT_TITLE_6,Decompressed,,,,,¡Descomprimido!,,,Разархивирован,,,
+ACHIEVEMENT_DESC_6,Identified a Zipbomb,,,,,Identifica un 'Virus5_BombaZip',,,Идентифицировать Zip-бомбу,,,
+ACHIEVEMENT_TITLE_7,Moai Moai Kyun!,,,,,¡Moai Moai Kyun!,,,Ми-ми-ми Моаи!,,,
+ACHIEVEMENT_DESC_7,Identified {x} Moai viruses,,,,,Identifica {x} 'Virus6_Moai',,,Идентифицировать {x} вирусов Моаи,,,
+ACHIEVEMENT_TITLE_8,User not found.,,,,,Usuario no Identficado,,,Пользователь не найден.,,,
+ACHIEVEMENT_DESC_8,Identified {x} User viruses,,,,,Identifica {x} 'Virus7_Usuario',,,Идентифицировать {x} вирусов-пользователей,,,
+ACHIEVEMENT_TITLE_9,"It's a bug, not a feature",,,,,"Es un bug, no una característica",,,"Это баг, а не фича",,,
+ACHIEVEMENT_DESC_9,Identified the first bug,,,,,Identifica a 'Boss1_ElPrimerBoss',,,Идентифицировать первый баг,,,
+ACHIEVEMENT_TITLE_10,Formatted HDD,,,,,HDD Formateado,,,Отформатированный жесткий диск,,,
+ACHIEVEMENT_DESC_10,Explored a drive,,,,,Explora un disco,,,Исследовать диск,,,
+ACHIEVEMENT_TITLE_11,Virus Scanner,,,,,Virus Escáner,,,Сканер вирусов,,,
+ACHIEVEMENT_DESC_11,Identified {x} viruses,,,,,Identifica {x} virus,,,Идентифицировать {x} вирусов,,,
+ACHIEVEMENT_TITLE_12,This is so healthy!,,,,,¡Esto es muy sano!,,,Полезно для здоровья!,,,
+ACHIEVEMENT_DESC_12,Consumed {x} health consumables,,,,,Consume {x} pociones de vidas,,,Использовать {x} лечебных предметов,,,
+ACHIEVEMENT_TITLE_13,.exe,,,,,.exe,,,.exe,,,
+ACHIEVEMENT_DESC_13,Used an executable file for the first time,,,,,Usa un archivo ejecutable por primera vez,,,Впервые использовать исполняемый файл,,,
+ACHIEVEMENT_TITLE_14,Hide and Seek,,,,,Escondite,,,Прятки,,,
+ACHIEVEMENT_DESC_14,Identified {x} Worm viruses,,,,,Identifica {x} 'Virus8_Gusano',,,Идентифицировать {x} вирусов-червей,,,
+ACHIEVEMENT_TITLE_15,Spyderman,,,,,Spyderman,,,Человек-шпаук,,,
+ACHIEVEMENT_DESC_15,Identified {x} Spyder viruses,,,,,Identifica {x} 'Virus9_Aracnospía',,,Идентифицировать {x} шпауков,,,
+ACHIEVEMENT_TITLE_16,Eggcellent,,,,,Inspección de Pascua,,,Вылупительно,,,
+ACHIEVEMENT_DESC_16,Identified {x} SpyderEggs viruses,,,,,Identifica {x} 'Virus10_HuevoAracnospía',,,Идентифицировать {x} шпаучих яиц,,,
+ACHIEVEMENT_TITLE_17,Help?,,,,,¿Ayuda?,,,Нужна помощь?,,,
+ACHIEVEMENT_DESC_17,Identified {x} Helper viruses,,,,,Identifica {x} 'Virus11_Ayudante',,,Идентифицировать {x} вирусов-помощников,,,
+ACHIEVEMENT_TITLE_18,Reboot Failed,,,,,Reboot fallado exitosamente,,,Перезагрузка не удалась,,,
+ACHIEVEMENT_DESC_18,Identified {x} BootSector viruses,,,,,Identifica {x} 'Virus12_BootSector',,,Идентифицировать {x} БутСекторов,,,
+ACHIEVEMENT_TITLE_19,"Mama, may I have cookie?",,,,,¡Mamá! ¿Puedo comerme una galleta?,,,"Мам, можно печеньку?",,,
+ACHIEVEMENT_DESC_19,Identified {x} CookieM0nst3r viruses,,,,,Identifica {x} 'Virus13_MonstruoGalletas',,,Идентифицировать {x} КукиМ0нстр0в,,,
+ACHIEVEMENT_TITLE_20,Cleared your web cache,,,,,Limpia tu cache web,,,Веб-кэш был очищен,,,
+ACHIEVEMENT_DESC_20,Identified the web weaver,,,,,Identifica 'Boss2_LaTejedoraWeb',,,Идентифицировать ткачиху,,,
+ACHIEVEMENT_TITLE_21,Will it hit the corner?,,,,,¿Tocará la esquina?,,,Попадет в угол?,,,
+ACHIEVEMENT_DESC_21,Stared at the screen saver for a total of {x} seconds,,,,,Mira el salvapantallas por un total de {x} segundos,,,Смотреть на заставку в общей сложности {x} секунд,,,
+ACHIEVEMENT_TITLE_22,So close!,,,,,¡Se ha quedado cerca!,,,Было близко!,,,
+ACHIEVEMENT_DESC_22,Stared at the screen saver for a total of {x} seconds,,,,,Mira el salvapantallas por un total de {x} segundos,,,Смотреть на заставку в общей сложности {x} секунд,,,
+ACHIEVEMENT_TITLE_23,Why am I still watching this logo?,,,,,¿Por qué sigo mirando este logo?,,,Почему я все еще смотрю на этот логотип?,,,
+ACHIEVEMENT_DESC_23,Stared at the screen saver for a total of {x} seconds,,,,,Mira el salvapantallas por un total de {x} segundos,,,Смотреть на заставку в общей сложности {x} секунд,,,
+ACHIEVEMENT_TITLE_24,I swear it's getting closer...,,,,,Te juro que cada vez está más cerca,,,"Клянусь, он все ближе...",,,
+ACHIEVEMENT_DESC_24,Stared at the screen saver for a total of {x} seconds,,,,,Mira el salvapantallas por un total de {x} segundos,,,Смотреть на заставку в общей сложности {x} секунд,,,
+ACHIEVEMENT_TITLE_25,It's not even about the corner anymore...,,,,,Ya ni si quiera roza la esquina,,,Теперь дело даже не в угле...,,,
+ACHIEVEMENT_DESC_25,Stared at the screen saver for a total of {x} seconds,,,,,Mira el salvapantallas por un total de {x} segundos,,,Смотреть на заставку в общей сложности {x} секунд,,,
+ACHIEVEMENT_TITLE_26,MOM GET THE CAMERA!!,,,,,¡MAMÁ! ¡SACA LA CÁMARA!!!,,,"МАМ, НЕСИ КАМЕРУ!!",,,
+ACHIEVEMENT_DESC_26,It hit the corner. Happy now?,,,,,Ha tocado la esquina. ¿Ya eres feliz?,,,Он попал прямо в угол. Теперь счастливы?,,,
+ACHIEVEMENT_TITLE_27,It's a bird! It's a plane!,,,,,¡Es un pájaro! ¡Es un avión!,,,Это птица! Это самолет!,,,
+ACHIEVEMENT_DESC_27,Identified {x} Byrd viruses,,,,,Identifica {x} 'Virus14_Pájaro',,,Идентифицировать {x} вирусов-птиц,,,
+ACHIEVEMENT_TITLE_28,"Read people, READ!!",,,,,"Leer gente, ¡¡LEER!!",,,"Читайте, люди, ЧИТАЙТЕ!!",,,
+ACHIEVEMENT_DESC_28,Identified {x} Book viruses,,,,,Identifica {x} 'Virus15_Libro',,,Идентифицировать {x} вирусов-книг,,,
+ACHIEVEMENT_TITLE_29,Sky High Club,,,,,Club del Cielo Alto,,,Клуб высоких удовольствий,,,
+ACHIEVEMENT_DESC_29,Identified {x} Conficker viruses,,,,,Identifica {x} 'Virus16_Conficker',,,Идентифицировать {x} вирусов Conficker,,,
+ACHIEVEMENT_TITLE_30,Nuclear Meltdown,,,,,Fusión nuclear,,,Ядерный расплав,,,
+ACHIEVEMENT_DESC_30,Identified {x} Stuxnet viruses,,,,,Identifica {x} 'Virus17_Stuxnet',,,Идентифицировать {x} вирусов Stuxnet,,,
+ACHIEVEMENT_TITLE_31,Gotta close em all,,,,,Debo cerrarlos todos,,,Закрой их всех,,,
+ACHIEVEMENT_DESC_31,Identified {x} Popper viruses,,,,,Identifica {x} 'Virus18_Anuncio',,,Идентифицировать {x} Всплывашек,,,
+ACHIEVEMENT_TITLE_32,DDOSed,,,,,DDOSed,,,Вас задудосили,,,
+ACHIEVEMENT_DESC_32,Identified {x} Smurf viruses,,,,,Identifica {x} 'Virus19_Smurf',,,Идентифицировать {x} вирусов-смурфов,,,
+ACHIEVEMENT_TITLE_33,Do you even spin bro?,,,,,¿Acaso puedes girar?,,,Do you even spin bro?,,,
+ACHIEVEMENT_DESC_33,Identified {x} Allaple viruses,,,,,Identifica {x} 'Virus20_Allaple',,,Идентифицировать {x} вирусов Allaple,,,
+ACHIEVEMENT_TITLE_34,I see you,,,,,Te veo,,,Я тебя вижу,,,
+ACHIEVEMENT_DESC_34,Identified {x} iSpy viruses,,,,,Identifica {x} 'Virus21_iespía',,,Идентифицировать {x} вирусов iSpy,,,
+ACHIEVEMENT_TITLE_35,Stop horsing around!,,,,,¡Dejar de cabalgar!,,,Хватит коней гонять!,,,
+ACHIEVEMENT_DESC_35,Identified {x} PegaSUS viruses,,,,,Identifica {x} 'Virus22_PegaSUS',,,Идентифицировать {x} вирусов PegaSUS,,,
+ACHIEVEMENT_TITLE_36,Locked out,,,,,Bloqueado,,,Заблокирован,,,
+ACHIEVEMENT_DESC_36,Identified {x} Lockbit viruses,,,,,Identifica {x} 'Virus23_Lockbit',,,Идентифицировать {x} вирусов Lockbit,,,
+ACHIEVEMENT_TITLE_37,The root sandbox,,,,,La raíz sandbox,,,Корневая песочница,,,
+ACHIEVEMENT_DESC_37,Identified {x} Rootkit viruses,,,,,Identifica {x} 'Virus24_Rootkit',,,Идентифицировать {x} вирусов Руткит,,,
+ACHIEVEMENT_TITLE_38,Coookooooo,,,,,Cooookooooo,,,Кууу-кууууу,,,
+ACHIEVEMENT_DESC_38,Identified {x} Cukoo viruses,,,,,Identifica {x} 'Virus25_Cukoo',,,Идентифицировать {x} Ку-ку вирусов,,,
+ACHIEVEMENT_TITLE_39,Journey to the desk,,,,,Aventura al escritorio,,,Путешествие на рабочий стол,,,
+ACHIEVEMENT_DESC_39,Identified {x} Nimda viruses,,,,,Identifica {x} 'Virus26_Nimda',,,Идентифицировать {x} вирусов Nimda,,,
+ACHIEVEMENT_TITLE_40,Botnetted,,,,,Botneteado,,,Ботнетнулся,,,
+ACHIEVEMENT_DESC_40,Identified {x} Mirai viruses,,,,,Identifica {x} 'Virus27_Mirai',,,Идентифицировать {x} вирусов Mirai,,,
+ACHIEVEMENT_TITLE_41,Careful Whisper,,,,,Susurro delicado,,,Неосторожный шепот,,,
+ACHIEVEMENT_DESC_41,Identified {x} Sasser viruses,,,,,Identifica {x} 'Virus28_Sasser',,,Идентифицировать {x} вирусов Sasser,,,
+ACHIEVEMENT_TITLE_42,Watch Outlook!,,,,,¡Revisa el Correo!,,,Берегись Outlook!,,,
+ACHIEVEMENT_DESC_42,Identified {x} Melissa viruses,,,,,Identifica {x} 'Virus29_Melissa',,,Идентифицировать {x} вирусов Melissa,,,
+ACHIEVEMENT_TITLE_43,Hide your crypto wallets!,,,,,¡Oculta tus billeteras de criptomonedas!,,,Прячь криптокашельки!,,,
+ACHIEVEMENT_DESC_43,Identified {x} Zetabot viruses,,,,,Identrifica {x} 'Virus30_ZBot',,,Идентифицировать {x} вирусов Zetabot,,,
+UNLOCK_CURSOR_1,Unlocked the Clicking Cursor!,クリックカーソルをアンロックしました！,已解锁点击光标！,已解鎖點擊游標！,Desbloqueou o Cursor de Clique!,¡Desbloqueado el Cursor de Clicks!,,,Разблокирован Кликающий курсор!,,,
+UNLOCK_CURSOR_2,Unlocked the Identifying Cursor!,識別カーソルをアンロックしました！,已解锁识别光标！,已解鎖識別游標！,Desbloqueou o Cursor de Identificação!,¡Desbloqueado el Cursor de Identificación!,,,Разблокирован Курсор-идентификатор!,,,
+UNLOCK_CURSOR_3,Unlocked the Selection Cursor!,選択カーソルをアンロックしました！,已解锁选择光标！,已解鎖選擇游標！,Desbloqueou o Cursor de Seleção!,¡Desbloqueado el Cursor de Selección!,,,Разблокирован Курсор-выделитель!,,,
+UNLOCK_WIDGET_1,Unlocked the Attack Widget!,攻撃用ウィジェットをアンロックしました！,已解锁攻击型插件！,已解鎖攻擊型插件！,Desbloqueou o Widget de Ataque!,¡Desbloqueado el Widget de Ataque!,,,Разблокирован Виджет атаки!,,,
+UNLOCK_WIDGET_2,Unlocked the Health Widget!,ヒール用ウィジェットをアンロックしました！,已解锁生命型插件！,已解鎖生命型插件！,Desbloqueou o Widget de Vida!,¡Desbloqueado el Widget de Vida!,,,Разблокирован Вижет здоровья!,,,

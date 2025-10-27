@@ -1,48 +1,48 @@
-keys,en,ja,cn,tw
-UI_WIDGET_NAME_1,Attack Widget,攻撃用ウィジェット,攻击型插件,攻擊型插件
-UI_WIDGET_DESC_1,Starts with 1 additional base attack.,基本攻撃力＋1でスタート,额外+1基础攻击力开局,額外+1基礎攻擊力開局
-UI_WIDGET_UNLOCK_DESC_1,Identify The First Bug to unlock the Attack Widget.,最初のバグを識別して「攻撃用ウィジェット」をアンロック,识别第一个Bug以解锁攻击型插件,識別第一個Bug以解鎖攻擊型插件
-UI_WIDGET_NAME_2,Health Widget,ヒール用ウィジェット,生命型插件,生命型插件
-UI_WIDGET_DESC_2,Starts with 1 additional heart.,ハート＋1でスタート,额外+1颗心开局,額外+1顆心開局
-UI_WIDGET_UNLOCK_DESC_2,Consume 30 health potions to unlock the Health Widget.,30個のヒールポーションを使用して「ヒール用ウィジェット」をアンロック,使用30个生命药水以解锁生命型插件,使用30個生命藥水以解鎖生命型插件
-UI_WIDGET_NAME_3,WIP,WIP,WIP,WIP
-UI_WIDGET_DESC_3,WIP,WIP,WIP,WIP
-UI_WIDGET_UNLOCK_DESC_3,WIP,WIP,WIP,WIP
-UI_WIDGET_NAME_4,WIP,WIP,WIP,WIP
-UI_WIDGET_DESC_4,WIP,WIP,WIP,WIP
-UI_WIDGET_UNLOCK_DESC_4,WIP,WIP,WIP,WIP
-UI_WIDGET_NAME_5,WIP,WIP,WIP,WIP
-UI_WIDGET_DESC_5,WIP,WIP,WIP,WIP
-UI_WIDGET_UNLOCK_DESC_5,WIP,WIP,WIP,WIP
-UI_WIDGET_NAME_6,WIP,WIP,WIP,WIP
-UI_WIDGET_DESC_6,WIP,WIP,WIP,WIP
-UI_WIDGET_UNLOCK_DESC_6,WIP,WIP,WIP,WIP
-UI_WIDGET_NAME_7,WIP,WIP,WIP,WIP
-UI_WIDGET_DESC_7,WIP,WIP,WIP,WIP
-UI_WIDGET_UNLOCK_DESC_7,WIP,WIP,WIP,WIP
-UI_WIDGET_NAME_8,WIP,WIP,WIP,WIP
-UI_WIDGET_DESC_8,WIP,WIP,WIP,WIP
-UI_WIDGET_UNLOCK_DESC_8,WIP,WIP,WIP,WIP
-UI_WIDGET_NAME_9,WIP,WIP,WIP,WIP
-UI_WIDGET_DESC_9,WIP,WIP,WIP,WIP
-UI_WIDGET_UNLOCK_DESC_9,WIP,WIP,WIP,WIP
-UI_WIDGET_NAME_10,WIP,WIP,WIP,WIP
-UI_WIDGET_DESC_10,WIP,WIP,WIP,WIP
-UI_WIDGET_UNLOCK_DESC_10,WIP,WIP,WIP,WIP
-UI_WIDGET_NAME_11,WIP,WIP,WIP,WIP
-UI_WIDGET_DESC_11,WIP,WIP,WIP,WIP
-UI_WIDGET_UNLOCK_DESC_11,WIP,WIP,WIP,WIP
-UI_WIDGET_NAME_12,WIP,WIP,WIP,WIP
-UI_WIDGET_DESC_12,WIP,WIP,WIP,WIP
-UI_WIDGET_UNLOCK_DESC_12,WIP,WIP,WIP,WIP
-UI_WIDGET_NAME_13,WIP,WIP,WIP,WIP
-UI_WIDGET_DESC_13,WIP,WIP,WIP,WIP
-UI_WIDGET_UNLOCK_DESC_13,WIP,WIP,WIP,WIP
-UI_WIDGET_NAME_14,WIP,WIP,WIP,WIP
-UI_WIDGET_DESC_14,WIP,WIP,WIP,WIP
-UI_WIDGET_UNLOCK_DESC_14,WIP,WIP,WIP,WIP
-UI_WIDGET_NAME_15,WIP,WIP,WIP,WIP
-UI_WIDGET_DESC_15,WIP,WIP,WIP,WIP
-UI_WIDGET_UNLOCK_DESC_15,WIP,WIP,WIP,WIP
-UI_WIDGET_RANDOM_NAME,Random,ランダム,随机,隨機
-UI_WIDGET_RANDOM_DESC,Starts with a random unlocked widget.,アンロック済みウィジェットの中からランダムで1つを持ってスタート,从已解锁插件中随机选一个开局,從已解鎖插件中隨機選一個開局
+﻿keys,en,ja,cn,tw,ptbr,es,kr,de,ru,pl,fr,ro
+UI_WIDGET_NAME_1,Attack Widget,攻撃用ウィジェット,攻击型插件,攻擊型插件,,Widget de Ataque,,,Виджет атаки,,,
+UI_WIDGET_DESC_1,Starts with 1 additional base attack.,基本攻撃力＋1でスタート,额外+1基础攻击力开局,額外+1基礎攻擊力開局,,Empieza con 1 de ataque base adicional,,,Начните игру с +1 к базовой атаке.,,,
+UI_WIDGET_UNLOCK_DESC_1,Identify The First Bug to unlock the Attack Widget.,最初のバグを識別して「攻撃用ウィジェット」をアンロック,识别第一个Bug以解锁攻击型插件,識別第一個Bug以解鎖攻擊型插件,,Identifica a 'Boss1_ElPrimerBug' para desbloquear el Widet de Ataque,,,"Идентифицируйте Первый Баг, чтобы разблокировать виджет атаки.",,,
+UI_WIDGET_NAME_2,Health Widget,ヒール用ウィジェット,生命型插件,生命型插件,,Widget de Vida,,,Виджет здоровья,,,
+UI_WIDGET_DESC_2,Starts with 1 additional heart.,ハート＋1でスタート,额外+1颗心开局,額外+1顆心開局,,Empieza con 1 corazón extra,,,Начните игру с 1 дополнительным сердцем.,,,
+UI_WIDGET_UNLOCK_DESC_2,Consume 30 health potions to unlock the Health Widget.,30個のヒールポーションを使用して「ヒール用ウィジェット」をアンロック,使用30个生命药水以解锁生命型插件,使用30個生命藥水以解鎖生命型插件,,Consume 30 pociones de vida para desbloquear el Widget de Vida,,,"Используйте 30 зелий лечения, чтобы разблокировать виджет здоровья.",,,
+UI_WIDGET_NAME_3,Wealth Widget,,,,,Widget de Riqueza,,,,,,
+UI_WIDGET_DESC_3,Starts with 20 additional coins,,,,,Empieza con 20 monedas,,,,,,
+UI_WIDGET_UNLOCK_DESC_3,Collect a total of {x} coins to unlock the Wealth Widget.,,,,,En Desarollo...,,,,,,
+UI_WIDGET_NAME_4,Key Widget,,,,,Widget de Llaves,,,,,,
+UI_WIDGET_DESC_4,Starts with 2 additional keys,,,,,Empieza con 2 llaves,,,,,,
+UI_WIDGET_UNLOCK_DESC_4,Consume a total of {x} keys to unlock the Key Widget.,,,,,En Desarollo...,,,,,,
+UI_WIDGET_NAME_5,Shield Widget,,,,,Widget Escudo,,,,,,
+UI_WIDGET_DESC_5,Starts with 2 additional shields to unlock the Shield Widget.,,,,,Empieza con 2 escudos,,,,,,
+UI_WIDGET_UNLOCK_DESC_5,Collect {x} firewalls to unlock the Shield Widget.,,,,,En Desarollo...,,,,,,
+UI_WIDGET_NAME_6,Crit Rate Widget,,,,,Widget de Probabilidad Crítico,,,,,,
+UI_WIDGET_DESC_6,Start with 10% additional crit chance,,,,,Empieza con un 10% más de probabilidad de crítico,,,,,,
+UI_WIDGET_UNLOCK_DESC_6,Deal a total of {x} critical hits to unlock the Crit Rate Widget.,,,,,En Desarollo...,,,,,,
+UI_WIDGET_NAME_7,Crit Damage Widget,,,,,Widget de Daño Crítico,,,,,,
+UI_WIDGET_DESC_7,Start with 100% additional crit damage,,,,,Empieza con un 50% más de daño crítico,,,,,,
+UI_WIDGET_UNLOCK_DESC_7,Deal a total of {x} critical damage to unlock the Crit Damage Widget.,,,,,En Desarollo...,,,,,,
+UI_WIDGET_NAME_8,Mod Widget,,,,,Widget de Mod,,,,,,
+UI_WIDGET_DESC_8,Start with 1 random Mod,,,,,Empieza con un Mod aleatorio,,,,,,
+UI_WIDGET_UNLOCK_DESC_8,Collect {x} unique MODs to unlock the Mod Widget.,,,,,En Desarollo...,,,,,,
+UI_WIDGET_NAME_9,EXE Widget,,,,,Widget de EXE,,,,,,
+UI_WIDGET_DESC_9,Start with 1 random EXE,,,,,Empieza con un exe aleatorio,,,,,,
+UI_WIDGET_UNLOCK_DESC_9,Collect {x} unique EXEs to unlock the EXE Widget.,,,,,En Desarollo...,,,,,,
+UI_WIDGET_NAME_10,Combo Widget,,,,,Widget de Combo,,,,,,
+UI_WIDGET_DESC_10,Start with 2 additional combo capacity ,,,,,Empieza con 2 de máximo combo extra,,,,,,
+UI_WIDGET_UNLOCK_DESC_10,Identify {x} enemies at max combo to unlock the Combo Widget.,,,,,En Desarollo...,,,,,,
+UI_WIDGET_NAME_11,Dodge Widget,,,,,Widget de Esquive,,,,,,
+UI_WIDGET_DESC_11,Start with 10% additional dodge chance,,,,,Empieza con un 10% más de probabilidad de esquive,,,,,,
+UI_WIDGET_UNLOCK_DESC_11,Dodge a total of {x} hits to unlock the Dodge Widget.,,,,,En Desarollo...,,,,,,
+UI_WIDGET_NAME_12,Explorer Widget,,,,,Widget de Revelación,,,,,,
+UI_WIDGET_DESC_12,First map is fully revealed,,,,,Empieza con el mapa revelado al 100%,,,,,,
+UI_WIDGET_UNLOCK_DESC_12,Fully explore folders up till stage {x} to unlock the Explorer Widget.,,,,,En Desarollo...,,,,,,
+UI_WIDGET_NAME_13,Shiny Hunter Widget,,,,,???,,,,,,
+UI_WIDGET_DESC_13,Shiny variants of viruses spawn rate is doubled,,,,,En próximas actualizaciones...,,,,,,
+UI_WIDGET_UNLOCK_DESC_13,Identify {x} shiny virus to unlock the Shiny Hunter Widget,,,,,En próximas actualizaciones...,,,,,,
+UI_WIDGET_NAME_14,???,???,???,???,???,???,???,???,???,???,???,???
+UI_WIDGET_DESC_14,Coming soon in future updates.,,,,,En próximas actualizaciones...,,,,,,
+UI_WIDGET_UNLOCK_DESC_14,Coming soon in future updates.,,,,,En próximas actualizaciones...,,,,,,
+UI_WIDGET_NAME_15,???,???,???,???,???,???,???,???,???,???,???,???
+UI_WIDGET_DESC_15,Coming soon in future updates.,,,,,En próximas actualizaciones...,,,,,,
+UI_WIDGET_UNLOCK_DESC_15,Coming soon in future updates.,,,,,En próximas actualizaciones...,,,,,,
+UI_WIDGET_RANDOM_NAME,Random,ランダム,随机,隨機,,Aleatorio,,,Случайный виджет,,,
+UI_WIDGET_RANDOM_DESC,Starts with a random unlocked widget.,アンロック済みウィジェットの中からランダムで1つを持ってスタート,从已解锁插件中随机选一个开局,從已解鎖插件中隨機選一個開局,,Empieza con un widget aleatorio que ya hayas desbloqueado,,,Начните игру со случайным разблокированным виджетом.,,,
