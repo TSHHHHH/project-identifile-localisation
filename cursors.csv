@@ -1,48 +1,48 @@
-keys,en,ja,cn,tw
-UI_CURSOR_NAME_1,"Classic Cursor",クラシックカーソル,经典光标,經典游標
-UI_CURSOR_DESC_1,"The reliable cursor to navigate without any special traits. Circle viruses continuously to identify them.",特別な特徴なし。ウイルスをぐるぐる囲んで識別。,最基础的光标，没啥特点。靠圈病毒来识别,最基礎的游標，沒啥特點。靠圈病毒來識別
-UI_CURSOR_UNLOCK_DESC_1,Nothing to see here.,特に見るものなし,这里啥都没有,這裡什麼都沒有
-UI_CURSOR_NAME_2,Clicking Cursor,クリックカーソル,点击光标,點擊游標
-UI_CURSOR_DESC_2,"Single-target attacker, tap on the viruses to identify them. You can hold for auto clicking.",ぐるぐる不要派向け。タップでウイルスを識別,告别圈圈玩法。直接点病毒即可识别,告別圈圈玩法。直接點病毒即可識別
-UI_CURSOR_UNLOCK_DESC_2,Identify The First Bug to unlock the Clicking Cursor.,最初のバグを識別してクリックカーソルGET！,识别第一个Bug解锁点击光标,識別第一個Bug解鎖點擊游標
-UI_CURSOR_NAME_3,Identifying Cursor,識別カーソル,识别光标,識別游標
-UI_CURSOR_DESC_3,Increased Draw Length and Combo capacity. Lower base attack.,ドローレングスとコンボ上限UP。基本攻撃力は控えめ,提升抽卡长度和连击上限，基础攻击力较低,提升抽卡長度和連擊上限，基礎攻擊力較低
-UI_CURSOR_UNLOCK_DESC_3,Identify 100 viruses to unlock the Identifying Cursor.,ウイルス100体識別で識別カーソルGET！,识别100个病毒解锁识别光标,識別100個病毒解鎖識別游標
-UI_CURSOR_NAME_4,Selection Cursor,選択カーソル,选择光标,選擇游標
-UI_CURSOR_DESC_4,Deals damage within a dotted box around you periodically.,点線内で定期的にダメージを与える。,定期对你周围虚线框范围内的敌人造成伤害。,定期對你周圍虛線框範圍內的敵人造成傷害。
-UI_CURSOR_UNLOCK_DESC_4,Nothing to see here.,特に見るものなし,这里啥都没有,這裡什麼都沒有
-UI_CURSOR_NAME_5,Crosshair Cursor,WIP,WIP,WIP
-UI_CURSOR_DESC_5,"Shoots viruses down quicky with bullets, using combo capacity as magazine size.",WIP,WIP,WIP
-UI_CURSOR_UNLOCK_DESC_5,WIP,WIP,WIP,WIP
-UI_CURSOR_NAME_6,Rhythm Cursor,WIP,WIP,WIP
-UI_CURSOR_DESC_6,"Tap on the viruses timely for a guaranteed crit.",WIP,WIP,WIP
-UI_CURSOR_UNLOCK_DESC_6,WIP,WIP,WIP,WIP
-UI_CURSOR_NAME_7,Punching Cursor,WIP,WIP,WIP
-UI_CURSOR_DESC_7,"Swing to beat up viruses quickly with knockback.",WIP,WIP,WIP
-UI_CURSOR_UNLOCK_DESC_7,WIP,WIP,WIP,WIP
-UI_CURSOR_NAME_8,Ninja Cursor,WIP,WIP,WIP
-UI_CURSOR_DESC_8,"Hold and stop moving to charge up and unleash rapid slashes on a target.",WIP,WIP,WIP
-UI_CURSOR_UNLOCK_DESC_8,WIP,WIP,WIP,WIP
-UI_CURSOR_NAME_9,Mechanic Cursor,WIP,WIP,WIP
-UI_CURSOR_DESC_9,"Hold to consume 2 keys to construct a turret. Collect scraps and hammer your turrets to upgrade",WIP,WIP,WIP
-UI_CURSOR_UNLOCK_DESC_9,WIP,WIP,WIP,WIP
-UI_CURSOR_NAME_10,Gambler Cursor,WIP,WIP,WIP
-UI_CURSOR_DESC_10,"Hold & drag to shoot coins like railgun. Fire rate & speed scales with coins",WIP,WIP,WIP
-UI_CURSOR_UNLOCK_DESC_10,WIP,WIP,WIP,WIP
-UI_CURSOR_NAME_11,Recycling Cursor,WIP,WIP,WIP
-UI_CURSOR_DESC_11,"The files you pick up surrounds you.",WIP,WIP,WIP
-UI_CURSOR_UNLOCK_DESC_11,WIP,WIP,WIP,WIP
-UI_CURSOR_NAME_12,Lasso Cursor,WIP,WIP,WIP
-UI_CURSOR_DESC_12,"How to Train Your Trojan Horse",WIP,WIP,WIP
-UI_CURSOR_UNLOCK_DESC_12,WIP,WIP,WIP,WIP
-UI_CURSOR_NAME_13,Viking Cursor,WIP,WIP,WIP
-UI_CURSOR_DESC_13,WIP,WIP,WIP,WIP
-UI_CURSOR_UNLOCK_DESC_13,WIP,WIP,WIP,WIP
-UI_CURSOR_NAME_14,Tesla Coil Cursor,WIP,WIP,WIP
-UI_CURSOR_DESC_14,WIP,WIP,WIP,WIP
-UI_CURSOR_UNLOCK_DESC_14,WIP,WIP,WIP,WIP
-UI_CURSOR_NAME_15,Ping Pong Cursor,WIP,WIP,WIP
-UI_CURSOR_DESC_15,WIP,WIP,WIP,WIP
-UI_CURSOR_UNLOCK_DESC_15,WIP,WIP,WIP,WIP
-UI_CURSOR_RAND_NAME,Random,ランダム,随机,隨機
-UI_CURSOR_RAND_DESC,Starts the game with a random cursor!,ランダムカーソルでゲームスタート！,随机光标开局！,隨機游標開局！
+﻿keys,en,ja,cn,tw,ptbr,es,kr,de,ru,pl,fr,ro
+UI_CURSOR_NAME_1,Classic Cursor,クラシックカーソル,经典光标,經典游標,,Cursor Clásico,,,Классический курсор,,,
+UI_CURSOR_DESC_1,The reliable cursor to navigate without any special traits. Circle viruses continuously to identify them.,特別な特徴なし。ウイルスをぐるぐる囲んで識別。,最基础的光标，没啥特点。靠圈病毒来识别,最基礎的游標，沒啥特點。靠圈病毒來識別,,El típico cursor para navegar por tu ordenador sin efectos especiales. Dibuja círculos alrededor de los Bugs para identificarlos.,,,"Надежный курсор без особых свойств. Обводите вирусов, чтобы их идентифицировать.",,,
+UI_CURSOR_UNLOCK_DESC_1,Nothing to see here.,特に見るものなし,这里啥都没有,這裡什麼都沒有,,No hay absolutamente nada aquí,,,Здесь нечего смотреть.,,,
+UI_CURSOR_NAME_2,Clicking Cursor,クリックカーソル,点击光标,點擊游標,,Cursor de Clicks,,,Кликающий курсор,,,
+UI_CURSOR_DESC_2,"Single-target attacker, tap on the viruses to identify them. You can hold for auto clicking.",ぐるぐる不要派向け。タップでウイルスを識別,告别圈圈玩法。直接点病毒即可识别,告別圈圈玩法。直接點病毒即可識別,,Solamente puedes atacar un único virus. Click para identificar o si lo prefieres mantén el botón del ratón para un autoclick,,,"Атакует одиночные цели. Просто кликайте на вирусы, чтобы их идентифицировать. Удерживайте для автоклика.",,,
+UI_CURSOR_UNLOCK_DESC_2,Identify The First Bug to unlock the Clicking Cursor.,最初のバグを識別してクリックカーソルGET！,识别第一个Bug解锁点击光标,識別第一個Bug解鎖點擊游標,,Identifica 'Boss1_ElPrimerBug' para desbloquear el Cursor de Clicks,,,"Идентифицируйте Первый Баг, чтобы разблокировать Кликающий курсор.",,,
+UI_CURSOR_NAME_3,Identifying Cursor,識別カーソル,识别光标,識別游標,,Cursor de Identificación,,,Курсор-идентификатор,,,
+UI_CURSOR_DESC_3,Increased Draw Length and Combo capacity. Lower base attack.,ドローレングスとコンボ上限UP。基本攻撃力は控えめ,提升抽卡长度和连击上限，基础攻击力较低,提升抽卡長度和連擊上限，基礎攻擊力較低,,"Incrementa tu Rango de Dibujo y tu Máximo Combo, pero reduce tu ataque base",,,"Увеличенная длина линии и объем комбо, но базовый урон понижен.",,,
+UI_CURSOR_UNLOCK_DESC_3,Identify 100 viruses to unlock the Identifying Cursor.,ウイルス100体識別で識別カーソルGET！,识别100个病毒解锁识别光标,識別100個病毒解鎖識別游標,,Identifica 100 virus para desbloquear el Cursor de Identificación,,,"Идентифицируйте 100 вирусов, чтобы разблокировать Курсор-определитель.",,,
+UI_CURSOR_NAME_4,Selection Cursor,選択カーソル,选择光标,選擇游標,,Cursor de Selección,,,Курсор-выделитель,,,
+UI_CURSOR_DESC_4,Deals damage within a dotted box around you periodically.,点線内で定期的にダメージを与える。,定期对你周围虚线框范围内的敌人造成伤害。,定期對你周圍虛線框範圍內的敵人造成傷害。,,Causa daño periódicamente a todos los virus que se encuentren en el cuadrado que tiene a su alrededor,,,Периодически наносит урон в пределах пунктирного квадрата вокруг вас.,,,
+UI_CURSOR_UNLOCK_DESC_4,Nothing to see here.,特に見るものなし,这里啥都没有,這裡什麼都沒有,,No hay absolutamente nada aquí,,,Здесь нечего смотреть.,,,
+UI_CURSOR_NAME_5,Crosshair Cursor,,,,,Cursor de Punto de Mira,,,Курсор-прицел,,,
+UI_CURSOR_DESC_5,"Shoots viruses down quicky with bullets, using combo capacity as magazine size.",,,,,"Dispara rapidamente balas a los virus, usa combo máximo como tamaño de revistas",,,"Быстро расстреливает вирусов, используя объем комбо как магазин.",,,
+UI_CURSOR_UNLOCK_DESC_5,,,,,,En Desarrollo...,,,WIP,,,
+UI_CURSOR_NAME_6,Rhythm Cursor,,,,,Cursor Metrónomo,,,Ритмичный курсор,,,
+UI_CURSOR_DESC_6,Tap on the viruses timely for a guaranteed crit.,,,,,Clicka en los virus en el tiempo adecuado para hacer daño crítico,,,"Кликайте по вирусам в такт, чтобы наносить гарантированные крит. удары.",,,
+UI_CURSOR_UNLOCK_DESC_6,,,,,,En Desarrollo...,,,WIP,,,
+UI_CURSOR_NAME_7,Punching Cursor,,,,,Cursor de Boxeo,,,Ударный курсор,,,
+UI_CURSOR_DESC_7,Swing to beat up viruses quickly with knockback.,,,,,Muevete por la pantalla para pegarle a los virus rapidamente y empujarlos,,,"Размахивайте курсором и бейте вирусов, отбрасывая их назад.",,,
+UI_CURSOR_UNLOCK_DESC_7,,,,,,En Desarrollo...,,,WIP,,,
+UI_CURSOR_NAME_8,Ninja Cursor,,,,,Cursor Ninja,,,Ниндзя-курсор,,,
+UI_CURSOR_DESC_8,Hold and stop moving to charge up and unleash rapid slashes on a target.,,,,,Mantén y deja de moverte para cargar un ataque de cortes rápidos,,,"Удерживайте и оставайтесь на месте, чтобы зарядить атаку, а затем обрушьте серию быстрых ударов на врага.",,,
+UI_CURSOR_UNLOCK_DESC_8,,,,,,En Desarrollo...,,,WIP,,,
+UI_CURSOR_NAME_9,Mechanic Cursor,,,,,Cursor Mecánico,,,Механический курсор,,,
+UI_CURSOR_DESC_9,Hold to consume 2 keys to construct a turret. Collect scraps and hammer your turrets to upgrade,,,,,Mantén para consumir 2 llaves a cambio de colocar una torreta. Recolecta fragmentos y martillos para mejorar tus torretas,,,"Удерживайте, чтобы потратить 2 ключа и построить турель. Собирайте обломки и улучшайте её с помощью молотка.",,,
+UI_CURSOR_UNLOCK_DESC_9,,,,,,En Desarrollo...,,,WIP,,,
+UI_CURSOR_NAME_10,Gambler Cursor,,,,,Cursor Gambling,,,Азартный курсор,,,
+UI_CURSOR_DESC_10,Hold & drag to shoot coins like railgun. Fire rate & speed scales with coins,,,,,Mantén y arrastra para disparar monedas como si fuera un cañon de riel. Velocidad de disparo y de proyectil escala según tus monedas,,,"Удерживайте и тяните, чтобы выстрелить монетами, словно из рельсотрона. Скорость и темп стрельбы зависят от количества монет.",,,
+UI_CURSOR_UNLOCK_DESC_10,,,,,,En Desarrollo...,,,WIP,,,
+UI_CURSOR_NAME_11,Recycling Cursor,,,,,Cursor de Reciclaje,,,Курсор переработки,,,
+UI_CURSOR_DESC_11,The files you pick up surrounds you.,,,,,Los archivos que recojes te rodean,,,Подобранные файлы вращаются вокруг вас.,,,
+UI_CURSOR_UNLOCK_DESC_11,,,,,,En Desarrollo...,,,WIP,,,
+UI_CURSOR_NAME_12,Lasso Cursor,,,,,Cursor de Lazo,,,Курсор-лассо,,,
+UI_CURSOR_DESC_12,How to Train Your Trojan Horse,,,,,Como entrenar tu Caballo de Troya,,,Как приручить трояна,,,
+UI_CURSOR_UNLOCK_DESC_12,,,,,,En Desarrollo...,,,WIP,,,
+UI_CURSOR_NAME_13,Viking Cursor,,,,,Cursor Vikingo,,,Курсор викинга,,,
+UI_CURSOR_DESC_13,Coming soon in future updates.,,,,,En próximas actualizaciones...,,,Находится в разработке.,,,
+UI_CURSOR_UNLOCK_DESC_13,Coming soon in future updates.,,,,,En próximas actualizaciones...,,,Находится в разработке.,,,
+UI_CURSOR_NAME_14,Tesla Coil Cursor,,,,,Cursor de Bobina de Tesla,,,Тесла-курсор,,,
+UI_CURSOR_DESC_14,Coming soon in future updates.,,,,,En próximas actualizaciones...,,,Находится в разработке.,,,
+UI_CURSOR_UNLOCK_DESC_14,Coming soon in future updates.,,,,,En próximas actualizaciones...,,,Находится в разработке.,,,
+UI_CURSOR_NAME_15,Ping Pong Cursor,,,,,Cursor Ping Pong,,,Пинг-понг-курсор,,,
+UI_CURSOR_DESC_15,Coming soon in future updates.,,,,,En próximas actualizaciones...,,,Находится в разработке.,,,
+UI_CURSOR_UNLOCK_DESC_15,Coming soon in future updates.,,,,,En próximas actualizaciones...,,,Находится в разработке.,,,
+UI_CURSOR_RAND_NAME,Random,ランダム,随机,隨機,,Aleatorio,,,Случайный курсор,,,
+UI_CURSOR_RAND_DESC,Starts the game with a random cursor!,ランダムカーソルでゲームスタート！,随机光标开局！,隨機游標開局！,,¡Empieza el juego con un cursor aleatorio que ya tengas desbloqueado!,,,Начните игру со случайным курсором!,,,
