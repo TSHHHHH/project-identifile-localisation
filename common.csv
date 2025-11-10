@@ -1,55 +1,536 @@
-﻿keys,en,ja,cn,tw,ptbr,es,kr,de,ru,pl,fr,ro
-UI_COMMON_NOT_IN_DEMO,Not available in the demo.,デモ版では利用不可,试玩版中不可用。,試玩版中無法使用。,Indisponível na demo.,No disponible en la demo,,,Недоступно в демоверсии.,,,
-UI_COMMON_START,Start,スタート,开始,開始,Iniciar,Empezar,,,Начать,,,
-UI_COMMON_SAVE,Save,セーブ,保存,儲存,Salvar,Guardar,,,Сохранить,,,
-UI_COMMON_SEED,Seed,シード,种子,種子,Seed,Seed,,,Seed,,,
-UI_COMMON_CANCEL,Cancel,キャンセル,取消,取消,Cancelar,Cancelar,,,Отмена,,,
-UI_COMMON_ACCEPT,Yes,はい,是,是,Sim,Sí,,,Да,,,
-UI_COMMON_REJECT,No,いいえ,否,否,Não,No,,,Нет,,,
-UI_COMMON_BACK,Back,戻る,返回,返回,Voltar,Volver,,,Назад,,,
-UI_COMMON_PLAY,Play,プレイ,开始游戏,開始遊戲,Jogar,Jugar,,,Играть,,,
-UI_COMMON_RARITY_COMMON,Common,コモン,普通,普通,Comum,Común,,,Обычный,,,
-UI_COMMON_RARITY_UNCOMMON,Uncommon,アンコモン,优秀,優秀,Incomum,Poco común,,,Необычный,,,
-UI_COMMON_RARITY_RARE,Rare,レア,稀有,稀有,Raro,Raro,,,Редкий,,,
-UI_COMMON_RARITY_LEGENDARY,Legendary,レジェンダリ,传说,傳說,Lendário,Legendario,,,Легендарный,,,
-UI_COMMON_RARITY_EXE,EXE,EXE,EXE,EXE,EXE,EXE,,,EXE,,,
-UI_STAT_HEALTH,Health,体力,生命,生命值,Vida,Vida,,,Здоровье,,,
-UI_STAT_HEARTS,Hearts,ハート,心,心,Corações,Corazones,,,Сердца,,,
-UI_STAT_SHIELD,Shield,シールド,护盾,護盾,Escudo,Escudo,,,Щит,,,
-UI_STAT_ATTACK,Attack,攻撃,攻击力,攻擊力,Ataque,Ataque,,,Атака,,,
-UI_STAT_DRAW_LENGTH,Draw Length,線の長さ,最大绘画长度,最大繪圖長度,Tamanho de Desenho,Rango de Dibujo,,,Длина линии,,,
-UI_STAT_COMBO_CAP,Combo Cap,コンボの上限数,连击上限,連擊上限,Limite de Combo,Máximo Combo,,,Объем комбо,,,
-UI_STAT_DODGE_RATE,Dodge Rate,回避率,闪避率,閃避率,Taxa de Esquiva,Probabilidad de Esquive,,,Шанс уклонения,,,
-UI_STAT_CRIT_RATE,Crit Rate,クリティカル率,暴击率,爆擊率,Taxa de Crítico,Probabilidad de Crítico,,,Шанс крита,,,
-UI_STAT_CRIT_DAMAGE,Crit Damage,クリティカルダメージ,暴击伤害,爆擊傷害,Dano Crítico,Daño Crítico,,,Крит. урон,,,
-UI_OPTIONS_MASTER_VOL,Master Volume,マスターボリューム,主音量,主音量,Volume Principal,Volumen General,,,Общая громкость,,,
-UI_OPTIONS_BGM_VOL,Music Volume,BGMボリューム,音乐音量,音樂音量,Volume da Música,Volumen de la Música,,,Громкость музыки,,,
-UI_OPTIONS_SFX_VOL,Sound Effects Volume,効果音ボリューム,音效音量,音效音量,Volume de Efeitos Sonoros,Volumen de los Efectos,,,Громкость звуков,,,
-UI_OPTIONS_DISPLAY_MODE,Display Mode,ディスプレイモード,显示模式,顯示模式,Modo de Exibição,Modo de Visualización,,,Режим экрана,,,
-UI_OPTIONS_RESOLUTION,Resolution,解像度,分辨率,解析度,Resolução,Resolución,,,Разрешение,,,
-UI_OPTIONS_RESOLUTION_OPTION_1,Fullscreen,フルスクリーン,全屏,全螢幕,Tela Cheia,Pantalla Completa,,,Полный экран,,,
-UI_OPTIONS_RESOLUTION_OPTION_2,Borderless,ボーダレス,无边框,無邊框,Sem Bordas,Sin Bordes,,,Окно без рамок,,,
-UI_OPTIONS_RESOLUTION_OPTION_3,Windowed,ウィンドウ表示,窗口化,視窗模式,Janela,Con Ventana,,,Окно,,,
-UI_OPTIONS_VSYNC,VSync,垂直同期,垂直同步,垂直同步,VSync,VSync,,,Вертик. синхронизация,,,
-UI_OPTIONS_CRT,CRT Filter,CRTフィルター,CRT滤镜,CRT濾鏡,Filtro CRT,Filtro CRT,,,CRT-фильтр,,,
-UI_OPTIONS_SCREENSHAKE,Screenshake,画面揺れ,屏幕抖动,畫面震動,Screenshake,Agitación de la Pantalla,,,Дрожание экрана,,,
-UI_OPTIONS_MOUSE_SENSITIVITY,Mouse Sensitivity,マウス感度,鼠标灵敏度,滑鼠靈敏度,Sensibilidade do Mouse,Sensibilidad del Ratón,,,Чувствительность мыши,,,
-UI_OPTIONS_COMBAT_BACKGROUND,Combat Background Intensity,戦闘時：背景の不透明度,战斗背景浓淡,戰鬥背景濃淡,Intensidade do Fundo de Combate,Intensidad del Fondo en Combate,,,Интенсивность фона в бою,,,
-UI_MENU_LABEL_START,Start,スタート,开始,開始,Iniciar,Iniciar,,,Начать,,,
-UI_MENU_LABEL_CONTINUE,Continue,コンティニュー,继续,繼續,Continuar,Continuar,,,Продолжить,,,
-UI_MENU_LABEL_OPTIONS,Options,オプション,选项,選項,Opções,Opciones,,,Настройки,,,
-UI_MENU_LABEL_QUIT,Quit,終了,退出,離開,Sair,Salir,,,Выход,,,
-UI_MENU_LABEL_LOG,Log,ログ,日志,日誌,Registro,Registro,,,Журнал,,,
-UI_MENU_LABEL_DATABASE,Database,データベース,数据库,資料庫,Banco de Dados,Base de Datos,,,База данных,,,
-UI_MENU_LABEL_CREDITS,Credits,クレジット,制作人员名单,製作人員名單,Créditos,Créditos,,,Авторы,,,
-UI_MENU_LABEL_WISHLIST,Wishlist,ウィッシュリスト,添加到愿望单,加入願望清單,Lista de Desejos,Lista de Deseos,,,В желаемое,,,
-UI_MENU_LABEL_DISCORD,Discord,Discord,Discord,Discord,Discord,Discord,,,Discord,,,
-UI_MENU_LABEL_SECRETS,Secrets,シークレット,加密档案,加密檔案,Segredos,Secretos,,,Секреты,,,
-UI_MENU_LABEL_SHOP,Shop,ショップ,商店,商店,Loja,Tienda,,,Магазин,,,
-UI_CREDITS_DESC,Developed by:\nGearbyte Games\n\nCreative Director\nTang Leejed\n\nLead Programmer\nLin Xin\n\nMusic & Sound Composer\nKevin Mevlana (LordMev)\n\nFonts\nLanaPixel (eishiya)\nPixelLocale (Johste)\n\nSpecial Thanks\nDatlad11 (QA/Design)\nDiscord Community Members,開発元：\nGearbyte Games\n\nクリエイティブディレクター\nTang Leejed\n\nリードプログラマー\nLin Xin\n\n音楽&サウンドコンポーザー\nKevin Mevlana (LordMev)\n\nフォント\nLanaPixel (eishiya)\nPixelLocale (Johste)\n\nスペシャルサンクス\nDatlad11 (QA/デザイン)\nDiscordコミュニティメンバーのみんな,开发人员：\nGearbyte Games\n\n创意总监\nTang Leejed\n\n首席程序设计\nLin Xin\n\n音乐与音效作曲\nKevin Mevlana（LordMev）\n\n字体设计\nLanaPixel (eishiya)\nPixelLocale (Johste)\n\n特别鸣谢\nDatlad11 (质量保证/设计)\nDiscord 社区成员,開發團隊：\nGearbyte Games\n\n創意總監\nTang Leejed\n\n首席程式設計\nLin Xin\n\n音樂與音效製作\nKevin Mevlana（LordMev）\n\n字型設計\nLanaPixel (eishiya)\nPixelLocale (Johste)\n\n特別感謝\nDatlad11（品質保證／設計）\nDiscord 社群成員,Desenvolvido por:\nGearbyte Games\n\nDiretor Criativo\nTang Leejed\n\nProgramador Principal\nLin Xin\n\nCompositor de Music & Efeitos Sonoros\nKevin Mevlana (LordMev)\n\nFontes\nLanaPixel(eishiya)\nPixelLocale (Johste)\n\nAgradecimentos Especiais\nDatlad11 (QA/Design)\nComunidade de Membros do Discord,Desarrollado por:\nGearbyte Games\n\nDirector Creativo\nTang Leejed\n\nProgramador Principal\nLin Xin\n\nCompositor de Música y Sonidos\nKevin Mevlana (LordMev)\n\nFontes\nLanaPixel(eishiya)\nPixelLocale (Johste)\n\nAgradecimentos Especiales\nDatlad11 (QA/Design)\nComunidad de Miembros de Discord,,,Разработано:\nGearbyte Games\n\nКреативный директор\nTang Leejed\n\nВедущий программист\nLin Xin\n\nКомпозитор музыки и звуков\nKevin Mevlana (LordMev)\n\nШрифты\nLanaPixel (eishiya)\nPixelLocale (Johste)\n\nОсобая благодарность\nDatlad11 (QA/дизайн)\nУчастникам сообщества Discord,,,
-UI_PAUSE_WINDOW_WISHLIST,Wishlist on Steam,ウィッシュリストに追加,添加到Steam愿望单,添加到Steam愿望单,Adicione à Lista de Desejos,Añadir a Lista de Deseos en Steam,,,Добавить в желаемое,,,
-UI_PAUSE_WINDOW_RESUME_GAME,Resume Game,ゲーム再開,继续游戏,續遊戲,Continuar Jogo,Continuar Juego,,,Продолжить игру,,,
-UI_PAUSE_WINDOW_OPTIONS,Options,オプション,选项,選項,Opções,Opciones,,,Настройки,,,
-UI_PAUSE_WINDOW_EXIT_TO_MENU,Exit To Menu,メニューに戻る,返回主菜单,返回主選單,Sair para o Menu,Salir al Menú,,,Выйти в меню,,,
-UI_QUIT_WINDOW_CONFIRMATION_MSG,"Are you sure you want to quit? If you quit now, you will lose this run's progress",終了してもよろしいですか？\nこれまでの進行状況は失われます。,确认退出？现在退出将会丢失本轮游戏进度,確定要離開嗎？現在離開會失去本輪遊戲進度,"Tem certeza que deseja sair? Se você sair agora, perderá o progresso desta execução","¿Seguro que quieres salir? Si lo haces, perderás los datos de esta navegación",,,"Вы уверены, что хотите выйти? Прогресс этого забега будет потерян",,,
-UI_DESKTOP_DEMO_LABEL,Demo,デモ版,试玩版,試玩版,Demo,Demo,,,Демо,,,
+﻿keys,en,ja,cn,tw,ptbr,es,kr,de,ru,pl,fr,ro,tr,esla
+UI_COMMON_NOT_IN_DEMO,Not available in the demo.,デモ版では利用不可。,试玩版中不可用。,試玩版中無法使用。,Indisponível na demo.,No disponible en la demo,,,Недоступно в демоверсии.,,,Indisponibil în versiunea demo.,Demo sürümünde mevcut değil.,No disponible en la demo.
+UI_COMMON_START,Start,スタート,开始,開始,Iniciar,Empezar,,,Начать,,,Start,Başlat,Empezar
+UI_COMMON_SAVE,Save,セーブ,保存,儲存,Salvar,Guardar,,,Сохранить,,,Salvare,Kaydet,Guardar
+UI_COMMON_SEED,Seed,シード,种子,種子,Seed,Seed,,,Seed,,,Cod Seed,Seed,Semilla
+UI_COMMON_CANCEL,Cancel,キャンセル,取消,取消,Cancelar,Cancelar,,,Отмена,,,Anulare,İptal,Cancelar
+UI_COMMON_ACCEPT,Yes,はい,是,是,Sim,Sí,,,Да,,,Da,Evet,Sí
+UI_COMMON_REJECT,No,いいえ,否,否,Não,No,,,Нет,,,Nu,Hayır,No
+UI_COMMON_BACK,Back,戻る,返回,返回,Voltar,Volver,,,Назад,,,Înapoi,Geri,Volver
+UI_COMMON_PLAY,Play,プレイ,开始游戏,開始遊戲,Jogar,Jugar,,,Играть,,,Joacă,Oyna,Jugar
+UI_COMMON_RARITY_COMMON,Common,コモン,普通,普通,Comum,Común,,,Обычный,,,Comun,Yaygın,Común
+UI_COMMON_RARITY_UNCOMMON,Uncommon,アンコモン,优秀,優秀,Incomum,Poco común,,,Необычный,,,Neobișnuit,Nadir,Poco común
+UI_COMMON_RARITY_RARE,Rare,レア,稀有,稀有,Raro,Raro,,,Редкий,,,Rar,Ender,Raro
+UI_COMMON_RARITY_LEGENDARY,Legendary,レジェンダリ,传说,傳說,Lendário,Legendario,,,Легендарный,,,Legendar,Efsanevi,Legendario
+UI_COMMON_RARITY_EXE,EXE,EXE,EXE,EXE,EXE,EXE,,,EXE,,,EXE,EXE,EXE
+UI_STAT_HEALTH,Health,体力,生命,生命值,Vida,Vida,,,Здоровье,,,Sănătate,Sağlık,Vida
+UI_STAT_HEARTS,Hearts,ハート,心,心,Corações,Corazones,,,Сердца,,,Inimi,Kalpler,Corazones
+UI_STAT_SHIELD,Shield,シールド,护盾,護盾,Escudo,Escudo,,,Щит,,,Scut,Kalkan,Escudo
+UI_STAT_ATTACK,Attack,攻撃,攻击力,攻擊力,Ataque,Ataque,,,Атака,,,Atac,Saldırı,Ataque
+UI_STAT_DRAW_LENGTH,Draw Length,線の長さ,最大绘画长度,最大繪圖長度,Tamanho de Desenho,Rango de Dibujo,,,Длина линии,,,Lungimea Liniei Desenate,Çekim Uzunluğu,Rango de dibujo
+UI_STAT_COMBO_CAP,Combo Cap,コンボの上限数,连击上限,連擊上限,Limite de Combo,Máximo Combo,,,Объем комбо,,,Limită Combo,Kombo Sınırı,Máximo de combo
+UI_STAT_DODGE_RATE,Dodge Rate,回避率,闪避率,閃避率,Taxa de Esquiva,Probabilidad de Esquive,,,Шанс уклонения,,,Șansă de Eschivă,Kaçınma Oranı,Probabilidad de esquivar
+UI_STAT_CRIT_RATE,Crit Rate,クリティカル率,暴击率,爆擊率,Taxa de Crítico,Probabilidad de Crítico,,,Шанс крита,,,Șansă de Lovitură Critică,Kritik Oranı,Probabilidad de crítico
+UI_STAT_CRIT_DAMAGE,Crit Damage,クリティカルダメージ,暴击伤害,爆擊傷害,Dano Crítico,Daño Crítico,,,Крит. урон,,,Damage Critic,Kritik Hasar,Daño crítico
+UI_OPTIONS_MASTER_VOL,Master Volume,マスターボリューム,主音量,主音量,Volume Principal,Volumen General,,,Общая громкость,,,Volum Principal,Ana Ses,Volumen general
+UI_OPTIONS_BGM_VOL,Music Volume,BGMボリューム,音乐音量,音樂音量,Volume da Música,Volumen de la Música,,,Громкость музыки,,,Volum Muzică,Müzik Sesi,Música
+UI_OPTIONS_SFX_VOL,Sound Effects Volume,効果音ボリューム,音效音量,音效音量,Volume de Efeitos Sonoros,Volumen de los Efectos,,,Громкость звуков,,,Volum Efecte Sonore,Efekt Sesi,Efectos de sonido
+UI_OPTIONS_DISPLAY_MODE,Display Mode,ディスプレイモード,显示模式,顯示模式,Modo de Exibição,Modo de Visualización,,,Режим экрана,,,Mod de afișare,Görüntü Modu,Modo de visualización
+UI_OPTIONS_RESOLUTION,Resolution,解像度,分辨率,解析度,Resolução,Resolución,,,Разрешение,,,Rezoluție,Çözünürlük,Resolución
+UI_OPTIONS_RESOLUTION_OPTION_1,Fullscreen,フルスクリーン,全屏,全螢幕,Tela Cheia,Pantalla Completa,,,Полный экран,,,Ecran complet,Tam Ekran,Pantalla completa
+UI_OPTIONS_RESOLUTION_OPTION_2,Borderless,ボーダレス,无边框,無邊框,Sem Bordas,Sin Bordes,,,Окно без рамок,,,Fără margini,Kenarlıksız,Sin bordes
+UI_OPTIONS_RESOLUTION_OPTION_3,Windowed,ウィンドウ表示,窗口化,視窗模式,Janela,Con Ventana,,,Окно,,,În fereastră,Pencereli,Ventana
+UI_OPTIONS_VSYNC,VSync,垂直同期,垂直同步,垂直同步,VSync,VSync,,,Вертик. синхронизация,,,VSync,VSync,Sincronización vertical
+UI_OPTIONS_CRT,CRT Filter,CRTフィルター,CRT滤镜,CRT濾鏡,Filtro CRT,Filtro CRT,,,CRT-фильтр,,,Filtru CRT,CRT Filtresi,Filtro CRT
+UI_OPTIONS_SCREENSHAKE,Screenshake,画面揺れ,屏幕抖动,畫面震動,Screenshake,Agitación de la Pantalla,,,Дрожание экрана,,,Tremur ecran,Ekran Sarsıntısı,Temblor de pantalla
+UI_OPTIONS_MOUSE_SENSITIVITY,Mouse Sensitivity,マウス感度,鼠标灵敏度,滑鼠靈敏度,Sensibilidade do Mouse,Sensibilidad del Ratón,,,Чувствительность мыши,,,Sensibilitate mouse,Fare Hassasiyeti,Sensibilidad del ratón
+UI_OPTIONS_COMBAT_BACKGROUND,Combat Background Intensity,戦闘時：背景の不透明度,战斗背景浓淡,戰鬥背景濃淡,Intensidade do Fundo de Combate,Intensidad del Fondo en Combate,,,Интенсивность фона в бою,,,Intensitatea fundalului de luptă,Savaş Arka Plan Yoğunluğu,Intensidad del fondo en combate
+UI_MENU_LABEL_START,Start,スタート,开始,開始,Iniciar,Iniciar,,,Начать,,,Start,Başlat,Iniciar
+UI_MENU_LABEL_CONTINUE,Continue,コンティニュー,继续,繼續,Continuar,Continuar,,,Продолжить,,,Continuă,Devam Et,Continuar
+UI_MENU_LABEL_OPTIONS,Options,オプション,选项,選項,Opções,Opciones,,,Настройки,,,Opțiuni,Ayarlar,Opciones
+UI_MENU_LABEL_QUIT,Quit,終了,退出,離開,Sair,Salir,,,Выход,,,Ieșire,Çıkış,Salir
+UI_MENU_LABEL_LOG,Log,ログ,日志,日誌,Registro,Registro,,,Журнал,,,Jurnal,Günlük,Registro
+UI_MENU_LABEL_DATABASE,Database,データベース,数据库,資料庫,Banco de Dados,Base de Datos,,,База данных,,,Bază de date,Veritabanı,Base de datos
+UI_MENU_LABEL_CREDITS,Credits,クレジット,制作人员名单,製作人員名單,Créditos,Créditos,,,Авторы,,,Credite,Katkıda Bulunanlar,Créditos
+UI_MENU_LABEL_WISHLIST,Wishlist,ウィッシュリスト,添加到愿望单,加入願望清單,Lista de Desejos,Lista de Deseos,,,В желаемое,,,Listă de dorințe,İstek Listesi,Lista de deseos
+UI_MENU_LABEL_DISCORD,Discord,Discord,Discord,Discord,Discord,Discord,,,Discord,,,Discord,Discord,Discord
+UI_MENU_LABEL_SECRETS,Secrets,シークレット,加密档案,加密檔案,Segredos,Secretos,,,Секреты,,,Secrete,Sırlar,Secretos
+UI_MENU_LABEL_SHOP,Shop,ショップ,商店,商店,Loja,Tienda,,,Магазин,,,Magazin,Mağaza,Tienda
+UI_CREDITS_DESC,"Credits:
+
+Gearbyte Games
+Creative Lead: SylverDev (@sylver_dev)
+Lead Programmer: Calipao
+Lead Audio: Kevin Mevlana (@lordmev)
+
+QA/Design: Datlad11
+
+PR:
+Neon Noroshi (JP)
+Tiffa Media (CN)
+
+Localization: 
+Yuki Fujita (JP)
+Si Han, Si Wei (CN/TW)
+Nikita Mikhalev (RU)
+Edmilson Rocha (PTBR)
+OMarcoGPO (ES)
+Izabella Mitu (DE)
+AtomicBraven, Marcoleric (FR)
+Konrad Jopek, Szymon Kołodziej (PL)
+Andrei Găboreanu (RO)
+Joaquín Riveros Véliz (ESLA)
+Mustafa ""Neekagami"" Dinç (TR)
+
+Fonts:
+PixelLocale (Johste)
+LanaPixel (eishiya)
+
+Special Thanks!
+Hassan Al Khatib (Marketing)
+Chris Zukowski
+Discord Community
+X Community: 
+@NuraPixel, @_kiseki_miracle, @Lynte_, @m_artstuff, @Duwi_EXE, @Phromn_, @CunnieHoe, @ZeliotL, @trizG_, @NandooPX, @iterateinteract, @gatekid3, @NotMondayGame, @Toadzillart, @NapasGames, @PixelDominus, @TanzDev, @GabreuSenra, @DracoNoko, @Cup_Nooble_, @CursedCode, @Caronte_Caim, @moonlightmae_vt, @auralystic, @Bloopa_Loopa, @SpringloadedDev, @sudonym, @Flashkirby, @w1k3d10, @aintnoking, @HanahoneybeeVT, @Regris_Kallen, @the_polar_pop, @MeanieMoonArt, @jeminix2, @elpichonart, @arsundust, @MiniTankMayhem, @_nyunnya_, @TurtleHolder, @krait181, @lenard_pr, @funa_vt ","クレジット
+
+Gearbyte Games
+クリエイティブ・リード：SylverDev (@sylver_dev)
+リードプログラマー：Calipao
+オーディオ・リード：Kevin Mevlana (@lordmev)
+
+QA/デザイン：Datlad11
+
+PR：
+Neon Noroshi (JP)
+Tiffa Media (CN)
+
+ローカライズ
+Yuki Fujita (JP)
+Si Han, Si Wei (CN/TW)
+Nikita Mikhalev (RU)
+Edmilson Rocha (PTBR)
+OMarcoGPO (ES)
+Izabella Mitu (DE)
+AtomicBraven, Marcoleric (FR)
+Konrad Jopek, Szymon Kołodziej (PL)
+Andrei Găboreanu (RO)
+Joaquín Riveros Véliz (ESLA)
+Mustafa """"Neekagami"""" Dinç (TR)
+
+フォント：
+PixelLocale (Johste)
+LanaPixel (eishiya)
+
+Special Thanks!
+Hassan Al Khatib (Marketing)
+Chris Zukowski
+Discordコミュニティ
+Xコミュニティ：
+@NuraPixel, @_kiseki_miracle, @Lynte_, @m_artstuff, @Duwi_EXE, @Phromn_, @CunnieHoe, @ZeliotL, @trizG_, @NandooPX, @iterateinteract, @gatekid3, @NotMondayGame, @Toadzillart, @NapasGames, @PixelDominus, @TanzDev, @GabreuSenra, @DracoNoko, @Cup_Nooble_, @CursedCode, @Caronte_Caim, @moonlightmae_vt, @auralystic, @Bloopa_Loopa, @SpringloadedDev, @sudonym, @Flashkirby, @w1k3d10, @aintnoking, @HanahoneybeeVT, @Regris_Kallen, @the_polar_pop, @MeanieMoonArt, @jeminix2, @elpichonart, @arsundust, @MiniTankMayhem, @_nyunnya_, @TurtleHolder, @krait181, @lenard_pr, @funa_vt ","制作人员名单:
+
+Gearbyte Games
+创意总监: SylverDev (@sylver_dev)
+主程序员: Calipao
+音频总监: Kevin Mevlana (@lordmev)
+
+品控/设计: Datlad11
+
+地区推广:
+Neon Noroshi (日本)
+Tiffa Media (中文区)
+
+本地化:
+Yuki Fujita (日语)
+Si Han, Si Wei (简体中文/繁体中文)
+Nikita Mikhalev (俄语)
+Edmilson Rocha (巴西葡语)
+OMarcoGPO (西班牙语)
+Izabella Mitu (德语)
+AtomicBraven, Marcoleric (法语)
+Konrad Jopek, Szymon Kołodziej (波兰语)
+Andrei Găboreanu (罗马尼亚语)
+Joaquín Riveros Véliz (拉美西语)
+Mustafa ""Neekagami"" Dinç (土耳其语)
+
+字体:
+PixelLocale (Johste)
+LanaPixel (eishiya)
+
+特别鸣谢!
+Hassan Al Khatib (市场推广)
+Chris Zukowski
+Discord 社群
+X 社区:
+@NuraPixel, @_kiseki_miracle, @Lynte_, @m_artstuff, @Duwi_EXE, @Phromn_, @CunnieHoe, @ZeliotL, @trizG_, @NandooPX, @iterateinteract, @gatekid3, @NotMondayGame, @Toadzillart, @NapasGames, @PixelDominus, @TanzDev, @GabreuSenra, @DracoNoko, @Cup_Nooble_, @CursedCode, @Caronte_Caim, @moonlightmae_vt, @auralystic, @Bloopa_Loopa, @SpringloadedDev, @sudonym, @Flashkirby, @w1k3d10, @aintnoking, @HanahoneybeeVT, @Regris_Kallen, @the_polar_pop, @MeanieMoonArt, @jeminix2, @elpichonart, @arsundust, @MiniTankMayhem, @_nyunnya_, @TurtleHolder, @krait181, @lenard_pr, @funa_vt ","製作人員名單
+
+Gearbyte Games
+創意總監: SylverDev (@sylver_dev)
+主程式設計師: Calipao
+音訊總監: Kevin Mevlana (@lordmev)
+
+品管/設計: Datlad11
+
+地區推廣:
+Neon Noroshi (日本)
+Tiffa Media (中國大陸)
+
+在地化:
+Yuki Fujita (日語)
+Si Han, Si Wei (簡體中文/繁體中文)
+Nikita Mikhalev (俄語)
+Edmilson Rocha (巴西葡語)
+OMarcoGPO (西班牙語)
+Izabella Mitu (德語)
+AtomicBraven, Marcoleric (法語)
+Konrad Jopek, Szymon Kołodziej (波蘭語)
+Andrei Găboreanu (羅馬尼亞語)
+Joaquín Riveros Véliz (拉美西語)
+Mustafa ""Neekagami"" Dinç (土耳其語)
+
+字型:
+PixelLocale (Johste)
+LanaPixel (eishiya)
+
+特別鳴謝
+Hassan Al Khatib (市場推廣)
+Chris Zukowski
+Discord 社群
+X 平台社群:
+@NuraPixel, @_kiseki_miracle, @Lynte_, @m_artstuff, @Duwi_EXE, @Phromn_, @CunnieHoe, @ZeliotL, @trizG_, @NandooPX, @iterateinteract, @gatekid3, @NotMondayGame, @Toadzillart, @NapasGames, @PixelDominus, @TanzDev, @GabreuSenra, @DracoNoko, @Cup_Nooble_, @CursedCode, @Caronte_Caim, @moonlightmae_vt, @auralystic, @Bloopa_Loopa, @SpringloadedDev, @sudonym, @Flashkirby, @w1k3d10, @aintnoking, @HanahoneybeeVT, @Regris_Kallen, @the_polar_pop, @MeanieMoonArt, @jeminix2, @elpichonart, @arsundust, @MiniTankMayhem, @_nyunnya_, @TurtleHolder, @krait181, @lenard_pr, @funa_vt ",Desenvolvido por:\nGearbyte Games\n\nDiretor Criativo\nTang Leejed\n\nProgramador Principal\nLin Xin\n\nCompositor de Music & Efeitos Sonoros\nKevin Mevlana (LordMev)\n\nFontes\nLanaPixel(eishiya)\nPixelLocale (Johste)\n\nAgradecimentos Especiais\nDatlad11 (QA/Design)\nComunidade de Membros do Discord,"Créditos:
+
+Gearbyte Games
+Líder Creativo: SylverDev (@sylver_dev)
+Programador Principal: Calipao
+Compositor Principal: Kevin Mevlana (@lordmev)
+
+Control de calidad/Diseño: Datlad11
+
+Relaciones Públicas:
+Neon Noroshi (JP)
+Tiffa Media (CN)
+
+Traducciones: 
+Yuki Fujita (JP)
+Si Han, Si Wei (CN/TW)
+Nikita Mikhalev (RU)
+Edmilson Rocha (PTBR)
+OMarcoGPO (ES)
+Izabella Mitu (DE)
+AtomicBraven, Marcoleric (FR)
+Konrad Jopek, Szymon Kołodziej (PL)
+Andrei Găboreanu (RO)
+Joaquín Riveros Véliz (ESLA)
+Mustafa ""Neekagami"" Dinç (TR)
+
+Fuentes:
+PixelLocale (Johste)
+LanaPixel (eishiya)
+
+¡Agradecimientos especiales!
+Hassan Al Khatib (Marketing)
+Chris Zukowski
+Comunidad de Discord
+Comunidad de X: 
+@NuraPixel, @_kiseki_miracle, @Lynte_, @m_artstuff, @Duwi_EXE, @Phromn_, @CunnieHoe, @ZeliotL, @trizG_, @NandooPX, @iterateinteract, @gatekid3, @NotMondayGame, @Toadzillart, @NapasGames, @PixelDominus, @TanzDev, @GabreuSenra, @DracoNoko, @Cup_Nooble_, @CursedCode, @Caronte_Caim, @moonlightmae_vt, @auralystic, @Bloopa_Loopa, @SpringloadedDev, @sudonym, @Flashkirby, @w1k3d10, @aintnoking, @HanahoneybeeVT, @Regris_Kallen, @the_polar_pop, @MeanieMoonArt, @jeminix2, @elpichonart, @arsundust, @MiniTankMayhem, @_nyunnya_, @TurtleHolder, @krait181, @lenard_pr, @funa_vt ",,,"Авторы:
+
+Gearbyte Games
+Креативный директор: SylverDev (@sylver_dev)
+Ведущий программист: Calipao
+Ведущий звукорежиссер: Kevin Mevlana (@lordmev)
+
+QA/Дизайн: Datlad11
+
+PR:
+Neon Noroshi (JP)
+Tiffa Media (CN)
+
+Локализация: 
+Yuki Fujita (JP)
+Si Han, Si Wei (CN/TW)
+Nikita Mikhalev (RU)
+Edmilson Rocha (PTBR)
+OMarcoGPO (ES)
+Izabella Mitu (DE)
+AtomicBraven, Marcoleric (FR)
+Konrad Jopek, Szymon Kołodziej (PL)
+Andrei Găboreanu (RO)
+Joaquín Riveros Véliz (ESLA)
+Mustafa ""Neekagami"" Dinç (TR)
+
+Шрифты:
+PixelLocale (Johste)
+LanaPixel (eishiya)
+
+Особая благодарность!
+Hassan Al Khatib (Маркетинг)
+Chris Zukowski
+Сообществу Discord
+Сообществу X: 
+@NuraPixel, @_kiseki_miracle, @Lynte_, @m_artstuff, @Duwi_EXE, @Phromn_, @CunnieHoe, @ZeliotL, @trizG_, @NandooPX, @iterateinteract, @gatekid3, @NotMondayGame, @Toadzillart, @NapasGames, @PixelDominus, @TanzDev, @GabreuSenra, @DracoNoko, @Cup_Nooble_, @CursedCode, @Caronte_Caim, @moonlightmae_vt, @auralystic, @Bloopa_Loopa, @SpringloadedDev, @sudonym, @Flashkirby, @w1k3d10, @aintnoking, @HanahoneybeeVT, @Regris_Kallen, @the_polar_pop, @MeanieMoonArt, @jeminix2, @elpichonart, @arsundust, @MiniTankMayhem, @_nyunnya_, @TurtleHolder, @krait181, @lenard_pr, @funa_vt ","Twórcy:
+
+Gearbyte Games
+Dyrektor kreatywny: SylverDev (@sylver_dev)
+Główny programista: Calipao
+Ścieżka dźwiękowa: Kevin Mevlana (@lordmev)
+
+Kontrola jakości / Projektowanie: Datlad11
+
+PR:
+Neon Noroshi (JP)
+Tiffa Media (CN)
+
+Tłumaczenie: 
+Yuki Fujita (JP)
+Si Han, Si Wei (CN/TW)
+Nikita Mikhalev (RU)
+Edmilson Rocha (PTBR)
+OMarcoGPO (ES)
+Izabella Mitu (DE)
+AtomicBraven, Marcoleric (FR)
+Konrad Jopek, Szymon Kołodziej (PL)
+Andrei Găboreanu (RO)
+Joaquín Riveros Véliz (ESLA)
+Mustafa ""Neekagami"" Dinç (TR)
+
+Czcionki:
+PixelLocale (Johste)
+LanaPixel (eishiya)
+
+Specjalne podziękowania!
+Hassan Al Khatib (Marketing)
+Chris Zukowski
+Członkom społecznosci discord
+Społeczności na X: 
+@NuraPixel, @_kiseki_miracle, @Lynte_, @m_artstuff, @Duwi_EXE, @Phromn_, @CunnieHoe, @ZeliotL, @trizG_, @NandooPX, @iterateinteract, @gatekid3, @NotMondayGame, @Toadzillart, @NapasGames, @PixelDominus, @TanzDev, @GabreuSenra, @DracoNoko, @Cup_Nooble_, @CursedCode, @Caronte_Caim, @moonlightmae_vt, @auralystic, @Bloopa_Loopa, @SpringloadedDev, @sudonym, @Flashkirby, @w1k3d10, @aintnoking, @HanahoneybeeVT, @Regris_Kallen, @the_polar_pop, @MeanieMoonArt, @jeminix2, @elpichonart, @arsundust, @MiniTankMayhem, @_nyunnya_, @TurtleHolder, @krait181, @lenard_pr, @funa_vt ",,Dezvoltat de:\nGearbyte Games\n\nDirector Creativ\nTang Leejed\n\nProgramator Principal\nLin Xin\n\nCompozitor Muzică & Sunet\nKevin Mevlana (LordMev)\n\nFonturi\nLanaPixel (eishiya)\nPixelLocale (Johste)\n\nMulțumiri speciale\nDatlad11 (QA/Design)\nMembrii Comunității Discord,"Katkıda Bulunanlar (Credits):
+
+Gearbyte Games
+ Yaratıcı Lider (Creative Lead): SylverDev (
+@sylver_dev
+)
+ Baş Programcı (Lead Programmer): Calipao
+ Baş Ses Sorumlusu (Lead Audio): Kevin Mevlana (
+@lordmev
+)
+Kalite Kontrol / Tasarım (QA/Design): Datlad11
+Halkla İlişkiler (PR):
+Neon Noroshi (JP)
+Tiffa Media (CN)
+Yerelleştirme (Localization):
+Yuki Fujita (JP)
+Si Han, Si Wei (CN/TW)
+Nikita Mikhalev (RU)
+Edmilson Rocha (PTBR)
+OMarcoGPO (ES)
+Izabella Mitu (DE)
+AtomicBraven, Marcoleric (FR)
+Konrad Jopek, Szymon Kołodziej (PL)
+Andrei Găboreanu (RO)
+Joaquín Riveros Véliz (ESLA)
+Mustafa ""Neekagami"" Dinç (TR)
+
+Yazı Tipleri (Fonts):
+PixelLocale (Johste)
+LanaPixel (eishiya)
+
+Özel Teşekkürler (Special Thanks!)
+Hassan Al Khatib (Pazarlama / Marketing)
+Chris Zukowski
+Discord Topluluğu
+ X Topluluğu (X Community):
+@NuraPixel, @_kiseki_miracle, @Lynte_, @m_artstuff, @Duwi_EXE, @Phromn_, @CunnieHoe, @ZeliotL, @trizG_, @NandooPX, @iterateinteract, @gatekid3, @NotMondayGame, @Toadzillart, @NapasGames, @PixelDominus, @TanzDev, @GabreuSenra, @DracoNoko, @Cup_Nooble_, @CursedCode, @Caronte_Caim, @moonlightmae_vt, @auralystic, @Bloopa_Loopa, @SpringloadedDev, @sudonym, @Flashkirby, @w1k3d10, @aintnoking, @HanahoneybeeVT, @Regris_Kallen, @the_polar_pop, @MeanieMoonArt, @jeminix2, @elpichonart, @arsundust, @MiniTankMayhem, @_nyunnya_, @TurtleHolder, @krait181, @lenard_pr, @funa_vt ",Desarrollado por:\nGearbyte Games\n\nDirector Creativo\nTang Leejed\n\nProgramador Principal\nLin Xin\n\nCompositor de Música y Sonidos\nKevin Mevlana (LordMev)\n\nFuentes\nLanaPixel(eishiya)\nPixelLocale (Johste)\n\nAgradecimentos Especiales\nDatlad11 (QA/Design)\nComunidad de Miembros de Discord
+UI_PAUSE_WINDOW_WISHLIST,Wishlist on Steam,ウィッシュリストに追加,添加到Steam愿望单,添加到Steam愿望单,Adicione à Lista de Desejos,Añadir a Lista de Deseos en Steam,,,Добавить в желаемое,,,Adaugă pe lista de dorințe Steam,Steam’de İstek Listesine Ekle,Añadir a Lista de deseos en Steam
+UI_PAUSE_WINDOW_RESUME_GAME,Resume Game,ゲーム再開,继续游戏,續遊戲,Continuar Jogo,Continuar Juego,,,Продолжить игру,,,Reia jocul,Oyuna Devam Et,Continuar juego
+UI_PAUSE_WINDOW_OPTIONS,Options,オプション,选项,選項,Opções,Opciones,,,Настройки,,,Opțiuni,Ayarlar,Opciones
+UI_PAUSE_WINDOW_EXIT_TO_MENU,Exit To Menu,メニューに戻る,返回主菜单,返回主選單,Sair para o Menu,Salir al Menú,,,Выйти в меню,,,Ieșire la meniu,Menüye Dön,Salir al menú
+UI_QUIT_WINDOW_CONFIRMATION_MSG,"Are you sure you want to quit? If you quit now, you will lose this run's progress",終了してもよろしいですか？\nこれまでの進行状況は失われます。,确认退出？现在退出将会丢失本轮游戏进度,確定要離開嗎？現在離開會失去本輪遊戲進度,"Tem certeza que deseja sair? Se você sair agora, perderá o progresso desta execução","¿Seguro que quieres salir? Si lo haces, perderás los datos de esta navegación",,,"Вы уверены, что хотите выйти? Прогресс этого забега будет потерян",,,"Ești sigur că vrei să ieși? Dacă ieși acum, vei pierde progresul acestei runde.",Çıkmak istediğinden emin misin? Şimdi çıkarsan bu turun ilerlemesini kaybedeceksin.,"¿Seguro que quieres salir? Si lo haces, perderás todo el progreso de esta partida"
+UI_DESKTOP_DEMO_LABEL,Demo,デモ版,试玩版,試玩版,Demo,Demo,,,Демо,,,Demo,Demo,Demo
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
