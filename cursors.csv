@@ -1,123 +1,323 @@
-﻿keys,en,ja,cn,tw,ptbr,es,kr,de,ru,pl,fr,ro
-UI_CURSOR_NAME_1,Classic Cursor,クラシックカーソル,经典鼠标,經典滑鼠,Cursor Clássico,Cursor Clásico,,,Классический курсор,,,
-UI_CURSOR_DESC_1,The reliable cursor to navigate without any special traits. Circle viruses continuously to identify them.,ウイルスをぐるぐる囲んで検出。特別な機能はないが、安定力がある。,最基础的鼠标，没啥特点。靠圈病毒来识别。,最基本的滑鼠，沒什麼特點。靠圈圈病毒來辨識。,Um cursor confiável para navegar e sem nenhuma característica especial. Circule os vírus continuamente para identificá-los.,El típico cursor para navegar por tu ordenador sin efectos especiales. Dibuja círculos alrededor de los Bugs para identificarlos.,,,"Надежный курсор без особых свойств. Обводите вирусов, чтобы их идентифицировать.",,,
-UI_CURSOR_UNLOCK_DESC_1,Nothing to see here.,情報なし。,这里啥都没有。,這裡什麼都沒有。,Nada para ver aqui.,No hay absolutamente nada aquí,,,Здесь нечего смотреть.,,,
-UI_CURSOR_NAME_2,Clicking Cursor,クリックカーソル,点击鼠标,點擊滑鼠,Cursor de Clique,Cursor de Clicks,,,Кликающий курсор,,,
-UI_CURSOR_DESC_2,"Single-target attacker, tap on the viruses to identify them. You can hold for auto clicking.",ウイルスをクリックして検出する、単体狙いのカーソル。長押しで自動的にクリック連打となる。,告别圈圈玩法。直接按住病毒即可识别。,告別圈圈玩法，直接按住病毒即可辨識。,"Atacante de alvo único, clique nos vírus para identificá-los. Segure o botão do mouse para clicar automaticamente.",Solamente puedes atacar un único virus. Click para identificar o si lo prefieres mantén el botón del ratón para un autoclick,,,"Атакует одиночные цели. Просто кликайте на вирусы, чтобы их идентифицировать. Удерживайте для автоклика.",,,
-UI_CURSOR_UNLOCK_DESC_2,Identify The First Bug to unlock the Clicking Cursor.,ボス「ファーストバグ」を検出すると「クリックカーソル」が解放される。,识别第一个Bug解锁“点击鼠标”,辨識第一個 Bug 解鎖「點擊滑鼠」,Identifique O Bug Primordial para desbloquear o Cursor de Clique.,Identifica 'Boss1_ElPrimerBug' para desbloquear el Cursor de Clicks,,,"Идентифицируйте Первый Баг, чтобы разблокировать Кликающий курсор.",,,
-UI_CURSOR_NAME_3,Identifying Cursor,検出カーソル,识别鼠标,辨識滑鼠,Cursor de Identificação,Cursor de Identificación,,,Курсор-идентификатор,,,
-UI_CURSOR_DESC_3,Increased Draw Length and Combo capacity. Lower base attack.,線の長さとコンボの上限数がアップ。ただし、基本攻撃力は控えめ。,提升鼠标绘画长度和连击上限，基础攻击力降低,提升滑鼠繪圖長度與連擊上限，但基礎攻擊力會下降。,Maior Comprimento de Desenho e capacidade de Combo. Menor ataque base.,"Incrementa tu Rango de Dibujo y tu Máximo Combo, pero reduce tu ataque base",,,"Увеличенная длина линии и объем комбо, но базовый урон понижен.",,,
-UI_CURSOR_UNLOCK_DESC_3,Identify 100 viruses to unlock the Identifying Cursor.,ウイルスを100体検出すると「検出カーソル」が解放される。,识别100个病毒解锁“识别鼠标”,辨識 100 個病毒解鎖「辨識滑鼠」,Identifique 100 vírus para desbloquear o Cursor de Identificação.,Identifica 100 virus para desbloquear el Cursor de Identificación,,,"Идентифицируйте 100 вирусов, чтобы разблокировать Курсор-определитель.",,,
-UI_CURSOR_NAME_4,Selection Cursor,範囲選択カーソル,选择鼠标,選擇滑鼠,Cursor de Seleção,Cursor de Selección,,,Курсор-выделитель,,,
-UI_CURSOR_DESC_4,Deals damage within a dotted box around you periodically.,カーソルの周囲に点線の枠が表示される。その範囲内に入った敵に対し、一定の間隔でダメージが付与される。,对你虚线框范围内的敌人造成周期性伤害。,對你虛線框範圍內的敵人造成週期性傷害。,Periodicamente causa dano dentro de uma caixa pontilhada ao redor de você.,Causa daño periódicamente a todos los virus que se encuentren en el cuadrado que tiene a su alrededor,,,Периодически наносит урон в пределах пунктирного квадрата вокруг вас.,,,
-UI_CURSOR_UNLOCK_DESC_4,Nothing to see here.,情報なし。,这里啥都没有。,這裡什麼都沒有。,Nada para ver aqui.,No hay absolutamente nada aquí,,,Здесь нечего смотреть.,,,
-UI_CURSOR_NAME_5,Crosshair Cursor,照準カーソル,准星鼠标,準星滑鼠,Cursor de Mira,Cursor de Punto de Mira,,,Курсор-прицел,,,
-UI_CURSOR_DESC_5,"Shoots viruses down quicky with bullets, using combo capacity as magazine size.",銃でウイルスを素早く撃ち落とす。コンボの上限数が弾の数となる。,快速的对敌人射击，连击上限决定了弹夹容量,快速對敵人射擊，連擊上限決定彈匣容量。,"Atira rápido nos vírus com balas, usa capacidade de combo como tamanho da munição.","Dispara rapidamente balas a los virus, usa combo máximo como tamaño de revistas",,,"Быстро расстреливает вирусов, используя объем комбо как магазин.",,,
-UI_CURSOR_UNLOCK_DESC_5,Identify a virus in a single attack,1回の攻撃でウイルスを検出する。,开发中,開發中,Identifique um vírus com um único ataque,Identifica un virus en un único ataque,,,Определите вирус за одну атаку,,,
-UI_CURSOR_NAME_6,Rhythm Cursor,リズムカーソル,节奏鼠标,節奏滑鼠,Cursor Rítmico,Cursor Metrónomo,,,Ритмичный курсор,,,
-UI_CURSOR_DESC_6,Tap on the viruses timely for a guaranteed crit. A mistimed tap will break your combo.,タイミング良くクリックすると、確定でクリティカルダメージが出る。ただし、タイミングを外すとコンボが途切れる。,有节奏的点击病毒必定暴击,有節奏地點擊病毒必定爆擊。,Clique no vírus na hora certa para um crit certo. Cliques fora do ritmo quebram o combo.,Clicka en los virus en el tiempo adecuado para hacer daño crítico,,,"Кликайте по вирусам в такт, чтобы наносить гарантированные крит. удары.",,,
-UI_CURSOR_UNLOCK_DESC_6,Identify a total of {x} Diva viruses during their attack,ウイルス「ディーヴァ」が攻撃している最中に、合計{x}体を検出する。,开发中,開發中,Identifique um total de {x} vírus Diva durante o ataque delas,Identifica un total de {x}  'Virus4_Diva',,,Определите в сумме {x} Дива во время их атаки,,,
-UI_CURSOR_NAME_7,Punching Cursor,パンチングカーソル,格斗家鼠标,格鬥家滑鼠,Cursor de Soco,Cursor de Boxeo,,,Ударный курсор,,,
-UI_CURSOR_DESC_7,Swing to beat up viruses quickly with knockback. (Your attacks have knockback),カーソルをぶんぶん振り回し、手早くボコボコにする（この攻撃にはノックバック効果が付与される）。,摇晃鼠标对病毒进行附带击退的连击,搖晃滑鼠可對病毒進行附帶擊退的連擊。,Arraste para bater nos vírus e empurrá-los. (Seus ataques empurram),Muevete por la pantalla para pegarle a los virus rapidamente y empujarlos,,,"Размахивайте курсором и бейте вирусов, отбрасывая их назад.",,,
-UI_CURSOR_UNLOCK_DESC_7,Defeat a Moai virus with Explosive Temper,「触るな危険」の性質を持ったモアイ・ウイルスを倒すと、「パンチカーソル」が解放される。,开发中,開發中,Derrote um vírus Moai com Temperamento Explosivo,Identifica un 'Virus6_Moai' con el item 'Temperamento Explosivo',,,"Победите вирус Моаи, используя Взрывной нрав",,,
-UI_CURSOR_NAME_8,Ninja Cursor,ニンジャカーソル,木叶鼠标,木葉滑鼠,Cursor Ninja,Cursor Ninja,,,Ниндзя-курсор,,,
-UI_CURSOR_DESC_8,Hold and stop moving to charge up and unleash rapid slashes on a target.,移動を止めて、左クリック長押しでチャージ。ターゲットに高速の斬撃を放つ。,按住并停止移动鼠标进行蓄力，松开对目标释放快速连斩（哈撒给）,按住並停止移動滑鼠進行蓄力，放開後對目標施放高速連斬（哈撒給）。,Segure e pare de mexer para carregar e executar cortes rápidos no alvo.,Mantén y deja de moverte para cargar un ataque de cortes rápidos,,,"Удерживайте и оставайтесь на месте, чтобы зарядить атаку, а затем обрушьте серию быстрых ударов на врага.",,,
-UI_CURSOR_UNLOCK_DESC_8,Cleared the F:/ drive,Fドライブをクリアすることでゲット。,开发中,開發中,Termine o Drive F:/,Completa el disco F:/,,,Зачистить диск F:/,,,
-UI_CURSOR_NAME_9,Mechanic Cursor,メカニックカーソル,机械师鼠标,機械師滑鼠,Cursor Mecânico,Cursor Mecánico,,,Механический курсор,,,
-UI_CURSOR_DESC_9,Hold to consume 2 keys to construct a turret. Collect scraps and hammer your turrets to upgrade,左クリック長押しでタレットを設置（キーを2本消費）。スクラップを集めた後、ハンマーで叩くとタレットが強化される。,按住鼠标会消耗两把钥匙建造一个炮台，收集零件并锤击你的炮台来进行升级,按住滑鼠會消耗兩把鑰匙建造一座砲台，收集零件並敲擊你的砲台以升級。,Segure para gastar 2 chaves e construir uma torreta. Colete sucatas e martele as torretas para melhorá-las,Mantén para consumir 2 llaves a cambio de colocar una torreta. Recolecta fragmentos y martillos para mejorar tus torretas,,,"Удерживайте, чтобы потратить 2 ключа и построить турель. Собирайте обломки и улучшайте её с помощью молотка.",,,
-UI_CURSOR_UNLOCK_DESC_9,Obtain Key Piece 1 and Key Piece 2,キーピース1とキーピース2を手に入れる。,开发中,開發中,Obtenha o Pedaço de Chave 1 e Pedaço de Chave 2,Obtén Pieza de Llave 1 y Pieza de Llave 2,,,Получите 1 и 2 фрагменты ключа,,,
-UI_CURSOR_NAME_10,Gambler Cursor,ギャンブラーカーソル,赌狗鼠标,賭狗滑鼠,Cursor de Apostas,Cursor Gambling,,,Азартный курсор,,,
-UI_CURSOR_DESC_10,Hold & drag to shoot coins like railgun. Fire rate & speed scales with coins,長押し&ドラッグで、コインをレールガンのように発射する。コインの所持枚数に応じて、連射速度と弾速が上がっていく。,按住或拖拽鼠标蓄力射击出硬币，射速和弹速受硬币数量影响,按住或拖曳滑鼠蓄力射出硬幣，射速與彈速會受到硬幣數量影響。,Segura & arraste para atirar moedas como uma railgun. Velocidade e cadência escalam com mais moedas,Mantén y arrastra para disparar monedas como si fuera un cañon de riel. Velocidad de disparo y de proyectil escala según tus monedas,,,"Удерживайте и тяните, чтобы выстрелить монетами, словно из рельсотрона. Скорость и темп стрельбы зависят от количества монет.",,,
-UI_CURSOR_UNLOCK_DESC_10,Cleared the game without spending coins,コインを1枚も使わずにゲームをクリアする。,开发中,開發中,Termine o jogo sem gastar moedas,Completa el juego sin gastar ninguna moneda,,,"Пройдите игру, не потратив ни одной монеты",,,
-UI_CURSOR_NAME_11,Recycling Cursor,リサイクルカーソル,环保鼠标,環保滑鼠,Cursor de Reciclagem,Cursor de Reciclaje,,,Курсор переработки,,,
-UI_CURSOR_DESC_11,The files you pick up surrounds you.,回収したファイルが、カーソルの周りをぐるぐる回る。,你捡起的文件会环绕在你周围,你撿起的檔案會環繞在你周圍。,Os arquivos que pegar te rodeiam.,Los archivos que recojes te rodean,,,Подобранные файлы вращаются вокруг вас.,,,
-UI_CURSOR_UNLOCK_DESC_11,Pick up {x} files,ファイルを{x}件回収する。,开发中,開發中,Pegue {x} arquivos,Recoge {x} archivos,,,Соберите {x} файлов,,,
-UI_CURSOR_NAME_12,Lasso Cursor,投げ縄カーソル,牛仔鼠标,牛仔滑鼠,Cursor de Laço,Cursor de Lazo,,,Курсор-лассо,,,
-UI_CURSOR_DESC_12,How to Train Your Trojan Horse,トロイの木馬を手なづける方法。,360木马大师,360 木馬大師,Como Treinar o Seu Trojão,Como entrenar tu Caballo de Troya,,,Как приручить трояна,,,
-UI_CURSOR_UNLOCK_DESC_12,Identify a total of {x} Trojan viruses during their attack,攻撃モーション中のトロイ・ウイルスを合計{x}体検出すると、「投げ縄カーソル」がアンロックされる。,开发中,開發中,Identifique um total de {x} vírus Trojan durante o ataque deles,Identifica un total de {x} 'Virus3_Troyano' durante su ataque,,,Определи в сумме {x} Троянов во время их атаки,,,
-UI_CURSOR_NAME_13,Viking Cursor,ヴァイキングカーソル,维京人鼠标,維京人滑鼠,Cursor Viking,Cursor Vikingo,,,Курсор викинга,,,
-UI_CURSOR_DESC_13,Coming soon in future updates.,今後のアップデートで追加予定,别急，程序猿在做啦！,別急，工程師在做啦！,"Em breve, em atualizações futuras.",En próximas actualizaciones...,,,Находится в разработке.,,,
-UI_CURSOR_UNLOCK_DESC_13,Coming soon in future updates.,今後のアップデートで追加予定,别急，程序猿在做啦！,別急，工程師在做啦！,"Em breve, em atualizações futuras.",En próximas actualizaciones...,,,Находится в разработке.,,,
-UI_CURSOR_NAME_14,Tesla Coil Cursor,テスラコイルカーソル,特斯拉线圈鼠标,特斯拉線圈滑鼠,Cursor Bobina de Tesla,Cursor de Bobina de Tesla,,,Тесла-курсор,,,
-UI_CURSOR_DESC_14,Coming soon in future updates.,今後のアップデートで追加予定,别急，程序猿在做啦！,別急，工程師在做啦！,"Em breve, em atualizações futuras.",En próximas actualizaciones...,,,Находится в разработке.,,,
-UI_CURSOR_UNLOCK_DESC_14,Coming soon in future updates.,今後のアップデートで追加予定,别急，程序猿在做啦！,別急，工程師在做啦！,"Em breve, em atualizações futuras.",En próximas actualizaciones...,,,Находится в разработке.,,,
-UI_CURSOR_NAME_15,Ping Pong Cursor,ピンポンカーソル,乒乓鼠标,乒乓滑鼠,Cursor Ping Pong,Cursor Ping Pong,,,Пинг-понг-курсор,,,
-UI_CURSOR_DESC_15,Coming soon in future updates.,今後のアップデートで追加予定,别急，程序猿在做啦！,別急，工程師在做啦！,"Em breve, em atualizações futuras.",En próximas actualizaciones...,,,Находится в разработке.,,,
-UI_CURSOR_UNLOCK_DESC_15,Coming soon in future updates.,今後のアップデートで追加予定,别急，程序猿在做啦！,別急，工程師在做啦！,"Em breve, em atualizações futuras.",En próximas actualizaciones...,,,Находится в разработке.,,,
-UI_CURSOR_RAND_NAME,Random,ランダム,随机,隨機,Aleatório,Aleatorio,,,Случайный курсор,,,
-UI_CURSOR_RAND_DESC,Starts the game with a random cursor!,ランダムなカーソルでスタート！,随机鼠标开局！,隨機滑鼠開局！,Começa o jogo com um cursor aleatório!,¡Empieza el juego con un cursor aleatorio que ya tengas desbloqueado!,,,Начните игру со случайным курсором!,,,
-UI_CURSOR_TRAIL_NAME_0,,,,,,,,,,,,
-UI_CURSOR_TRAIL_NAME_1,Circle Trail,軌跡：サークル,,,Rastro Circular,Rastro circular,,,Круглый след,,,
-UI_CURSOR_TRAIL_NAME_2,Triangle Trail,軌跡：トライアングル,,,Rastro Triangular,Rastro triangular,,,Треугольный след,,,
-UI_CURSOR_TRAIL_NAME_3,Star Trail,軌跡：スター,,,Rastro Estelar,Rastro estrellado,,,Звездный след,,,
-UI_CURSOR_TRAIL_NAME_4,Coin Trail,軌跡：コイン,,,Rastro de Moeda,Rastro de monedas,,,След из монет,,,
-UI_CURSOR_TRAIL_NAME_5,Blue Box Trail,軌跡：ブルーボックス,,,Rastro de Caixa Azul,Rastro de caja azul,,,След из синих ящиков,,,
-UI_CURSOR_TRAIL_NAME_6,Heart Trail,軌跡：ハート,,,Rastro de Coração,Rastro de vida,,,След из сердечек,,,
-UI_CURSOR_TRAIL_NAME_7,Glitter Trail,軌跡：グリッター,,,Rastro de Glitter,Rastro de brillo,,,Блестящий след,,,
-UI_CURSOR_TRAIL_NAME_8,Cursor Trail,軌跡：カーソル,,,Rastro de Cursor,Rastro de cursor,,,След из курсоров,,,
-UI_CURSOR_TRAIL_NAME_9,Dumb Trail,軌跡：包み紙,,,Rastro Burro,Rastro tonto,,,Глупый след,,,
-UI_CURSOR_TRAIL_NAME_10,Virus Trail,軌跡：ウイルス,,,Rastro de Vírus,Rastro Virus,,,Вирусный след,,,
-UI_CURSOR_TRAIL_NAME_11,Space Invader Trail,軌跡：インベーダー,,,Rastro Space Invader,Rastro Space Invader,,,След космических захватчиков,,,
-UI_CURSOR_TRAIL_NAME_12,Dev Trail,軌跡：開発者マスコット,,,Rastro de Dev,Rastro de Desarrollador,,,След разработчика,,,
-UI_CURSOR_SKIN_NAME_0,,,,,,,,,,,,
-UI_CURSOR_SKIN_NAME_1,Clipee Skin,クリッピースキン,,,Skin Clipee,Skin de Clipee,,,Скрепыш,,,
-UI_CURSOR_SKIN_NAME_2,Thug Life Skin,ドヤ顔スキン,,,Skin Thug Life,Skin de Thug Life,,,Бандит,,,
-UI_CURSOR_SKIN_NAME_3,Sword Skin,ソードスキン,,,Skin Espada,Skin de Espada,,,Меч,,,
-UI_CURSOR_SKIN_NAME_4,Pickaxe Skin,ピッケルスキン,,,Skin Picareta,Skin de Pico,,,Кирка,,,
-UI_CURSOR_SKIN_NAME_5,Gohei Skin,ゴヘイスキン,,,Skin Gohei,Skin de Gohei,,,Гохэй,,,
-UI_CURSOR_SKIN_NAME_6,Pin Skin,ピン留めスキン,,,Skin Pin,Skin de Pin,,,Булавка,,,
-UI_CURSOR_SKIN_NAME_7,Blue Box Skin,ブルーボックススキン,,,Skin Caixa Azul,Skin de Caja Azul,,,Синий ящик,,,
-UI_CURSOR_SKIN_NAME_8,Fish Skin,おさかなスキン,,,Skin Peixe,Skin de Pez,,,Рыба,,,
-UI_CURSOR_SKIN_NAME_9,Magical Girl Skin,魔法少女☆スキン,,,Skin Garota Mágica,Skin de Chica mágica,,,Девочка-волшебница,,,
-UI_CURSOR_SKIN_NAME_10,Banana Skin,バナナスキン,,,Skin Banana,Skin de Plátano,,,Банан,,,
-UI_CURSOR_SKIN_NAME_11,Pizza Skin,ピザスキン,,,Skin Pizza,Skin de Pizza,,,Пицца,,,
-UI_CURSOR_SKIN_NAME_12,Determination,ケツイ,,,Determinação,Determinación,,,Решимость,,,
-PET_NAME_1,Spore,スポア,,,Esporo,Espora,,,Спора,,,
-PET_NAME_2,Skull,スカル,,,Caveira,Calavera,,,Чареп,,,
-PET_NAME_3,Trojan,トロイ,,,Trojan,Trojano,,,Троян,,,
-PET_NAME_4,Diva,ディーヴァ,,,Diva,Diva,,,Дива,,,
-PET_NAME_5,ZipBomb,ZIP爆弾,,,ZipBomb,Bomba Zip,,,ZipБомба,,,
-PET_NAME_6,Moai,モアイ,,,Moai,Moai,,,Моаи,,,
-PET_NAME_7,User,ユーザー,,,Usuário,Usuario,,,Пользователь,,,
-PET_NAME_8,Worm,ワーム,,,Worm,Gusano,,,Червь,,,
-PET_NAME_9,Spyder,スパイダー,,,Espiaranha,Aracnoespía,,,Шпаук,,,
-PET_NAME_10,Spyder Egg,スパイダーエッグ,,,Ovo Espiaranha,Huevo de Aracnoespía,,,Шпаучье Яйцо,,,
-PET_NAME_11,Helper,ヘルパー,,,Ajudante,Ayudante,,,Помощник,,,
-PET_NAME_12,Boot Sector,ブートセクタ,,,Boot Sector,Boot Sector,,,Бут Сектор,,,
-PET_NAME_13,Cookie Monster,Cookieモンスター,,,CookieMonster,Monstruo de las Galletas,,,Куки Монстр,,,
-PET_NAME_14,Byrd,バード,,,Byrd,Pájaro,,,Птиц,,,
-PET_NAME_15,Book,ブック,,,Livro,Libro,,,Книга,,,
-PET_NAME_16,Conficker,コンフィッカー,,,Conficker,Conflicker,,,Conficker,,,
-PET_NAME_17,Stuxnet,スタックスネット,,,Stuxnet,Stunxnet,,,Stuxnet,,,
-PET_NAME_18,Popper,ポッパー,,,Popper,Anuncio,,,Всплывашка,,,
-PET_NAME_19,Smurf,スマーフ,,,Smurf,Smurf,,,Смурф,,,
-PET_NAME_20,Allaple,Allaple,,,Allaple,Allaple,,,Allaple,,,
-PET_NAME_21,iSpy,iSpy,,,iSpy,iespía,,,iSpy,,,
-PET_NAME_22,Pegasus,ペガサス,,,Pegasus,PegaSUS,,,Pegasus,,,
-PET_NAME_23,Lockbit,ロックビット,,,Lockbit,LockBit,,,Lockbit,,,
-PET_NAME_24,Rootkit,ルートキット,,,Rootkit,Rootkit,,,Руткит,,,
-PET_NAME_25,Cukoo,カッコー,,,Cukoo,Cukoo,,,Ку-ку,,,
-PET_NAME_26,Nimda,Nimda,,,Nimda,Nimda,,,Nimda,,,
-PET_NAME_27,Mirai,ミライ,,,Mirai,Mirai,,,Mirai,,,
-PET_NAME_28,Sasser,サッサー,,,Sasser,Sasser,,,Sasser,,,
-PET_NAME_29,Melissa,メリッサ,,,Melissa,Melissa,,,Melissa,,,
-PET_NAME_30,ZBot,Zbot,,,ZBot,ZBot,,,ZBot,,,
-PET_NAME_31,The First Bug,ファーストバグ,,,O Bug Primordial,El Primer Bug,,,Первый Баг,,,
-PET_NAME_32,The Web Weaver,ウェブウィーバー,,,A Tece Teias,La Tejedora Web,,,Ткачиха,,,
-PET_NAME_33,The Cloud CoreX,クラウドコアX,,,O CloudCoreX,El NucleoNubeX,,,Облачное ЯдроX,,,
-PET_NAME_34,LEV_AI,LEV_AI,,,LEV_AI,LEV_AI,,,ЛЕВ_ИИ,,,
-PET_NAME_35,Blue Box,ブルーボックス,,,Caixa Azul,Caja Azul,,,Синий ящик,,,
-PET_NAME_36,Dina,ディナ,,,Dina,Dina,,,Дина,,,
-PET_NAME_37,Sylvia,シルヴィア,,,Sylvia,Sylvia,,,Сильвия,,,
-PET_NAME_38,Jonai,ジョナイ,,,Jonai,Jonai,,,Джонай,,,
-PET_NAME_39,Bossfighter,ボスファイター,,,Bossfighter,Luchador de Bosses,,,Боссфайтер,,,
-PET_NAME_40,Kuneho,クネホ,,,Kuneho,Kuneho,,,Кунэхо,,,
-PET_NAME_41,Gul,ガル,,,Gul,Gul,,,Гуль,,,
-PET_NAME_42,Triangle Guy,サンカクくん,,,Cara Triangular,Tio Triángulo,,,Треугольчик,,,
-PET_NAME_43,DuwiEXE,Duwi EXE,,,DuwiEXE,DuwiEXE,,,DuwiEXE,,,
-PET_NAME_44,Serina,セリナ,,,Serina,Serina,,,Серина,,,
-PET_NAME_45,Smiley Face,スマイリーフェイス,,,Carinha Feliz,Cara Sonriente,,,Смайлик,,,
-PET_NAME_46,Tanzu,Tanzu,,,Tanzu,Tanzu,,,Танзу,,,
-PET_NAME_47,Princess Pomu,ポム姫,,,Princess Pomu,Princesa Pomu,,,Принцесса Пому,,,
-PET_NAME_48,Whimling,きまぐれベビー,,,Whimling,Whimling,,,Чудик,,,
-PET_NAME_49,Axolotl,サンショウウオ,,,Axolotl,Ajolote,,,Аксолотль,,,
+﻿keys,en,ja,cn,tw,ptbr,es,kr,de,ru,pl,fr,ro,tr,esla
+UI_CURSOR_NAME_1,Classic Cursor,クラシックカーソル,经典鼠标,經典滑鼠,Cursor Clássico,Cursor Clásico,,,Классический курсор,,,Classic Cursor,Klasik İmleç,Cursor clásico
+UI_CURSOR_DESC_1,The reliable cursor to navigate without any special traits. Circle viruses continuously to identify them.,ウイルスをぐるぐる囲んで検出。特別な機能はないが、安定力がある。,最基础的鼠标，没啥特点。靠圈病毒来识别。,最基本的滑鼠，沒什麼特點。靠圈圈病毒來辨識。,Um cursor confiável para navegar e sem nenhuma característica especial. Circule os vírus continuamente para identificá-los.,El típico cursor para navegar por tu ordenador sin efectos especiales. Dibuja círculos alrededor de los Bugs para identificarlos.,,,"Надежный курсор без особых свойств. Обводите вирусов, чтобы их идентифицировать.",,,"Cursorul clasic, de încredere, pentru navigare fără abilități speciale. Desenează cercuri în jurul virușilor pentru a-i identifica.","Herhangi bir özel özelliği olmayan, güvenilir imleç. Virüsleri tanımlamak için üzerlerinde daire çizmeye devam et.",El típico cursor para navegar sin efectos especiales. Dibuja círculos alrededor de los virus para identificarlos.
+UI_CURSOR_UNLOCK_DESC_1,Nothing to see here.,情報なし。,这里啥都没有。,這裡什麼都沒有。,Nada para ver aqui.,No hay absolutamente nada aquí,,,Здесь нечего смотреть.,,,Nu e nimic de văzut aici.,Burada görülecek bir şey yok.,Nada que ver aquí.
+UI_CURSOR_NAME_2,Clicking Cursor,クリックカーソル,点击鼠标,點擊滑鼠,Cursor de Clique,Cursor de Clicks,,,Кликающий курсор,,,Clicking Cursor,Tıklayan İmleç,Cursor de clics
+UI_CURSOR_DESC_2,"Single-target attacker, tap on the viruses to identify them. You can hold for auto clicking.",ウイルスをクリックして検出する、単体狙いのカーソル。長押しで自動的にクリック連打となる。,告别圈圈玩法。直接按住病毒即可识别。,告別圈圈玩法，直接按住病毒即可辨識。,"Atacante de alvo único, clique nos vírus para identificá-los. Segure o botão do mouse para clicar automaticamente.",Solamente puedes atacar un único virus. Click para identificar o si lo prefieres mantén el botón del ratón para un autoclick,,,"Атакует одиночные цели. Просто кликайте на вирусы, чтобы их идентифицировать. Удерживайте для автоклика.",,,"Atacator pe o singură țintă, pasă pe viruși pentru a-i identifica. Poți ține apăsat pentru auto-click.",Tek hedefe odaklı bir saldırgan. Virüslerin üstüne tıklayarak onları tanımla. Basılı tutarak otomatik tıklama yapabilirsin.,"Solamente puedes atacar un virus. Clic para identificar, o, si lo prefieres, mantén el botón del ratón para un hacer clic automáticamente."
+UI_CURSOR_UNLOCK_DESC_2,Identify The First Bug to unlock the Clicking Cursor.,ボス「ファーストバグ」を検出すると「クリックカーソル」が解放される。,识别第一个Bug解锁“点击鼠标”,辨識第一個 Bug 解鎖「點擊滑鼠」,Identifique O Bug Primordial para desbloquear o Cursor de Clique.,Identifica 'Boss1_ElPrimerBug' para desbloquear el Cursor de Clicks,,,"Идентифицируйте Первый Баг, чтобы разблокировать Кликающий курсор.",,,Identifică The First Bug pentru a debloca Clicking Cursor.,Tıklayan İmleç'i açmak için The First Bug'ı tanımla.,Identifica al jefe El primer bug para desbloquear el Cursor de clics
+UI_CURSOR_NAME_3,Identifying Cursor,検出カーソル,识别鼠标,辨識滑鼠,Cursor de Identificação,Cursor de Identificación,,,Курсор-идентификатор,,,Identifying Cursor,Tanımlayan İmleç,Cursor de identificación
+UI_CURSOR_DESC_3,Increased Draw Length and Combo capacity. Lower base attack.,線の長さとコンボの上限数がアップ。ただし、基本攻撃力は控えめ。,提升鼠标绘画长度和连击上限，基础攻击力降低,提升滑鼠繪圖長度與連擊上限，但基礎攻擊力會下降。,Maior Comprimento de Desenho e capacidade de Combo. Menor ataque base.,"Incrementa tu Rango de Dibujo y tu Máximo Combo, pero reduce tu ataque base",,,"Увеличенная длина линии и объем комбо, но базовый урон понижен.",,,Lungime de desen și capacitate de combo crescute. Atac de bază redus.,Daha uzun çizim menzili ve artırılmış kombo kapasitesi sunar. Temel saldırı gücü düşüktür.,"Incrementa tu Rango de dibujo y tu Capacidad de combo, pero reduce tu ataque base."
+UI_CURSOR_UNLOCK_DESC_3,Identify 100 viruses to unlock the Identifying Cursor.,ウイルスを100体検出すると「検出カーソル」が解放される。,识别100个病毒解锁“识别鼠标”,辨識 100 個病毒解鎖「辨識滑鼠」,Identifique 100 vírus para desbloquear o Cursor de Identificação.,Identifica 100 virus para desbloquear el Cursor de Identificación,,,"Идентифицируйте 100 вирусов, чтобы разблокировать Курсор-определитель.",,,Identifică 100 de viruși pentru a debloca Identifying Cursor.,100 virüsü tanımlayarak Tanımlayan İmleç'in kilidini aç.,Identifica 100 virus para desbloquear el Cursor de identificación
+UI_CURSOR_NAME_4,Selection Cursor,範囲選択カーソル,选择鼠标,選擇滑鼠,Cursor de Seleção,Cursor de Selección,,,Курсор-выделитель,,,Selection Cursor,Seçim İmleci,Cursor de selección
+UI_CURSOR_DESC_4,Deals damage within a dotted box around you periodically.,カーソルの周囲に点線の枠が表示される。その範囲内に入った敵に対し、一定の間隔でダメージが付与される。,对你虚线框范围内的敌人造成周期性伤害。,對你虛線框範圍內的敵人造成週期性傷害。,Periodicamente causa dano dentro de uma caixa pontilhada ao redor de você.,Causa daño periódicamente a todos los virus que se encuentren en el cuadrado que tiene a su alrededor,,,Периодически наносит урон в пределах пунктирного квадрата вокруг вас.,,,Provoacă daune periodic într-o zonă delimitată de o cutie punctată în jurul tău.,Etrafında noktalı bir kutu içinde periyodik olarak hasar verir.,Causa daño periódicamente a todos los virus que se encuentren en el cuadrado que tiene a su alrededor.
+UI_CURSOR_UNLOCK_DESC_4,Nothing to see here.,情報なし。,这里啥都没有。,這裡什麼都沒有。,Nada para ver aqui.,No hay absolutamente nada aquí,,,Здесь нечего смотреть.,,,Nu e nimic de văzut aici.,Burada görülecek bir şey yok.,Nada que ver aquí.
+UI_CURSOR_NAME_5,Crosshair Cursor,照準カーソル,准星鼠标,準星滑鼠,Cursor de Mira,Cursor de Punto de Mira,,,Курсор-прицел,,,Crosshair Cursor,Nişangah İmleci,Cursor de Punto de mira
+UI_CURSOR_DESC_5,"Shoots viruses down quicky with bullets, using combo capacity as magazine size.",銃でウイルスを素早く撃ち落とす。コンボの上限数が弾の数となる。,快速的对敌人射击，连击上限决定了弹夹容量,快速對敵人射擊，連擊上限決定彈匣容量。,"Atira rápido nos vírus com balas, usa capacidade de combo como tamanho da munição.","Dispara rapidamente balas a los virus, usa combo máximo como tamaño de revistas",,,"Быстро расстреливает вирусов, используя объем комбо как магазин.",,,"Împușcă rapid virușii cu gloanțe, folosind capacitatea de combo drept mărimea magaziei.","Virüsleri hızlıca mermilerle vurur, kombo kapasitesini şarjör boyutu olarak kullanır.","Dispara rápidamente balas a los virus, usa combo máximo como tamaño del cargador."
+UI_CURSOR_UNLOCK_DESC_5,Identify a virus in a single attack,1回の攻撃でウイルスを検出する。,开发中,開發中,Identifique um vírus com um único ataque,Identifica un virus en un único ataque,,,Определите вирус за одну атаку,,,Identifică un virus într-un singur atac.,Tek bir saldırıda bir virüs tanımla.,Identifica con un solo ataque a un virus
+UI_CURSOR_NAME_6,Rhythm Cursor,リズムカーソル,节奏鼠标,節奏滑鼠,Cursor Rítmico,Cursor Metrónomo,,,Ритмичный курсор,,,Rhythm Cursor,Ritim İmleci,Cursor metrónomo
+UI_CURSOR_DESC_6,Tap on the viruses timely for a guaranteed crit. A mistimed tap will break your combo.,タイミング良くクリックすると、確定でクリティカルダメージが出る。ただし、タイミングを外すとコンボが途切れる。,有节奏的点击病毒必定暴击,有節奏地點擊病毒必定爆擊。,Clique no vírus na hora certa para um crit certo. Cliques fora do ritmo quebram o combo.,Clicka en los virus en el tiempo adecuado para hacer daño crítico,,,"Кликайте по вирусам в такт, чтобы наносить гарантированные крит. удары.",,,Apasă pe viruși la momentul potrivit pentru un crit garantat. O apăsare greșită rupe combo-ul.,Virüslere ritimli şekilde tıklarsan garantili kritik vuruş yaparsın. Zamanlamayı kaçırırsan kombon bozulur.,"Cliquea en los virus en el momento adecuado para infligir daño crítico. Si lo haces mal, perderás tu combo."
+UI_CURSOR_UNLOCK_DESC_6,Identify a total of {x} Diva viruses during their attack,ウイルス「ディーヴァ」が攻撃している最中に、合計{x}体を検出する。,开发中,開發中,Identifique um total de {x} vírus Diva durante o ataque delas,Identifica un total de {x}  'Virus4_Diva',,,Определите в сумме {x} Дива во время их атаки,,,Identifică un total de {x} viruși Diva în timpul atacurilor lor.,Saldırıları sırasında toplamda {x} Diva virüsünü tanımla.,Identifica un total de {x} Virus diva durante su ataque
+UI_CURSOR_NAME_7,Punching Cursor,パンチングカーソル,格斗家鼠标,格鬥家滑鼠,Cursor de Soco,Cursor de Boxeo,,,Ударный курсор,,,Punching Cursor,Yumruk İmleci,Cursor de boxeo
+UI_CURSOR_DESC_7,Swing to beat up viruses quickly with knockback. (Your attacks have knockback),カーソルをぶんぶん振り回し、手早くボコボコにする（この攻撃にはノックバック効果が付与される）。,摇晃鼠标对病毒进行附带击退的连击,搖晃滑鼠可對病毒進行附帶擊退的連擊。,Arraste para bater nos vírus e empurrá-los. (Seus ataques empurram),Muevete por la pantalla para pegarle a los virus rapidamente y empujarlos,,,"Размахивайте курсором и бейте вирусов, отбрасывая их назад.",,,Lovește virușii rapid cu efect de recul. (Atacurile tale provoacă knockback.),"Virüslere yumruk atarak hızlıca hasar verir, geri teper. (Saldırıların geri tepmeye neden olur.)",Muevete por la pantalla para pegarle a los virus rápidamente y empujarlos (tus ataques tienen empuje).
+UI_CURSOR_UNLOCK_DESC_7,Defeat a Moai virus with Explosive Temper,「触るな危険」の性質を持ったモアイ・ウイルスを倒すと、「パンチカーソル」が解放される。,开发中,開發中,Derrote um vírus Moai com Temperamento Explosivo,Identifica un 'Virus6_Moai' con el item 'Temperamento Explosivo',,,"Победите вирус Моаи, используя Взрывной нрав",,,Învinge un virus Moai cu Explosive Temper.,Explosive Temper özelliğine sahip bir Moai virüsünü yen.,Derrota a un virus Moai con Temperamento explosivo
+UI_CURSOR_NAME_8,Ninja Cursor,ニンジャカーソル,木叶鼠标,木葉滑鼠,Cursor Ninja,Cursor Ninja,,,Ниндзя-курсор,,,Ninja Cursor,Ninja İmleci,Cursor ninja
+UI_CURSOR_DESC_8,Hold and stop moving to charge up and unleash rapid slashes on a target.,移動を止めて、左クリック長押しでチャージ。ターゲットに高速の斬撃を放つ。,按住并停止移动鼠标进行蓄力，松开对目标释放快速连斩（哈撒给）,按住並停止移動滑鼠進行蓄力，放開後對目標施放高速連斬（哈撒給）。,Segure e pare de mexer para carregar e executar cortes rápidos no alvo.,Mantén y deja de moverte para cargar un ataque de cortes rápidos,,,"Удерживайте и оставайтесь на месте, чтобы зарядить атаку, а затем обрушьте серию быстрых ударов на врага.",,,Ține apăsat și oprește mișcarea pentru a încărca și elibera o serie rapidă de tăieturi asupra unei ținte.,Basılı tutup hareket etmeyerek enerji topla ve hedefe seri kesikler savur.,Mantén y deja de moverte para cargar un ataque de cortes rápidos
+UI_CURSOR_UNLOCK_DESC_8,Cleared the F:/ drive,Fドライブをクリアすることでゲット。,开发中,開發中,Termine o Drive F:/,Completa el disco F:/,,,Зачистить диск F:/,,,Curăță partiția F:/,F:/ sürücüsünü temizle.,Completa el disco F:/
+UI_CURSOR_NAME_9,Mechanic Cursor,メカニックカーソル,机械师鼠标,機械師滑鼠,Cursor Mecânico,Cursor Mecánico,,,Механический курсор,,,Mechanic Cursor,Mekanik İmleç,Cursor mecánico
+UI_CURSOR_DESC_9,Hold to consume 2 keys to construct a turret. Collect scraps and hammer your turrets to upgrade,左クリック長押しでタレットを設置（キーを2本消費）。スクラップを集めた後、ハンマーで叩くとタレットが強化される。,按住鼠标会消耗两把钥匙建造一个炮台，收集零件并锤击你的炮台来进行升级,按住滑鼠會消耗兩把鑰匙建造一座砲台，收集零件並敲擊你的砲台以升級。,Segure para gastar 2 chaves e construir uma torreta. Colete sucatas e martele as torretas para melhorá-las,Mantén para consumir 2 llaves a cambio de colocar una torreta. Recolecta fragmentos y martillos para mejorar tus torretas,,,"Удерживайте, чтобы потратить 2 ключа и построить турель. Собирайте обломки и улучшайте её с помощью молотка.",,,Ține apăsat pentru a consuma 2 chei și a construi o turelă. Colectează piese și repară turelele pentru upgrade.,Basılı tutarak 2 anahtar harca ve bir taret inşa et. Hurda toplayarak taretlerini çekiçle geliştir.,Mantén para consumir 2 llaves a cambio de colocar una torreta. Recolecta fragmentos y martilla tus torretas para mejorarlas.
+UI_CURSOR_UNLOCK_DESC_9,Obtain Key Piece 1 and Key Piece 2,キーピース1とキーピース2を手に入れる。,开发中,開發中,Obtenha o Pedaço de Chave 1 e Pedaço de Chave 2,Obtén Pieza de Llave 1 y Pieza de Llave 2,,,Получите 1 и 2 фрагменты ключа,,,Obține Fragment de Cheie 1 și Fragment de Cheie 2.,Anahtar Parçası 1 ve 2’yi elde et.,Obtén Fragmento de llave 1 y Fragmento de llave 2
+UI_CURSOR_NAME_10,Gambler Cursor,ギャンブラーカーソル,赌狗鼠标,賭狗滑鼠,Cursor de Apostas,Cursor Gambling,,,Азартный курсор,,,Gambler Cursor,Kumar İmleci,Cursor de apuestas
+UI_CURSOR_DESC_10,Hold & drag to shoot coins like railgun. Fire rate & speed scales with coins,長押し&ドラッグで、コインをレールガンのように発射する。コインの所持枚数に応じて、連射速度と弾速が上がっていく。,按住或拖拽鼠标蓄力射击出硬币，射速和弹速受硬币数量影响,按住或拖曳滑鼠蓄力射出硬幣，射速與彈速會受到硬幣數量影響。,Segura & arraste para atirar moedas como uma railgun. Velocidade e cadência escalam com mais moedas,Mantén y arrastra para disparar monedas como si fuera un cañon de riel. Velocidad de disparo y de proyectil escala según tus monedas,,,"Удерживайте и тяните, чтобы выстрелить монетами, словно из рельсотрона. Скорость и темп стрельбы зависят от количества монет.",,,Ține apăsat și trage pentru a lansa monede ca un railgun. Viteza și rata de foc cresc în funcție de numărul de monede.,Basılı tutup sürükleyerek madeni paraları raylı tüfek gibi fırlat. Ateş hızı ve mermi hızı sahip olduğun para miktarına bağlıdır.,Mantén y arrastra para disparar monedas como si fuera un cañon de riel. La velocidad de disparo y de proyectil escala según tus monedas.
+UI_CURSOR_UNLOCK_DESC_10,Cleared the game without spending coins,コインを1枚も使わずにゲームをクリアする。,开发中,開發中,Termine o jogo sem gastar moedas,Completa el juego sin gastar ninguna moneda,,,"Пройдите игру, не потратив ни одной монеты",,,Termină jocul fără să cheltui monede.,Oyunu para harcamadan bitir.,Completa el juego sin gastar ninguna moneda
+UI_CURSOR_NAME_11,Recycling Cursor,リサイクルカーソル,环保鼠标,環保滑鼠,Cursor de Reciclagem,Cursor de Reciclaje,,,Курсор переработки,,,Recycling Cursor,Geri Dönüşüm İmleci,Cursor de reciclaje
+UI_CURSOR_DESC_11,The files you pick up surrounds you.,回収したファイルが、カーソルの周りをぐるぐる回る。,你捡起的文件会环绕在你周围,你撿起的檔案會環繞在你周圍。,Os arquivos que pegar te rodeiam.,Los archivos que recojes te rodean,,,Подобранные файлы вращаются вокруг вас.,,,Fișierele pe care le ridici orbitează în jurul tău.,Topladığın dosyalar seni çevreler.,Los archivos que recoges te rodean.
+UI_CURSOR_UNLOCK_DESC_11,Pick up {x} files,ファイルを{x}件回収する。,开发中,開發中,Pegue {x} arquivos,Recoge {x} archivos,,,Соберите {x} файлов,,,Ridică {x} fișiere.,{x} dosya topla.,Recoge {x} archivos
+UI_CURSOR_NAME_12,Lasso Cursor,投げ縄カーソル,牛仔鼠标,牛仔滑鼠,Cursor de Laço,Cursor de Lazo,,,Курсор-лассо,,,Lasso Cursor,Kement İmleci,Cursor de lazo
+UI_CURSOR_DESC_12,How to Train Your Trojan Horse,トロイの木馬を手なづける方法。,360木马大师,360 木馬大師,Como Treinar o Seu Trojão,Como entrenar tu Caballo de Troya,,,Как приручить трояна,,,Cum să-ți dresezi Calul Troian.,Truva Atını Nasıl Eğitirsin,Como entrenar a tu Caballo de Troya
+UI_CURSOR_UNLOCK_DESC_12,Identify a total of {x} Trojan viruses during their attack,攻撃モーション中のトロイ・ウイルスを合計{x}体検出すると、「投げ縄カーソル」がアンロックされる。,开发中,開發中,Identifique um total de {x} vírus Trojan durante o ataque deles,Identifica un total de {x} 'Virus3_Troyano' durante su ataque,,,Определи в сумме {x} Троянов во время их атаки,,,Identifică un total de {x} viruși Trojan în timpul atacurilor lor.,Saldırıları sırasında toplamda {x} Truva virüsünü tanımla.,Identifica un total de {x} Virus Troyano durante su ataque
+UI_CURSOR_NAME_13,Viking Cursor,ヴァイキングカーソル,维京人鼠标,維京人滑鼠,Cursor Viking,Cursor Vikingo,,,Курсор викинга,,,Viking Cursor,Viking İmleci,Cursor vikingo
+UI_CURSOR_DESC_13,Coming soon in future updates.,今後のアップデートで追加予定,别急，程序猿在做啦！,別急，工程師在做啦！,"Em breve, em atualizações futuras.",En próximas actualizaciones...,,,Находится в разработке.,,,"În curând, în actualizările viitoare.",Yakında gelecek güncellemelerde eklenecek.,En próximas actualizaciones...
+UI_CURSOR_UNLOCK_DESC_13,Coming soon in future updates.,今後のアップデートで追加予定,别急，程序猿在做啦！,別急，工程師在做啦！,"Em breve, em atualizações futuras.",En próximas actualizaciones...,,,Находится в разработке.,,,"În curând, în actualizările viitoare.",Yakında gelecek güncellemelerde eklenecek.,En próximas actualizaciones...
+UI_CURSOR_NAME_14,Tesla Coil Cursor,テスラコイルカーソル,特斯拉线圈鼠标,特斯拉線圈滑鼠,Cursor Bobina de Tesla,Cursor de Bobina de Tesla,,,Тесла-курсор,,,Tesla Coil Cursor,Tesla Bobini İmleci,Cursor de Bobina de Tesla
+UI_CURSOR_DESC_14,Coming soon in future updates.,今後のアップデートで追加予定,别急，程序猿在做啦！,別急，工程師在做啦！,"Em breve, em atualizações futuras.",En próximas actualizaciones...,,,Находится в разработке.,,,"În curând, în actualizările viitoare.",Yakında gelecek güncellemelerde eklenecek.,En próximas actualizaciones...
+UI_CURSOR_UNLOCK_DESC_14,Coming soon in future updates.,今後のアップデートで追加予定,别急，程序猿在做啦！,別急，工程師在做啦！,"Em breve, em atualizações futuras.",En próximas actualizaciones...,,,Находится в разработке.,,,"În curând, în actualizările viitoare.",Yakında gelecek güncellemelerde eklenecek.,En próximas actualizaciones...
+UI_CURSOR_NAME_15,Ping Pong Cursor,ピンポンカーソル,乒乓鼠标,乒乓滑鼠,Cursor Ping Pong,Cursor Ping Pong,,,Пинг-понг-курсор,,,Ping Pong Cursor,Pinpon İmleci,Cursor Ping Pong
+UI_CURSOR_DESC_15,Coming soon in future updates.,今後のアップデートで追加予定,别急，程序猿在做啦！,別急，工程師在做啦！,"Em breve, em atualizações futuras.",En próximas actualizaciones...,,,Находится в разработке.,,,"În curând, în actualizările viitoare.",Yakında gelecek güncellemelerde eklenecek.,En próximas actualizaciones...
+UI_CURSOR_UNLOCK_DESC_15,Coming soon in future updates.,今後のアップデートで追加予定,别急，程序猿在做啦！,別急，工程師在做啦！,"Em breve, em atualizações futuras.",En próximas actualizaciones...,,,Находится в разработке.,,,"În curând, în actualizările viitoare.",Yakında gelecek güncellemelerde eklenecek.,En próximas actualizaciones...
+UI_CURSOR_RAND_NAME,Random,ランダム,随机,隨機,Aleatório,Aleatorio,,,Случайный курсор,,,Aleatoriu,Rastgele,Aleatorio
+UI_CURSOR_RAND_DESC,Starts the game with a random cursor!,ランダムなカーソルでスタート！,随机鼠标开局！,隨機滑鼠開局！,Começa o jogo com um cursor aleatório!,¡Empieza el juego con un cursor aleatorio que ya tengas desbloqueado!,,,Начните игру со случайным курсором!,,,Începe jocul cu un cursor aleatoriu!,Oyuna rastgele bir imleçle başla!,¡Empieza el juego con un cursor aleatorio!
+UI_CURSOR_TRAIL_NAME_0,,,,,,,,,,,,,,
+UI_CURSOR_TRAIL_NAME_1,Circle Trail,軌跡：サークル,,,Rastro Circular,Rastro circular,,,Круглый след,,,Traseu de Cerc,Daire İzi,Rastro circular
+UI_CURSOR_TRAIL_NAME_2,Triangle Trail,軌跡：トライアングル,,,Rastro Triangular,Rastro triangular,,,Треугольный след,,,Traseu de Triunghi,Üçgen İzi,Rastro triangular
+UI_CURSOR_TRAIL_NAME_3,Star Trail,軌跡：スター,,,Rastro Estelar,Rastro estrellado,,,Звездный след,,,Traseu de Stea,Yıldız İzi,Rastro estrellado
+UI_CURSOR_TRAIL_NAME_4,Coin Trail,軌跡：コイン,,,Rastro de Moeda,Rastro de monedas,,,След из монет,,,Traseu de Bănuți,Coin İzi,Rastro de monedas
+UI_CURSOR_TRAIL_NAME_5,Blue Box Trail,軌跡：ブルーボックス,,,Rastro de Caixa Azul,Rastro de caja azul,,,След из синих ящиков,,,Traseu de Cutie Albastră,Blue Box İzi,Rastro de caja azul
+UI_CURSOR_TRAIL_NAME_6,Heart Trail,軌跡：ハート,,,Rastro de Coração,Rastro de vida,,,След из сердечек,,,Traseu de Inimă,Kalp İzi,Rastro de corazón
+UI_CURSOR_TRAIL_NAME_7,Glitter Trail,軌跡：グリッター,,,Rastro de Glitter,Rastro de brillo,,,Блестящий след,,,Traseu Sclipitor,Parıltı İzi,Rastro de brillo
+UI_CURSOR_TRAIL_NAME_8,Cursor Trail,軌跡：カーソル,,,Rastro de Cursor,Rastro de cursor,,,След из курсоров,,,Traseu de Cursor,İmleç İzi,Rastro de cursor
+UI_CURSOR_TRAIL_NAME_9,Dumb Trail,軌跡：包み紙,,,Rastro Burro,Rastro tonto,,,Глупый след,,,Traseu Prostesc,Aptal İz,Rastro tonto
+UI_CURSOR_TRAIL_NAME_10,Virus Trail,軌跡：ウイルス,,,Rastro de Vírus,Rastro Virus,,,Вирусный след,,,Traseu de Virus,Virüs İzi,Rastro virus
+UI_CURSOR_TRAIL_NAME_11,Space Invader Trail,軌跡：インベーダー,,,Rastro Space Invader,Rastro Space Invader,,,След космических захватчиков,,,Traseu Space Invader,Space Invader İzi,Rastro de Space Invader
+UI_CURSOR_TRAIL_NAME_12,Dev Trail,軌跡：開発者マスコット,,,Rastro de Dev,Rastro de Desarrollador,,,След разработчика,,,Traseu Dev,Geliştirici İzi,Rastro de desarrollador
+UI_CURSOR_SKIN_NAME_0,,,,,,,,,,,,,,
+UI_CURSOR_SKIN_NAME_1,Clipee Skin,クリッピースキン,,,Skin Clipee,Skin de Clipee,,,Скрепыш,,,Skin Clipee,Clipee Kostümü,Aspecto de Clipee
+UI_CURSOR_SKIN_NAME_2,Thug Life Skin,ドヤ顔スキン,,,Skin Thug Life,Skin de Thug Life,,,Бандит,,,Skin Thug Life,Thug Life Kostümü,Aspecto de Thug Life
+UI_CURSOR_SKIN_NAME_3,Sword Skin,ソードスキン,,,Skin Espada,Skin de Espada,,,Меч,,,Skin de Sabie,Kılıç Kostümü,Aspecto de Espada
+UI_CURSOR_SKIN_NAME_4,Pickaxe Skin,ピッケルスキン,,,Skin Picareta,Skin de Pico,,,Кирка,,,Skin de Tarnacop,Kazma Kostümü,Aspecto de Pico
+UI_CURSOR_SKIN_NAME_5,Gohei Skin,ゴヘイスキン,,,Skin Gohei,Skin de Gohei,,,Гохэй,,,Skin Gohei,Gohei Kostümü,Aspecto de Gohei
+UI_CURSOR_SKIN_NAME_6,Pin Skin,ピン留めスキン,,,Skin Pin,Skin de Pin,,,Булавка,,,Skin de Ac,İğne Kostümü,Aspecto de Pin
+UI_CURSOR_SKIN_NAME_7,Blue Box Skin,ブルーボックススキン,,,Skin Caixa Azul,Skin de Caja Azul,,,Синий ящик,,,Skin Cutie Albastră,Blue Box Kostümü,Aspecto de Caja azul
+UI_CURSOR_SKIN_NAME_8,Fish Skin,おさかなスキン,,,Skin Peixe,Skin de Pez,,,Рыба,,,Skin de Pește,Balık Kostümü,Aspecto de Pez
+UI_CURSOR_SKIN_NAME_9,Magical Girl Skin,魔法少女☆スキン,,,Skin Garota Mágica,Skin de Chica mágica,,,Девочка-волшебница,,,Skin Fată Magică,Büyülü Kız Kostümü,Aspecto de Chica mágica
+UI_CURSOR_SKIN_NAME_10,Banana Skin,バナナスキン,,,Skin Banana,Skin de Plátano,,,Банан,,,Skin de Banană,Muz Kostümü,Aspecto de Plátano
+UI_CURSOR_SKIN_NAME_11,Pizza Skin,ピザスキン,,,Skin Pizza,Skin de Pizza,,,Пицца,,,Skin de Pizza,Pizza Kostümü,Aspecto de Pizza
+UI_CURSOR_SKIN_NAME_12,Determination,ケツイ,,,Determinação,Determinación,,,Решимость,,,Determinare,Azim,Determinación
+PET_NAME_1,Spore,スポア,,,Esporo,Espora,,,Спора,,,Spore,Spor,Espora
+PET_NAME_2,Skull,スカル,,,Caveira,Calavera,,,Чареп,,,Skull,Kuru Kafa,Calavera
+PET_NAME_3,Trojan,トロイ,,,Trojan,Trojano,,,Троян,,,Trojan,Truva,Trojano
+PET_NAME_4,Diva,ディーヴァ,,,Diva,Diva,,,Дива,,,Diva,Diva,Diva
+PET_NAME_5,ZipBomb,ZIP爆弾,,,ZipBomb,Bomba Zip,,,ZipБомба,,,ZipBomb,ZipBomb,BombaZip
+PET_NAME_6,Moai,モアイ,,,Moai,Moai,,,Моаи,,,Moai,Moai,Moai
+PET_NAME_7,User,ユーザー,,,Usuário,Usuario,,,Пользователь,,,User,Kullanıcı,Usuario
+PET_NAME_8,Worm,ワーム,,,Worm,Gusano,,,Червь,,,Worm,Solucan,Gusano
+PET_NAME_9,Spyder,スパイダー,,,Espiaranha,Aracnoespía,,,Шпаук,,,Spyder,Spyder,Araña
+PET_NAME_10,Spyder Egg,スパイダーエッグ,,,Ovo Espiaranha,Huevo de Aracnoespía,,,Шпаучье Яйцо,,,Spyder Egg,Spyder Yumurtası,Huevo de araña
+PET_NAME_11,Helper,ヘルパー,,,Ajudante,Ayudante,,,Помощник,,,Helper,Yardımcı,Ayudante
+PET_NAME_12,Boot Sector,ブートセクタ,,,Boot Sector,Boot Sector,,,Бут Сектор,,,Boot Sector,Boot Sector,Sector de inicio
+PET_NAME_13,Cookie Monster,Cookieモンスター,,,CookieMonster,Monstruo de las Galletas,,,Куки Монстр,,,Cookie Monster,Kurabiye Canavarı,Monstruo de las galletas
+PET_NAME_14,Byrd,バード,,,Byrd,Pájaro,,,Птиц,,,Byrd,Byrd,Pájaro
+PET_NAME_15,Book,ブック,,,Livro,Libro,,,Книга,,,Book,Kitap,Libro
+PET_NAME_16,Conficker,コンフィッカー,,,Conficker,Conflicker,,,Conficker,,,Conficker,Conficker,Conficker
+PET_NAME_17,Stuxnet,スタックスネット,,,Stuxnet,Stunxnet,,,Stuxnet,,,Stuxnet,Stuxnet,Stuxnet
+PET_NAME_18,Popper,ポッパー,,,Popper,Anuncio,,,Всплывашка,,,Popper,Popper,Anuncio
+PET_NAME_19,Smurf,スマーフ,,,Smurf,Smurf,,,Смурф,,,Smurf,Cüce,Smurf
+PET_NAME_20,Allaple,Allaple,,,Allaple,Allaple,,,Allaple,,,Allaple,Allaple,Allaple
+PET_NAME_21,iSpy,iSpy,,,iSpy,iespía,,,iSpy,,,iSpy,iSpy,Espía cibernético
+PET_NAME_22,Pegasus,ペガサス,,,Pegasus,PegaSUS,,,Pegasus,,,Pegasus,Pegasus,Pegaso
+PET_NAME_23,Lockbit,ロックビット,,,Lockbit,LockBit,,,Lockbit,,,Lockbit,Lockbit,LockBit
+PET_NAME_24,Rootkit,ルートキット,,,Rootkit,Rootkit,,,Руткит,,,Rootkit,Rootkit,Rootkit
+PET_NAME_25,Cukoo,カッコー,,,Cukoo,Cukoo,,,Ку-ку,,,Cukoo,Cukoo,Cukoo
+PET_NAME_26,Nimda,Nimda,,,Nimda,Nimda,,,Nimda,,,Nimda,Nimda,Nimda
+PET_NAME_27,Mirai,ミライ,,,Mirai,Mirai,,,Mirai,,,Mirai,Mirai,Mirai
+PET_NAME_28,Sasser,サッサー,,,Sasser,Sasser,,,Sasser,,,Sasser,Sasser,Sasser
+PET_NAME_29,Melissa,メリッサ,,,Melissa,Melissa,,,Melissa,,,Melissa,Melissa,Melissa
+PET_NAME_30,ZBot,Zbot,,,ZBot,ZBot,,,ZBot,,,ZBot,Zbot,BotZ
+PET_NAME_101,The First Bug,ファーストバグ,,,O Bug Primordial,El Primer Bug,,,Первый Баг,,,The First Bug,The First Bug,El primer bug
+PET_NAME_102,The Web Weaver,ウェブウィーバー,,,A Tece Teias,La Tejedora Web,,,Ткачиха,,,The Web Weaver,The Web Weaver,La tejedora web
+PET_NAME_103,The Cloud CoreX,クラウドコアX,,,O CloudCoreX,El NucleoNubeX,,,Облачное ЯдроX,,,The Cloud CoreX,The Cloud CoreX,El NúcleoNubeX
+PET_NAME_104,LEV_AI,LEV_AI,,,LEV_AI,LEV_AI,,,ЛЕВ_ИИ,,,LEV_AI,LEV_AI,LEV_AI
+PET_NAME_201,Blue Box,ブルーボックス,,,Caixa Azul,Caja Azul,,,Синий ящик,,,Blue Box,Blue Box,Caja azul
+PET_NAME_202,Dina,ディナ,,,Dina,Dina,,,Дина,,,Dina,Dina,Dina
+PET_NAME_203,Sylvia,シルヴィア,,,Sylvia,Sylvia,,,Сильвия,,,Sylvia,Sylvia,Sylvia
+PET_NAME_204,Jonai,ジョナイ,,,Jonai,Jonai,,,Джонай,,,Jonai,Jonai,Jonai
+PET_NAME_205,Bossfighter,ボスファイター,,,Bossfighter,Luchador de Bosses,,,Боссфайтер,,,Bossfighter,Bossfighter,Luchador de jefes
+PET_NAME_206,Kuneho,クネホ,,,Kuneho,Kuneho,,,Кунэхо,,,Kuneho,Kuneho,Kuneho
+PET_NAME_207,Gul,ガル,,,Gul,Gul,,,Гуль,,,Gul,Gul,Gul
+PET_NAME_208,Triangle Guy,サンカクくん,,,Cara Triangular,Tio Triángulo,,,Треугольчик,,,Triangle Guy,Üçgen Adam,Chico triángulo
+PET_NAME_209,DuwiEXE,Duwi EXE,,,DuwiEXE,DuwiEXE,,,DuwiEXE,,,DuwiEXE,DuwiEXE,DuwiEXE
+PET_NAME_210,Serina,セリナ,,,Serina,Serina,,,Серина,,,Serina,Serina,Serina
+PET_NAME_211,Smiley Face,スマイリーフェイス,,,Carinha Feliz,Cara Sonriente,,,Смайлик,,,Smiley Face,Gülümseyen Yüz,Cara sonriente
+PET_NAME_212,Tanzu,Tanzu,,,Tanzu,Tanzu,,,Танзу,,,Tanzu,Tanzu,Tanzu
+PET_NAME_213,Princess Pomu,ポム姫,,,Princess Pomu,Princesa Pomu,,,Принцесса Пому,,,Princess Pomu,Prenses Pomu,Princesa Pomu
+PET_NAME_214,Whimling,きまぐれベビー,,,Whimling,Whimling,,,Чудик,,,Whimling,Whimling,Whimling
+PET_NAME_215,Axolotl,サンショウウオ,,,Axolotl,Ajolote,,,Аксолотль,,,Axolotl,Aksolotl,Ajolote
+PET_NAME_216,Paige,,,,,,,,,,,,,Paige
+PET_NAME_217,Keyboard Cat,,,,,,,,,,,,,Keyboard Cat
+PET_NAME_218,Noko,,,,,,,,,,,,,Noko
+PET_NAME_219,Bob,,,,,,,,,,,,,Bob
+PET_NAME_220,Rat,,,,,,,,,,,,,Rat
+PET_NAME_221,Caronte Caim,,,,,,,,,,,,,Caronte Caim
+PET_NAME_222,Nooble,,,,,,,,,,,,,Nooble
+PET_NAME_223,Chicken Guy,,,,,,,,,,,,,Chicken Guy
+PET_NAME_224,Tiny Dice Adventurer,,,,,,,,,,,,,Tiny Dice Adventurer
+PET_NAME_225,Sudonym,,,,,,,,,,,,,Sudonym
+PET_NAME_226,Wyrm,,,,,,,,,,,,,Wyrm
+PET_NAME_227,Moon Bunny,,,,,,,,,,,,,Moon Bunny
+PET_NAME_228,Bloopa,,,,,,,,,,,,,Bloopa
+PET_NAME_229,Mei,,,,,,,,,,,,,Mei
+PET_NAME_230,Natsu,,,,,,,,,,,,,Natsu
+PET_NAME_231,Luna,,,,,,,,,,,,,Luna
+PET_NAME_232,Candy,,,,,,,,,,,,,Candy
+PET_NAME_233,Beandejo,,,,,,,,,,,,,Beandejo
+PET_NAME_234,Pichon,,,,,,,,,,,,,Pichon
+PET_NAME_235,jeminix2,,,,,,,,,,,,,jeminix2
+PET_NAME_236,Creamy,,,,,,,,,,,,,Creamy
+PET_NAME_237,Tofu,,,,,,,,,,,,,Tofu
+PET_NAME_238,Funa,,,,,,,,,,,,,Funa
+PET_NAME_239,Sundust,,,,,,,,,,,,,Sundust
+PET_NAME_240,Mini Tank,,,,,,,,,,,,,Mini Tank
+PET_NAME_241,aintnoking,,,,,,,,,,,,,aintnoking
+PET_NAME_242,Cara,,,,,,,,,,,,,Cara
+PET_NAME_243,Hanabee,,,,,,,,,,,,,Hanabee
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
