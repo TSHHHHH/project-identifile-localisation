@@ -158,35 +158,35 @@ BOSS_DIALOGUE_SMUG_PROJ_13,LULW,大草原不可避,笑崩了,笑爆了,KKKK,LULW
 BOSS_DIALOGUE_SMUG_PROJ_14,BRUH,マジか,兄弟啊,兄弟啊,MANO,BRUH,,,BRUH,,,BRUH,BRUH,BRUH
 BOSS_DIALOGUE_SMUG_PROJ_15,HYPEE,激アツ,起飞,起飛啦,HYPEE,HYPEE,,,ХАЙПИМ,,,HYPEE,HYPEE,HYPEE
 UI_QUIT_EA_DESC,"This isn't just Early Access, it's Early Chaos!\n\nWe genuinely hope to make this game awesome with your feedback!\nCome be part of Identifile's community by joining the Discord, talk to other players and roast the devs, we chill",これはただのアーリーアクセスではありません…名付けて、アーリーカオス！\n\n皆さんの声を取り入れて、このゲームを最高の作品にしたいと本気で思っています！\nぜひ、Discordから『Identifile』公式サーバーにご参加ください！\nプレイヤー同士の交流も、開発への愛あるツッコミも大歓迎！\nまったりした雰囲気でやってるので、お気軽にどうぞ！,这不只是抢先体验，这可是抢先爽宴！\n\n我们真心希望能通过你们的反馈来把这个游戏变得更好玩！\n快来加入我们的 Discord，成为 Identifile 社区的一员！在这里你可以和其他玩家唠嗑，还能顺便拷打一下制作组。我们氛围超好，就等你了！,這不只是搶先體驗，這可是搶先爽宴！\n\n我們真心希望能透過你們的回饋，讓這款遊戲變得更好玩！\n快來加入我們的 Discord，成為 Identifile 社群的一員吧！\n在這裡你能和其他玩家聊天，順便「拷打」一下製作組。\n我們氣氛超好，就差你啦！,"Não é só Acesso Antecipado, é Caos Antecipado!\n\nNós esperamos deixar esse jogo irado com o seu feedback!\nVenha fazer parte da comunidade do Identifile no Discord, fale com outros jogadores e zoar os devs, a gente é de boas","Esto es solo un Acceso Anticipado, es Caos Anticipado!\n\nEsperamos que podamos mejorar este juego con tu feedback!\nSe parte de la comunidad de Identifile uniéndote al Discord, habla con otros jugadores y crítica a los desarrolladores (Bromita)",,,Это не просто ранний доступ – это ранний хаос!\n\nМы искренне хотим сделать игру прекрасной – и не без вашей помощи!\nПрисоединяйтесь к сообществу Identifile в Discord – общайтесь с другими игроками и прожаривайте разрабов. Мы переживем!,,,"Nu e doar Early Access, e Haos Timpuriu!\n\nSperăm sincer să facem jocul grozav cu ajutorul feedback-ului vostru!\nAlătură-te comunității Identifile pe Discord, vorbește cu alți jucători, tachinează developerii și relax!","Bu sadece Erken Erişim değil, tam bir Erken Kaos!","Esto no es solo un Acceso anticipado, es Caos anticipado!\n\nEsperamos que podamos mejorar este juego con tu aporte!\nSe parte de la comunidad de Identifile uniéndote al Discord, habla con otros jugadores y crítica a los desarrolladores (Bromita)"
-UI_WINDOW_NAME_MOD_SELECT,Modifier Select,MOD選択,,,Selecionar Modificador,Modificador Seleccionado,,,Выбор модификатора,,,Selectare Modificator,Değiştirici Seçimi,Modificador seleccionado
-UI_WINDOW_NAME_CURSOR_COSMETICS,Cursor Cosmetics,カーソル：コスメティック,,,Cosméticos,Cosméticos del Cursor,,,Украшения курсора,,,Personalizare Cursor,İmleç Kozmetikleri,Cosméticos del cursor
-UI_WINDOW_NAME_PETS,Desktop Pets,デスクトップ・ペット,,,Pets de Desktop,Escritorio de Mascotas,,,Виртуальные питомцы,,,Animăluțe de Desktop,Masaüstü Evcil Hayvanlar,Escritorio de mascotas
-UI_SHOP_CATEGORY_CURSOR_SKIN,Cursor Skin,スキン：カーソル,,,Skin de Cursor,Skin del Cursor,,,Скин курсора,,,Skin Cursor,İmleç Kılıfı,Aspecto del cursor
-UI_SHOP_CATEGORY_CURSOR_TRAILS,Cursor Trails,軌跡：カーソル,,,Rastro de Cursor,Rastros del Cursor,,,След курсора,,,Urme Cursor,İmleç İzleri,Rastros del cursor
-UI_SHOP_CATEGORY_MOD,MOD,MOD,,,MOD,MOD ,,,МОД,,,MOD,MOD,MOD 
-UI_SHOP_CATEGORY_EXE,EXE,EXE,,,EXE,EXE,,,EXE,,,EXE,EXE,EXE
-UI_SHOP_LABEL_DATAFRAG,Data Fragments,データの断片,,,Fragmentos de dados,Fragmentos de datos,,,Фрагменты данных,,,Fragmente de Date,Veri Parçacıkları,Fragmentos de datos
-UI_SHOP_LABEL_COST,Cost,コスト,,,Custo,Coste,,,Цена,,,Cost,Maliyet,Coste
-UI_SHOP_LABEL_BUY,Buy,購入,,,Comprar,Comprar,,,Купить,,,Cumpără,Satın Al,Comprar
-UI_DATABASE_STAT_TOTAL_RUNS,Total Runs,合計：ラン数,,,Runs Totais,Partidas totales,,,Забегов,,,Total Rulări,Toplam Koşular,Partidas totales
-UI_DATABASE_STAT_TOTAL_DEATHS,Total Deaths,合計：デス数,,,Mortes Totais,Muertes,,,Смертей,,,Total Morți,Toplam Ölümler,Muertes totales
-UI_DATABASE_STAT_TOTAL_AFK_TIME,Total Time Spent AFK,合計：放置時間,,,Tempo Gasto AFK,Tiempo AFK,,,Времени в АФК,,,Timp Total Petrecut AFK,Toplam AFK Süresi,Tiempo AFK
-UI_DATABASE_STAT_TOTAL_FILES_OPENED,Total Files Checked,合計：調べたファイルの数,,,Arquivos Checados,Archivos revisados,,,Файлов проверено,,,Total Fișiere Verificate,Toplam Kontrol Edilen Dosya Sayısı,Archivos revisados
-UI_DATABASE_STAT_TOTAL_FOLDERS_OPENED,Total Folders Opened,合計：開いたフォルダの数,,,Pastas Abertas,Carpetas abiertas,,,Папок открыто,,,Total Foldere Deschise,Toplam Açılan Klasör Sayısı,Carpetas abiertas
-UI_DATABASE_STAT_TOTAL_DRIVES_CLEARED,Total Drives Cleared,合計：クリーンにしたドライブの数,,,Drives Limpos,Discos completados,,,Дисков зачищено,,,Total Partiții Curățate,Toplam Temizlenen Sürücü Sayısı,Discos completados
-UI_DATABASE_STAT_TOTAL_MODS_OBTAINED,Total Mods Obtained,合計：入手したMODの数,,,Mods Obtidos,Mods obtenidos,,,Модификаторов получено,,,Total MOD-uri Obținute,Toplam Elde Edilen Mod Sayısı,Mods obtenidos
-UI_DATABASE_STAT_TOTAL_EXE_USED,Total Exe Used,合計：使用したEXEの数,,,EXEs utilizados,Exes usados,,,Exe использовано,,,Total EXE-uri Folosite,Toplam Kullanılan EXE Sayısı,EXE usados
-UI_DATABASE_STAT_TOTAL_EXE_RECHARGED,Total Exe Charges Recharged,合計：EXE使用回数を回復した数,,,Cargas de EXE recarregadas,Cargas de exes recargadas,,,Exe заряжено,,,Total Încărcări EXE Refăcute,Toplam Yenilenen EXE Şarjı,Cargas de EXE recargadas
-UI_DATABASE_STAT_TOTAL_ITEMS_PURCHASED,Total Items Purchased,合計：アイテム購入数,,,Total de Itens Comprados,Items comprados,,,Предметов куплено,,,Total Articole Cumpărate,Toplam Satın Alınan Eşya Sayısı,Objetos comprados
-UI_DATABASE_STAT_TOTAL_COIN_SPENT,Total Coins Used,合計：使用したコイン枚数,,,Total de Moedas Usadas,Monedas usadas,,,Монет потрачено,,,Total Monede Folosite,Toplam Harcanan Coin,Monedas usadas
-UI_DATABASE_STAT_TOTAL_COIN_OBTAINED,Total Coins Obtained,合計：入手したコイン枚数,,,Total de Moedas Obtidas,Monedas obtenidas,,,Монет получено,,,Total Monede Obținute,Toplam Kazanılan Coin,Monedas obtenidas
-UI_DATABASE_STAT_TOTAL_KEY_SPENT,Total Key Used,合計：使用したキーの数,,,Chaves Usadas,Llaves usadas,,,Ключей использовано,,,Total Chei Folosite,Toplam Kullanılan Anahtar Sayısı,Llaves usadas
-UI_DATABASE_STAT_TOTAL_KEY_OBTAINED,Total Key Obtained,合計：入手したキーの数,,,Chaves Obtidas,Llaves obtenidas,,,Ключей получено,,,Total Chei Obținute,Toplam Elde Edilen Anahtar Sayısı,Llaves obtenidas
-UI_DATABASE_STAT_TOTAL_DAMAGE_DEALT,Total Damage Dealt,合計：与ダメージ,,,Dano Causado Total,Daño total inflingido,,,Урона нанесено,,,Total Damage Cauzat,Toplam Verilen Hasar,Daño total infligido
-UI_DATABASE_STAT_TOTAL_DAMAGE_TAKEN,Total Damage Taken,合計：被ダメージ,,,Dano Recebido Total,Daño total recibido,,,Урона получено,,,Total Damage Primit,Toplam Alınan Hasar,Daño total recibido
-UI_DATABASE_STAT_TOTAL_HEALTH_HEALED,Total Health Healed,合計：回復した体力の数,,,Vida Curada Total,Vida curada,,,Здоровья восстановлено,,,Total Viață Vindecată,Toplam İyileştirilen Can,Vida curada
-UI_DATABASE_STAT_TOTAL_CRITICAL_HITS,Total Critical Hits,合計：クリティカルヒット数,,,Acertos Críticos,Golpes críticos,,,Критических ударов,,,Total Lovituri Critice,Toplam Kritik Vuruş Sayısı,Golpes críticos
-UI_DATABASE_STAT_TOTAL_SHINY_IDENTIFIED,Total Shiny Viruses Identified,合計：検出した色違いウイルスの数,,,Vírus brilhantes identificados,Virus shinys identificados,,,Сияющих вирусов найдено,,,Total Viruși Strălucitori Identificați,Toplam Tanımlanan Parlak Virüs Sayısı,Virus brillantes identificados
+UI_WINDOW_NAME_MOD_SELECT,Modifier Select,MOD選択,模组选择,模組選擇,Selecionar Modificador,Modificador Seleccionado,,,Выбор модификатора,,,Selectare Modificator,Değiştirici Seçimi,Modificador seleccionado
+UI_WINDOW_NAME_CURSOR_COSMETICS,Cursor Cosmetics,カーソル：コスメティック,鼠标饰品,滑鼠飾品,Cosméticos,Cosméticos del Cursor,,,Украшения курсора,,,Personalizare Cursor,İmleç Kozmetikleri,Cosméticos del cursor
+UI_WINDOW_NAME_PETS,Desktop Pets,デスクトップ・ペット,桌面宠物,桌面寵物,Pets de Desktop,Escritorio de Mascotas,,,Виртуальные питомцы,,,Animăluțe de Desktop,Masaüstü Evcil Hayvanlar,Escritorio de mascotas
+UI_SHOP_CATEGORY_CURSOR_SKIN,Cursor Skin,スキン：カーソル,鼠标皮肤,滑鼠皮膚,Skin de Cursor,Skin del Cursor,,,Скин курсора,,,Skin Cursor,İmleç Kılıfı,Aspecto del cursor
+UI_SHOP_CATEGORY_CURSOR_TRAILS,Cursor Trails,軌跡：カーソル,鼠标尾迹,滑鼠尾跡,Rastro de Cursor,Rastros del Cursor,,,След курсора,,,Urme Cursor,İmleç İzleri,Rastros del cursor
+UI_SHOP_CATEGORY_MOD,MOD,MOD,模组,模組,MOD,MOD ,,,МОД,,,MOD,MOD,MOD 
+UI_SHOP_CATEGORY_EXE,EXE,EXE,应用程序,應用程式,EXE,EXE,,,EXE,,,EXE,EXE,EXE
+UI_SHOP_LABEL_DATAFRAG,Data Fragments,データの断片,数据碎片,資料碎片,Fragmentos de dados,Fragmentos de datos,,,Фрагменты данных,,,Fragmente de Date,Veri Parçacıkları,Fragmentos de datos
+UI_SHOP_LABEL_COST,Cost,コスト,花费,花費,Custo,Coste,,,Цена,,,Cost,Maliyet,Coste
+UI_SHOP_LABEL_BUY,Buy,購入,购买,購買,Comprar,Comprar,,,Купить,,,Cumpără,Satın Al,Comprar
+UI_DATABASE_STAT_TOTAL_RUNS,Total Runs,合計：ラン数,总计局数,總計對局數,Runs Totais,Partidas totales,,,Забегов,,,Total Rulări,Toplam Koşular,Partidas totales
+UI_DATABASE_STAT_TOTAL_DEATHS,Total Deaths,合計：デス数,总计死亡次数,總計死亡次數,Mortes Totais,Muertes,,,Смертей,,,Total Morți,Toplam Ölümler,Muertes totales
+UI_DATABASE_STAT_TOTAL_AFK_TIME,Total Time Spent AFK,合計：放置時間,总计挂机时间,總計掛機時間,Tempo Gasto AFK,Tiempo AFK,,,Времени в АФК,,,Timp Total Petrecut AFK,Toplam AFK Süresi,Tiempo AFK
+UI_DATABASE_STAT_TOTAL_FILES_OPENED,Total Files Checked,合計：調べたファイルの数,总计检查文件,總計檢查檔案,Arquivos Checados,Archivos revisados,,,Файлов проверено,,,Total Fișiere Verificate,Toplam Kontrol Edilen Dosya Sayısı,Archivos revisados
+UI_DATABASE_STAT_TOTAL_FOLDERS_OPENED,Total Folders Opened,合計：開いたフォルダの数,总计打开文件夹,總計開啟資料夾,Pastas Abertas,Carpetas abiertas,,,Папок открыто,,,Total Foldere Deschise,Toplam Açılan Klasör Sayısı,Carpetas abiertas
+UI_DATABASE_STAT_TOTAL_DRIVES_CLEARED,Total Drives Cleared,合計：クリーンにしたドライブの数,总计清理驱动,總計清理磁碟,Drives Limpos,Discos completados,,,Дисков зачищено,,,Total Partiții Curățate,Toplam Temizlenen Sürücü Sayısı,Discos completados
+UI_DATABASE_STAT_TOTAL_MODS_OBTAINED,Total Mods Obtained,合計：入手したMODの数,总计获得模组,總計獲得模組,Mods Obtidos,Mods obtenidos,,,Модификаторов получено,,,Total MOD-uri Obținute,Toplam Elde Edilen Mod Sayısı,Mods obtenidos
+UI_DATABASE_STAT_TOTAL_EXE_USED,Total Exe Used,合計：使用したEXEの数,总计使用应用程序,總計使用應用程式,EXEs utilizados,Exes usados,,,Exe использовано,,,Total EXE-uri Folosite,Toplam Kullanılan EXE Sayısı,EXE usados
+UI_DATABASE_STAT_TOTAL_EXE_RECHARGED,Total Exe Charges Recharged,合計：EXE使用回数を回復した数,总计应用程序充能次数,總計應用程式充能次數,Cargas de EXE recarregadas,Cargas de exes recargadas,,,Exe заряжено,,,Total Încărcări EXE Refăcute,Toplam Yenilenen EXE Şarjı,Cargas de EXE recargadas
+UI_DATABASE_STAT_TOTAL_ITEMS_PURCHASED,Total Items Purchased,合計：アイテム購入数,总计购买物品,總計購買物品,Total de Itens Comprados,Items comprados,,,Предметов куплено,,,Total Articole Cumpărate,Toplam Satın Alınan Eşya Sayısı,Objetos comprados
+UI_DATABASE_STAT_TOTAL_COIN_SPENT,Total Coins Used,合計：使用したコイン枚数,总计花费金币,總計花費金幣,Total de Moedas Usadas,Monedas usadas,,,Монет потрачено,,,Total Monede Folosite,Toplam Harcanan Coin,Monedas usadas
+UI_DATABASE_STAT_TOTAL_COIN_OBTAINED,Total Coins Obtained,合計：入手したコイン枚数,总计获得金币,總計獲得金幣,Total de Moedas Obtidas,Monedas obtenidas,,,Монет получено,,,Total Monede Obținute,Toplam Kazanılan Coin,Monedas obtenidas
+UI_DATABASE_STAT_TOTAL_KEY_SPENT,Total Key Used,合計：使用したキーの数,总计使用密钥,總計使用密鑰,Chaves Usadas,Llaves usadas,,,Ключей использовано,,,Total Chei Folosite,Toplam Kullanılan Anahtar Sayısı,Llaves usadas
+UI_DATABASE_STAT_TOTAL_KEY_OBTAINED,Total Key Obtained,合計：入手したキーの数,总计获得密钥,總計獲得密鑰,Chaves Obtidas,Llaves obtenidas,,,Ключей получено,,,Total Chei Obținute,Toplam Elde Edilen Anahtar Sayısı,Llaves obtenidas
+UI_DATABASE_STAT_TOTAL_DAMAGE_DEALT,Total Damage Dealt,合計：与ダメージ,总计造成伤害,總計造成傷害,Dano Causado Total,Daño total inflingido,,,Урона нанесено,,,Total Damage Cauzat,Toplam Verilen Hasar,Daño total infligido
+UI_DATABASE_STAT_TOTAL_DAMAGE_TAKEN,Total Damage Taken,合計：被ダメージ,总计承受伤害,總計承受傷害,Dano Recebido Total,Daño total recibido,,,Урона получено,,,Total Damage Primit,Toplam Alınan Hasar,Daño total recibido
+UI_DATABASE_STAT_TOTAL_HEALTH_HEALED,Total Health Healed,合計：回復した体力の数,总计回复生命,總計回復生命,Vida Curada Total,Vida curada,,,Здоровья восстановлено,,,Total Viață Vindecată,Toplam İyileştirilen Can,Vida curada
+UI_DATABASE_STAT_TOTAL_CRITICAL_HITS,Total Critical Hits,合計：クリティカルヒット数,总计暴击次数,總計爆擊次數,Acertos Críticos,Golpes críticos,,,Критических ударов,,,Total Lovituri Critice,Toplam Kritik Vuruş Sayısı,Golpes críticos
+UI_DATABASE_STAT_TOTAL_SHINY_IDENTIFIED,Total Shiny Viruses Identified,合計：検出した色違いウイルスの数,总计识别闪光病毒,總計識別閃光病毒,Vírus brilhantes identificados,Virus shinys identificados,,,Сияющих вирусов найдено,,,Total Viruși Strălucitori Identificați,Toplam Tanımlanan Parlak Virüs Sayısı,Virus brillantes identificados
 ,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,
