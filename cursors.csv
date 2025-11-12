@@ -61,11 +61,11 @@ UI_CURSOR_TRAIL_NAME_11,Space Invader Trail,軌跡：インベーダー,太空�
 UI_CURSOR_TRAIL_NAME_12,Dev Trail,軌跡：開発者マスコット,开发者尾迹,開發者尾跡,Rastro de Dev,Rastro de Desarrollador,,,След разработчика,,,Traseu Dev,Geliştirici İzi,Rastro de desarrollador
 UI_CURSOR_SKIN_NAME_0,,,,,,,,,,,,,,
 UI_CURSOR_SKIN_NAME_1,Clipee Skin,クリッピースキン,小夹皮皮肤,小夾皮造型,Skin Clipee,Skin de Clipee,,,Скрепыш,,,Skin Clipee,Clipee Kostümü,Aspecto de Clipee
-UI_CURSOR_SKIN_NAME_2,Thug Life Skin,ドヤ顔スキン,痞子人生皮肤,痞子人生造型,Skin Thug Life,Skin de Thug Life,,,Бандит,,,Skin Thug Life,Thug Life Kostümü,Aspecto de Thug Life
+UI_CURSOR_SKIN_NAME_2,Thug Life Skin,グラサンスキン,痞子人生皮肤,痞子人生造型,Skin Thug Life,Skin de Thug Life,,,Бандит,,,Skin Thug Life,Thug Life Kostümü,Aspecto de Thug Life
 UI_CURSOR_SKIN_NAME_3,Sword Skin,ソードスキン,剑形皮肤,劍形造型,Skin Espada,Skin de Espada,,,Меч,,,Skin de Sabie,Kılıç Kostümü,Aspecto de Espada
 UI_CURSOR_SKIN_NAME_4,Pickaxe Skin,ピッケルスキン,镐子皮肤,鎬子造型,Skin Picareta,Skin de Pico,,,Кирка,,,Skin de Tarnacop,Kazma Kostümü,Aspecto de Pico
 UI_CURSOR_SKIN_NAME_5,Gohei Skin,ゴヘイスキン,御币皮肤,御幣造型,Skin Gohei,Skin de Gohei,,,Гохэй,,,Skin Gohei,Gohei Kostümü,Aspecto de Gohei
-UI_CURSOR_SKIN_NAME_6,Pin Skin,ピン留めスキン,图钉皮肤,圖釘造型,Skin Pin,Skin de Pin,,,Булавка,,,Skin de Ac,İğne Kostümü,Aspecto de Pin
+UI_CURSOR_SKIN_NAME_6,Pin Skin,ピンスキン,图钉皮肤,圖釘造型,Skin Pin,Skin de Pin,,,Булавка,,,Skin de Ac,İğne Kostümü,Aspecto de Pin
 UI_CURSOR_SKIN_NAME_7,Blue Box Skin,ブルーボックススキン,蓝盒皮肤,藍盒造型,Skin Caixa Azul,Skin de Caja Azul,,,Синий ящик,,,Skin Cutie Albastră,Blue Box Kostümü,Aspecto de Caja azul
 UI_CURSOR_SKIN_NAME_8,Fish Skin,おさかなスキン,小鱼皮肤,魚魚造型,Skin Peixe,Skin de Pez,,,Рыба,,,Skin de Pește,Balık Kostümü,Aspecto de Pez
 UI_CURSOR_SKIN_NAME_9,Magical Girl Skin,魔法少女☆スキン,魔法少女皮肤,魔法少女造型,Skin Garota Mágica,Skin de Chica mágica,,,Девочка-волшебница,,,Skin Fată Magică,Büyülü Kız Kostümü,Aspecto de Chica mágica
@@ -105,7 +105,7 @@ PET_NAME_30,ZBot,Zbot,Z僵尸,Z殭屍,ZBot,ZBot,,,ZBot,,,ZBot,Zbot,BotZ
 PET_NAME_101,The First Bug,ファーストバグ,Bug之祖,Bug之祖,O Bug Primordial,El Primer Bug,,,Первый Баг,,,The First Bug,The First Bug,El primer bug
 PET_NAME_102,The Web Weaver,ウェブウィーバー,织网者,織網者,A Tece Teias,La Tejedora Web,,,Ткачиха,,,The Web Weaver,The Web Weaver,La tejedora web
 PET_NAME_103,The Cloud CoreX,クラウドコアX,云核X,雲核X,O CloudCoreX,El NucleoNubeX,,,Облачное ЯдроX,,,The Cloud CoreX,The Cloud CoreX,El NúcleoNubeX
-PET_NAME_104,LEV_AI,LEV_AI,利维_AI,利維_AI,LEV_AI,LEV_AI,,,ЛЕВ_ИИ,,,LEV_AI,LEV_AI,LEV_AI
+PET_NAME_104,LEV_AI,LEV_AI,利维_AI,利維_AI,LEV_AI,LEV_IA,,,ЛЕВ_ИИ,,,LEV_AI,LEV_AI,LEV_IA
 PET_NAME_201,Blue Box,ブルーボックス,蓝盒,藍盒,Caixa Azul,Caja Azul,,,Синий ящик,,,Blue Box,Blue Box,Caja azul
 PET_NAME_202,Dina,ディナ,迪娜,迪娜,Dina,Dina,,,Дина,,,Dina,Dina,Dina
 PET_NAME_203,Sylvia,シルヴィア,希维亚,希維亞,Sylvia,Sylvia,,,Сильвия,,,Sylvia,Sylvia,Sylvia
@@ -121,35 +121,35 @@ PET_NAME_212,Tanzu,Tanzu,坦祖,坦祖,Tanzu,Tanzu,,,Танзу,,,Tanzu,Tanzu,Ta
 PET_NAME_213,Princess Pomu,ポム姫,泡沐公主,泡沐公主,Princess Pomu,Princesa Pomu,,,Принцесса Пому,,,Princess Pomu,Prenses Pomu,Princesa Pomu
 PET_NAME_214,Whimling,きまぐれベビー,小奇灵,小奇靈,Whimling,Whimling,,,Чудик,,,Whimling,Whimling,Whimling
 PET_NAME_215,Axolotl,サンショウウオ,美西螈,美西鯰,Axolotl,Ajolote,,,Аксолотль,,,Axolotl,Aksolotl,Ajolote
-PET_NAME_216,Paige,Paige,Paige,Paige,Paige,Paige,Paige,Paige,Paige,Paige,Paige,Paige,Paige,Paige
-PET_NAME_217,Keyboard Cat,Keyboard Cat,Keyboard Cat,Keyboard Cat,Keyboard Cat,Keyboard Cat,Keyboard Cat,Keyboard Cat,Keyboard Cat,Keyboard Cat,Keyboard Cat,Keyboard Cat,Keyboard Cat,Keyboard Cat
-PET_NAME_218,Noko,Noko,Noko,Noko,Noko,Noko,Noko,Noko,Noko,Noko,Noko,Noko,Noko,Noko
-PET_NAME_219,Bob,Bob,Bob,Bob,Bob,Bob,Bob,Bob,Bob,Bob,Bob,Bob,Bob,Bob
-PET_NAME_220,Rat,Rat,Rat,Rat,Rat,Rat,Rat,Rat,Rat,Rat,Rat,Rat,Rat,Rat
-PET_NAME_221,Caronte Caim,Caronte Caim,Caronte Caim,Caronte Caim,Caronte Caim,Caronte Caim,Caronte Caim,Caronte Caim,Caronte Caim,Caronte Caim,Caronte Caim,Caronte Caim,Caronte Caim,Caronte Caim
-PET_NAME_222,Nooble,Nooble,Nooble,Nooble,Nooble,Nooble,Nooble,Nooble,Nooble,Nooble,Nooble,Nooble,Nooble,Nooble
-PET_NAME_223,Chicken Guy,Chicken Guy,Chicken Guy,Chicken Guy,Chicken Guy,Chicken Guy,Chicken Guy,Chicken Guy,Chicken Guy,Chicken Guy,Chicken Guy,Chicken Guy,Chicken Guy,Chicken Guy
-PET_NAME_224,Tiny Dice Adventurer,Tiny Dice Adventurer,Tiny Dice Adventurer,Tiny Dice Adventurer,Tiny Dice Adventurer,Tiny Dice Adventurer,Tiny Dice Adventurer,Tiny Dice Adventurer,Tiny Dice Adventurer,Tiny Dice Adventurer,Tiny Dice Adventurer,Tiny Dice Adventurer,Tiny Dice Adventurer,Tiny Dice Adventurer
-PET_NAME_225,Sudonym,Sudonym,Sudonym,Sudonym,Sudonym,Sudonym,Sudonym,Sudonym,Sudonym,Sudonym,Sudonym,Sudonym,Sudonym,Sudonym
-PET_NAME_226,Wyrm,Wyrm,Wyrm,Wyrm,Wyrm,Wyrm,Wyrm,Wyrm,Wyrm,Wyrm,Wyrm,Wyrm,Wyrm,Wyrm
-PET_NAME_227,Moon Bunny,Moon Bunny,Moon Bunny,Moon Bunny,Moon Bunny,Moon Bunny,Moon Bunny,Moon Bunny,Moon Bunny,Moon Bunny,Moon Bunny,Moon Bunny,Moon Bunny,Moon Bunny
-PET_NAME_228,Bloopa,Bloopa,Bloopa,Bloopa,Bloopa,Bloopa,Bloopa,Bloopa,Bloopa,Bloopa,Bloopa,Bloopa,Bloopa,Bloopa
-PET_NAME_229,Mei,Mei,Mei,Mei,Mei,Mei,Mei,Mei,Mei,Mei,Mei,Mei,Mei,Mei
-PET_NAME_230,Natsu,Natsu,Natsu,Natsu,Natsu,Natsu,Natsu,Natsu,Natsu,Natsu,Natsu,Natsu,Natsu,Natsu
-PET_NAME_231,Luna,Luna,Luna,Luna,Luna,Luna,Luna,Luna,Luna,Luna,Luna,Luna,Luna,Luna
-PET_NAME_232,Candy,Candy,Candy,Candy,Candy,Candy,Candy,Candy,Candy,Candy,Candy,Candy,Candy,Candy
-PET_NAME_233,Beandejo,Beandejo,Beandejo,Beandejo,Beandejo,Beandejo,Beandejo,Beandejo,Beandejo,Beandejo,Beandejo,Beandejo,Beandejo,Beandejo
-PET_NAME_234,Pichon,Pichon,Pichon,Pichon,Pichon,Pichon,Pichon,Pichon,Pichon,Pichon,Pichon,Pichon,Pichon,Pichon
-PET_NAME_235,jeminix2,jeminix3,jeminix4,jeminix5,jeminix6,jeminix7,jeminix8,jeminix9,jeminix10,jeminix11,jeminix12,jeminix13,jeminix14,jeminix2
-PET_NAME_236,Creamy,Creamy,Creamy,Creamy,Creamy,Creamy,Creamy,Creamy,Creamy,Creamy,Creamy,Creamy,Creamy,Creamy
-PET_NAME_237,Tofu,Tofu,Tofu,Tofu,Tofu,Tofu,Tofu,Tofu,Tofu,Tofu,Tofu,Tofu,Tofu,Tofu
-PET_NAME_238,Funa,Funa,Funa,Funa,Funa,Funa,Funa,Funa,Funa,Funa,Funa,Funa,Funa,Funa
-PET_NAME_239,Sundust,Sundust,Sundust,Sundust,Sundust,Sundust,Sundust,Sundust,Sundust,Sundust,Sundust,Sundust,Sundust,Sundust
-PET_NAME_240,Mini Tank,Mini Tank,Mini Tank,Mini Tank,Mini Tank,Mini Tank,Mini Tank,Mini Tank,Mini Tank,Mini Tank,Mini Tank,Mini Tank,Mini Tank,Mini Tank
-PET_NAME_241,aintnoking,aintnoking,aintnoking,aintnoking,aintnoking,aintnoking,aintnoking,aintnoking,aintnoking,aintnoking,aintnoking,aintnoking,aintnoking,aintnoking
-PET_NAME_242,Cara,Cara,Cara,Cara,Cara,Cara,Cara,Cara,Cara,Cara,Cara,Cara,Cara,Cara
-PET_NAME_243,Hanabee,Hanabee,Hanabee,Hanabee,Hanabee,Hanabee,Hanabee,Hanabee,Hanabee,Hanabee,Hanabee,Hanabee,Hanabee,Hanabee
-PET_NAME_244,Oenn,Oenn,Oenn,Oenn,Oenn,Oenn,Oenn,Oenn,Oenn,Oenn,Oenn,Oenn,Oenn,Oenn
+PET_NAME_216,Paige,ペイジ,佩姬,佩姬,Paige,Paige,Paige,Paige,Paige,Paige,Paige,Paige,Paige,Paige
+PET_NAME_217,Keyboard Cat,キーボード・キャット,键盘猫,鍵盤貓,Keyboard Cat,Gato Teclado,Keyboard Cat,Keyboard Cat,Keyboard Cat,Keyboard Cat,Keyboard Cat,Keyboard Cat,Piyanist Kedi,Gato Teclado
+PET_NAME_218,Noko,ノコ,诺可,諾可,Noko,Noko,Noko,Noko,Noko,Noko,Noko,Noko,Noko,Noko
+PET_NAME_219,Bob,ボブ,鲍勃,鮑勃,Bob,Bob,Bob,Bob,Bob,Bob,Bob,Bob,Bob,Bob
+PET_NAME_220,Rat,ネズミ,小鼠,小鼠,Rato,Rata,Rat,Rat,Rat,Rat,Rat,Rat,Farecik,Rat
+PET_NAME_221,Caronte Caim,カロンテ＝カイム,卡隆特·凯姆,卡隆特·凱姆,Caronte Caim,Caronte Caim,Caronte Caim,Caronte Caim,Caronte Caim,Caronte Caim,Caronte Caim,Caronte Caim,Caronte Caim,Caronte Caim
+PET_NAME_222,Nooble,ヌーブル,努布尔,努布爾,Nooble,Nooble,Nooble,Nooble,Nooble,Nooble,Nooble,Nooble,Nooble,Nooble
+PET_NAME_223,Chicken Guy,チキン野郎,鸡哥,雞哥,Cara da Galinha,Tio gallina,Chicken Guy,Chicken Guy,Chicken Guy,Chicken Guy,Chicken Guy,Chicken Guy,Tavuk Adam,Chico gallina
+PET_NAME_224,Tiny Dice Adventurer,豆サイコロの冒険者,小骰子冒险家,小骰子冒險家,Aventureiro de Tiny Dice,Pequeño dado aventurero,Tiny Dice Adventurer,Tiny Dice Adventurer,Tiny Dice Adventurer,Tiny Dice Adventurer,Tiny Dice Adventurer,Tiny Dice Adventurer,Minik Zar Maceracısı,Pequeño dado aventurero
+PET_NAME_225,Sudonym,Sudonym,苏多宁,蘇多寧,Sudônimo,Sudonym,Sudonym,Sudonym,Sudonym,Sudonym,Sudonym,Sudonym,Sudonym,Sudonym
+PET_NAME_226,Wyrm,ウィルム,飞龙,飛龍,Wyrm,Wyrm,Wyrm,Wyrm,Wyrm,Wyrm,Wyrm,Wyrm,Wyrm,Wyrm
+PET_NAME_227,Moon Bunny,月ウサギ,月兔,月兔,Moon Bunny,Moon Bunny,Moon Bunny,Moon Bunny,Moon Bunny,Moon Bunny,Moon Bunny,Moon Bunny,Ay Tavşanı,Moon Bunny
+PET_NAME_228,Bloopa,ブクパ,布鲁帕,布魯帕,Bloopa,Bloopa,Bloopa,Bloopa,Bloopa,Bloopa,Bloopa,Bloopa,Bloopa,Bloopa
+PET_NAME_229,Mei,メイ,美,美,Mei,Mei,Mei,Mei,Mei,Mei,Mei,Mei,Mei,Mei
+PET_NAME_230,Natsu,ナツ,纳茨,納茨,Natsu,Natsu,Natsu,Natsu,Natsu,Natsu,Natsu,Natsu,Natsu,Natsu
+PET_NAME_231,Luna,ルナ,露娜,露娜,Luna,Luna,Luna,Luna,Luna,Luna,Luna,Luna,Luna,Luna
+PET_NAME_232,Candy,キャンディ,糖果,糖果,Candy,Candy,Candy,Candy,Candy,Candy,Candy,Candy,Şekercik,Candy
+PET_NAME_233,Beandejo,ビーンジョー,豆德霍,豆德霍,Beandejo,Beandejo,Beandejo,Beandejo,Beandejo,Beandejo,Beandejo,Beandejo,Fasulyo,Beandejo
+PET_NAME_234,Pichon,ピチョン,皮琼,皮瓊,Pichon,Pichon,Pichon,Pichon,Pichon,Pichon,Pichon,Pichon,Pichon,Pichon
+PET_NAME_235,jeminix2,ジェミニクス2,北极星x2,北極星x2,jeminix2,jeminix2,jeminix2,jeminix2,jeminix2,jeminix2,jeminix2,jeminix2,jeminix2,jeminix2
+PET_NAME_236,Creamy,クリーミー,克瑞米,克瑞米,Creamy,Creamy,Creamy,Creamy,Creamy,Creamy,Creamy,Creamy,Kremi,Creamy
+PET_NAME_237,Tofu,豆腐,豆腐,豆腐,Tofu,Tofu,Tofu,Tofu,Tofu,Tofu,Tofu,Tofu,Tofu,Tofu
+PET_NAME_238,Funa,フナ,芙娜,芙娜,Funa,Funa,Funa,Funa,Funa,Funa,Funa,Funa,Funa,Funa
+PET_NAME_239,Sundust,サンダスト,晨辉,晨輝,Sundust,Sundust,Sundust,Sundust,Sundust,Sundust,Sundust,Sundust,Güneş Tozu,Sundust
+PET_NAME_240,Mini Tank,ミニタンク,迷你坦克,迷你坦克,Mini Tanque,Mini Tanque,Mini Tank,Mini Tank,Mini Tank,Mini Tank,Mini Tank,Mini Tank,Tankçık,Mini Tanque
+PET_NAME_241,aintnoking,aintnoking,艾特诺金,艾特諾金,aintnoking,aintnoking,aintnoking,aintnoking,aintnoking,aintnoking,aintnoking,aintnoking,aintnoking,aintnoking
+PET_NAME_242,Cara,カーラ,卡拉,卡拉,Cara,Cara,Cara,Cara,Cara,Cara,Cara,Cara,Cara,Cara
+PET_NAME_243,Hanabee,ハナビー,花奈比,花奈比,Hanabee,Hanabee,Hanabee,Hanabee,Hanabee,Hanabee,Hanabee,Hanabee,Havai,Hanabee
+PET_NAME_244,Oenn,オエン,欧恩,歐恩,Oenn,Oenn,Oenn,Oenn,Oenn,Oenn,Oenn,Oenn,Oenn,Oenn
 ,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,

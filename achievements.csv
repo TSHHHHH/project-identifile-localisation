@@ -115,7 +115,7 @@ ACHIEVEMENT_TITLE_57,Challenge Accepted,受けて立つ,,,Challenge Accepted,Des
 ACHIEVEMENT_DESC_57,Complete {x} challenge rooms,累計{x}つのチャレンジルームをクリア,,,Complete {x} salas de desafios,Completa {x} desafíos,,,Пройти {x} комнат-испытаний,,,Termină {x} camere de provocare,{x} meydan okuma odasını tamamladın.,Completa {x} habitaciones de desafío
 ACHIEVEMENT_TITLE_58,Compulsive Hoarder,ため込み魔,,,Colecionador Compulsivo,Avaricia Compulsiva,,,Компульсивный накопитель,,,Colecționar compulsiv,"Cimri değilim, tutumluyum!",Avaricia compulsiva
 ACHIEVEMENT_DESC_58,Complete a drive without spending any coins,コインを使わずにドライブを1つ調べる,,,Complete um drive sem gastar nenhuma moeda,Completa un disco sin gastar ninguna moneda,,,"Зачистить диск, не потратив ни одной монеты",,,Termină o partiție fără să cheltui monede,Hiç coin harcamadan bir oyun tamamladın.,Completa un disco sin gastar ninguna moneda
-ACHIEVEMENT_TITLE_59,MOM? MOM!! I won!!,ママ！？ママ！！当たった！,,,MÃE? MÃE!! Eu ganhei!!,¿MOM? ¡MOM! ¡GANÉE!,,,МАМ? МАМ!! Я выиграл!!,,,MAMĂ? MAMĂ!! AM CÂȘTIGAT!!,ANNEEEE!,¿MAMÁ? ¡MAMÁ! ¡GANÉ!
+ACHIEVEMENT_TITLE_59,MOM? MOM!! I won!!,ママ！？ママ！！当たった！,,,MÃE? MÃE!! Eu ganhei!!,¿MAMÁ? ¡MAMÁ! ¡GANÉE!,,,МАМ? МАМ!! Я выиграл!!,,,MAMĂ? MAMĂ!! AM CÂȘTIGAT!!,ANNEEEE!,¿MAMÁ? ¡MAMÁ! ¡GANÉ!
 ACHIEVEMENT_DESC_59,Win the lottery,当選チケットを引く,,,Ganhe na loteria,Gana la lotería,,,Выиграть в лотерею,,,Câștigă la loterie,Piyangoyu kazandın.,Gana la lotería
 ACHIEVEMENT_TITLE_60,"Stop, Stop! He's already dead",もうやめて！彼のライフはゼロよ！,,,"Pare, pare! Ele já está morto","¡Para, PARA! ¡Ya está muerto!",,,"Хватит, остановись! Он уже мертв",,,Oprește-te! E deja mort!,"Dur, Dur! O Zaten Öldü","¡Para, para! ¡Ya está muerto!"
 ACHIEVEMENT_DESC_60,Identify a boss virus under {x} seconds,ボスウイルスを{x}秒以内に検出する,,,Identifique um vírus de chefe em menos de {x} segundos,Identifica un boss en menos de {x} segudos,,,Идентифицировать вируса-босса за {x} сек.,,,Identifică un virus boss în mai puțin de {x} secunde,{x} saniyenin altında bir sürede bir boss virüsü tespit ettin.,Identifica un virus jefe en menos de {x} segundos
@@ -147,8 +147,8 @@ ACHIEVEMENT_TITLE_73,Drive Wiped: F:\,Fドライブのお掃除,,,Disco limpo: F
 ACHIEVEMENT_DESC_73,Cleared the F Drive,Fドライブのウイルスを駆除する,,,Termine o Drive F,Completa el disco F,,,Зачистить диск F,,,Ai curățat partiția F,F sürücüsünü temizledin.,Completa el disco F
 ACHIEVEMENT_TITLE_74,Cloud Engineer,クラウドエンジニア,,,Engenheiro de Cloud,Ingeniero de Nubes,,,Облачный инженер,,,Inginerul Norului,Bulut Mühendisi,Ingeniero de nubes
 ACHIEVEMENT_DESC_74,Identified the CloudCoreX,「クラウドコアX」を検出する,,,Identificou o CloudCoreX,Identifica 'Boss3_ElNucleoNubeX',,,Идентифицировать ОблачноеЯдроX,,,Ai identificat CloudCoreX,CloudCoreX'i tespit ettin.,Identifica al jefe Núcleo de nubes X
-ACHIEVEMENT_TITLE_75,EZ AI?,もしかしてチョロい？,,,IA IZI?,EZ AI?,,,ИЗИ ИИ?,,,AI ușor?,Kolay AI mı?,¿FÁCIL IA?
-ACHIEVEMENT_DESC_75,Identified the LEV_AI,「LEV_AI」を検出する,,,Identificou o LEV_AI,Identifica 'Boss4_LEV_AI',,,Идентифицировать ЛЕВ_ИИ,,,Ai identificat LEV_AI,LEV_AI'yi tespit ettin.,Identifica al jefe Lev IA
+ACHIEVEMENT_TITLE_75,EZ AI?,もしかしてチョロい？,,,IA IZI?,EZ IA?,,,ИЗИ ИИ?,,,AI ușor?,Kolay AI mı?,¿FÁCIL IA?
+ACHIEVEMENT_DESC_75,Identified the LEV_AI,「LEV_AI」を検出する,,,Identificou o LEV_AI,Identifica 'Boss4_LEV_IA',,,Идентифицировать ЛЕВ_ИИ,,,Ai identificat LEV_AI,LEV_AI'yi tespit ettin.,Identifica al jefe Lev IA
 ACHIEVEMENT_TITLE_76,Auto Clicker,オートクリッカー,,,Auto-Clicker,Auto Clicker,,,Автокликер,,,Auto Clicker,Otomatik Tıklayıcı,Cliqueado automático
 ACHIEVEMENT_DESC_76,Unlock the Clicking Cursor,クリックカーソルをアンロックする,,,Desbloqueou o Cursor de Clique,Desbloquea el Cursor de Clicks,,,Разблокировать Кликающий курсор,,,Deblochează Clicking Cursor,Tıklayan imleci açtın.,Desbloquea el Cursor de clics
 ACHIEVEMENT_TITLE_77,Identifier,検出しますた,,,Identificador,Identificador,,,Идентификатор,,,Identificator,Tanımlayıcı,Identificador
