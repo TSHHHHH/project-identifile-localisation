@@ -83,7 +83,7 @@ ACHIEVEMENT_TITLE_41,Careful Whisper,サックスの探索っす！,古神低语
 ACHIEVEMENT_DESC_41,Identified {x} Sasser viruses,ウイルス「サッサー」を{x}体検出する,识别{x}次震荡波病毒,識別{x}次震盪波病毒,Identificou {x} vírus Sasser,Identifica {x} 'Virus28_Sasser',,,Идентифицировать {x} вирусов Sasser,,,Ai identificat {x} viruși Sasser,{x} Sasser virüsünü tespit ettin.,Identifica {x} Virus sasser
 ACHIEVEMENT_TITLE_42,Watch Outlook!,受信箱に気をつけて,注意小心！,注意小心！,Cuidado com o Outlook!,¡Revisa el Correo!,,,Берегись Outlook!,,,Ai grijă la Outlook!,Outlook'a Dikkat!,¡Revisa Outlook!
 ACHIEVEMENT_DESC_42,Identified {x} Melissa viruses,ウイルス「メリッサ」を{x}体検出する,识别{x}次梅丽莎病毒,識別{x}次梅麗莎病毒,Identificou {x} vírus Melissa,Identifica {x} 'Virus29_Melissa',,,Идентифицировать {x} вирусов Melissa,,,Ai identificat {x} viruși Melissa,{x} Melissa virüsünü tespit ettin.,Identifica {x} Virus melissa
-ACHIEVEMENT_TITLE_43,Hide your crypto wallets!,フィッシングメールにご注意！,快跑！你码要没了！,快跑！你的碼要沒了！,Esconde tuas cripto!,¡Oculta tus billeteras de criptomonedas!,,,Прячь криптокашельки!,,,Ascunde-ți portofelele crypto!,Kripto Cüzdanlarını Sakla!,¡Oculta tus billeteras de criptomonedas!
+ACHIEVEMENT_TITLE_43,Hide your crypto wallets!,フィッシングメールにご注意！,快跑！你码要没了！,快跑！你的碼要沒了！,Esconde tuas cripto!,¡Oculta tus billeteras de criptomonedas!,,,Прячь криптокошельки!,,,Ascunde-ți portofelele crypto!,Kripto Cüzdanlarını Sakla!,¡Oculta tus billeteras de criptomonedas!
 ACHIEVEMENT_DESC_43,Identified {x} Zetabot viruses,ウイルス「Zbot」を{x}体検出する,识别{x}次宙斯僵尸网络,識別{x}次宙斯殭屍網路,Identificou {x} vírus Zetabot,Identrifica {x} 'Virus30_ZBot',,,Идентифицировать {x} вирусов Zetabot,,,Ai identificat {x} viruși Zetabot,{x} Zetabot virüsünü tespit ettin.,Identrifica {x} Virus zetabot
 ACHIEVEMENT_TITLE_44,Quick Scan,クイックスキャン,,,Varredura Rápido,Escaneo Rápido,,,Быстрое сканирование,,,Scanare Rapidă,Hızlı Tarama,Escaneo rápido
 ACHIEVEMENT_DESC_44,Checked {x} files for viruses,{x}件のファイルをウイルスチェックする,,,Checou {x} arquivos em busca de vírus,Revisa {x} archivos en busca de virus,,,Проверить на вирусы {x} файлов,,,Ai verificat {x} fișiere pentru viruși,Virüs için {x} dosyayı kontrol ettin.,Revisa {x} archivos en busca de virus
@@ -95,13 +95,13 @@ ACHIEVEMENT_TITLE_47,Aimbot,神エイム,,,Aimbot,AimBot,,,Аимбот,,,Aimbot
 ACHIEVEMENT_DESC_47,Get S Rank in the Aim Minigame,射撃ミニゲームでSランクを獲得,,,Obtenha Rank S no minigame de mira,Consigue un rango S en el minijuego de puntería,,,Получить S-ранг в мини-игре на аим,,,Obține rangul S în minijocul de țintire,Aim minioyununda S derecesi aldın.,Consigue rango S en el minijuego de puntería
 ACHIEVEMENT_TITLE_48,Cursor does not dream of bunny girl,青春カーソル野郎はバニーガールの夢を見ない,,,Cursor não sonha com garotas coelhinho,Un cursor no sueña con chica conejita,,,Этот глупый курсор не понимает мечту девочки-зайки,,,Cursorul nu visează la fata iepuraș,İmleç Tavşan Kızı Düşlemiyor,Un cursor no sueña con chica conejita
 ACHIEVEMENT_DESC_48,Identified {x} Diva viruses,ウイルス「ディーヴァ」を{x}体検出する,,,Identificou {x} vírus Diva,Identifica {x} 'Virus4_Diva',,,Идентифицировать {x} Див,,,Ai identificat {x} viruși Diva,{x} Diva virüsünü tespit ettin.,Identifica {x} Virus diva
-ACHIEVEMENT_TITLE_49,Virus Hunter: Novice,ウイルスハンター：駆け出し,,,Caçador de Vírus: Novato,Cazador de Virus: Novato,,,Охотник на вирусов: Новичок,,,Vânător de viruși: Novice,Virüs Avcısı: Acemi,Cazador de virus: Novato
+ACHIEVEMENT_TITLE_49,Virus Hunter: Novice,ウイルスハンター：駆け出し,,,Caçador de Vírus: Novato,Cazador de Virus: Novato,,,Охотник за вирусами: Новичок,,,Vânător de viruși: Novice,Virüs Avcısı: Acemi,Cazador de virus: Novato
 ACHIEVEMENT_DESC_49,Identified {x} viruses in total,ウイルスを累計{x}体検出する,,,Identificou {x} vírus no total,Identifica {x} virus en total,,,Идентифицировать в общей сложности {x} вирусов,,,Ai identificat în total {x} viruși,Toplam {x} virüs tespit ettin.,Identifica {x} virus en total
-ACHIEVEMENT_TITLE_50,Virus Hunter: Apprentice,ウイルスハンター：見習い,,,Caçador de Vírus: Aprendiz,Cazador de Virus: Aprendiz,,,Охотник на вирусов: Ученик,,,Vânător de viruși: Ucenic,Virüs Avcısı: Çırak,Cazador de virus: Aprendiz
+ACHIEVEMENT_TITLE_50,Virus Hunter: Apprentice,ウイルスハンター：見習い,,,Caçador de Vírus: Aprendiz,Cazador de Virus: Aprendiz,,,Охотник за вирусами: Ученик,,,Vânător de viruși: Ucenic,Virüs Avcısı: Çırak,Cazador de virus: Aprendiz
 ACHIEVEMENT_DESC_50,Identified {x} viruses in total,ウイルスを累計{x}体検出する,,,Identificou {x} vírus no total,Identifica {x} virus en total,,,Идентифицировать в общей сложности {x} вирусов,,,Ai identificat în total {x} viruși,Toplam {x} virüs tespit ettin.,Identifica {x} virus en total
-ACHIEVEMENT_TITLE_51,Virus Hunter: Professional,ウイルスハンター：プロ,,,Caçador de Vírus: Profissional,Cazador de Virus: Profesional,,,Охотник на вирусов: Профи,,,Vânător de viruși: Profesionist,Virüs Avcısı: Profesyonel,Cazador de virus: Profesional
+ACHIEVEMENT_TITLE_51,Virus Hunter: Professional,ウイルスハンター：プロ,,,Caçador de Vírus: Profissional,Cazador de Virus: Profesional,,,Охотник за вирусами: Профи,,,Vânător de viruși: Profesionist,Virüs Avcısı: Profesyonel,Cazador de virus: Profesional
 ACHIEVEMENT_DESC_51,Identified {x} viruses in total,ウイルスを累計{x}体検出する,,,Identificou {x} vírus no total,Identifica {x} virus en total,,,Идентифицировать в общей сложности {x} вирусов,,,Ai identificat în total {x} viruși,Toplam {x} virüs tespit ettin.,Identifica {x} virus en total
-ACHIEVEMENT_TITLE_52,Virus Hunter: Master,ウイルスハンター：マスター,,,Caçador de Vírus: Mestre,Cazador de Virus: Maestro,,,Охотник на вирусов: Мастер,,,Vânător de viruși: Maestru,Virüs Avcısı: Usta,Cazador de virus: Maestro
+ACHIEVEMENT_TITLE_52,Virus Hunter: Master,ウイルスハンター：マスター,,,Caçador de Vírus: Mestre,Cazador de Virus: Maestro,,,Охотник за вирусами: Мастер,,,Vânător de viruși: Maestru,Virüs Avcısı: Usta,Cazador de virus: Maestro
 ACHIEVEMENT_DESC_52,Identified {x} viruses in total,ウイルスを累計{x}体検出する,,,Identificou {x} vírus no total,Identifica {x} virus en total,,,Идентифицировать в общей сложности {x} вирусов,,,Ai identificat în total {x} viruși,Toplam {x} virüs tespit ettin.,Identifica {x} virus en total
 ACHIEVEMENT_TITLE_53,Virus Hunter: Grand Master,ウイルスハンター：グランドマスター,,,Caçador de Vírus: Grão-Mestre,Cazador de Virus: Gran Maestro,,,Охотник на вирусов: Гранд-мастер,,,Vânător de viruși: Mare Maestru,Virüs Avcısı: Büyük Usta,Cazador de virus: Gran maestro
 ACHIEVEMENT_DESC_53,Identified {x} viruses in total,ウイルスを累計{x}体検出する,,,Identificou {x} vírus no total,Identifica {x} virus en total,,,Идентифицировать в общей сложности {x} вирусов,,,Ai identificat în total {x} viruși,Toplam {x} virüs tespit ettin.,Identifica {x} virus en total
@@ -112,10 +112,10 @@ ACHIEVEMENT_DESC_55,Smash headfirst into a spike obstacle,トゲに頭から突�
 ACHIEVEMENT_TITLE_56,What's a HP Bar?,体力ゲージってなに？,,,O que é uma Barra de HP?,¿Qué es una Barra de Vida?,,,Какая еще полоска здоровья?,,,Ce-i ăla HP Bar?,"Can Barı dediğinin, boş bir kasedir!",¿Qué es una barra de vida?
 ACHIEVEMENT_DESC_56,Complete a drive without taking damage,ノーダメージでドライブを1つ調べる,,,Complete um drive sem levar dano,Completa un disco sin recibir daño,,,"Зачистить диск, не получив урона",,,Termină o partiție fără să primești daune,Hasar almadan bir oyun tamamladın.,Completa un disco sin recibir daño
 ACHIEVEMENT_TITLE_57,Challenge Accepted,受けて立つ,,,Challenge Accepted,Desafío aceptado,,,Вызов принят,,,Provocare Acceptată,Challenge Accepted,Desafío aceptado
-ACHIEVEMENT_DESC_57,Complete {x} challenge rooms,累計{x}つのチャレンジルームをクリア,,,Complete {x} salas de desafios,Completa {x} desafíos,,,Пройти {x} комнат-испытаний,,,Termină {x} camere de provocare,{x} meydan okuma odasını tamamladın.,Completa {x} habitaciones de desafío
+ACHIEVEMENT_DESC_57,Complete {x} challenge rooms,累計{x}つのチャレンジルームをクリア,,,Complete {x} salas de desafios,Completa {x} desafíos,,,Пройти {x} комнат испытаний,,,Termină {x} camere de provocare,{x} meydan okuma odasını tamamladın.,Completa {x} habitaciones de desafío
 ACHIEVEMENT_TITLE_58,Compulsive Hoarder,ため込み魔,,,Colecionador Compulsivo,Avaricia Compulsiva,,,Компульсивный накопитель,,,Colecționar compulsiv,"Cimri değilim, tutumluyum!",Avaricia compulsiva
 ACHIEVEMENT_DESC_58,Complete a drive without spending any coins,コインを使わずにドライブを1つ調べる,,,Complete um drive sem gastar nenhuma moeda,Completa un disco sin gastar ninguna moneda,,,"Зачистить диск, не потратив ни одной монеты",,,Termină o partiție fără să cheltui monede,Hiç coin harcamadan bir oyun tamamladın.,Completa un disco sin gastar ninguna moneda
-ACHIEVEMENT_TITLE_59,MOM? MOM!! I won!!,ママ！？ママ！！当たった！,,,MÃE? MÃE!! Eu ganhei!!,¿MOM? ¡MOM! ¡GANÉE!,,,МАМ? МАМ!! Я выиграл!!,,,MAMĂ? MAMĂ!! AM CÂȘTIGAT!!,ANNEEEE!,¿MAMÁ? ¡MAMÁ! ¡GANÉ!
+ACHIEVEMENT_TITLE_59,MOM? MOM!! I won!!,ママ！？ママ！！当たった！,,,MÃE? MÃE!! Eu ganhei!!,¿MAMÁ? ¡MAMÁ! ¡GANÉE!,,,МАМ? МАМ!! Я выиграл!!,,,MAMĂ? MAMĂ!! AM CÂȘTIGAT!!,ANNEEEE!,¿MAMÁ? ¡MAMÁ! ¡GANÉ!
 ACHIEVEMENT_DESC_59,Win the lottery,当選チケットを引く,,,Ganhe na loteria,Gana la lotería,,,Выиграть в лотерею,,,Câștigă la loterie,Piyangoyu kazandın.,Gana la lotería
 ACHIEVEMENT_TITLE_60,"Stop, Stop! He's already dead",もうやめて！彼のライフはゼロよ！,,,"Pare, pare! Ele já está morto","¡Para, PARA! ¡Ya está muerto!",,,"Хватит, остановись! Он уже мертв",,,Oprește-te! E deja mort!,"Dur, Dur! O Zaten Öldü","¡Para, para! ¡Ya está muerto!"
 ACHIEVEMENT_DESC_60,Identify a boss virus under {x} seconds,ボスウイルスを{x}秒以内に検出する,,,Identifique um vírus de chefe em menos de {x} segundos,Identifica un boss en menos de {x} segudos,,,Идентифицировать вируса-босса за {x} сек.,,,Identifică un virus boss în mai puțin de {x} secunde,{x} saniyenin altında bir sürede bir boss virüsü tespit ettin.,Identifica un virus jefe en menos de {x} segundos
@@ -147,8 +147,8 @@ ACHIEVEMENT_TITLE_73,Drive Wiped: F:\,Fドライブのお掃除,,,Disco limpo: F
 ACHIEVEMENT_DESC_73,Cleared the F Drive,Fドライブのウイルスを駆除する,,,Termine o Drive F,Completa el disco F,,,Зачистить диск F,,,Ai curățat partiția F,F sürücüsünü temizledin.,Completa el disco F
 ACHIEVEMENT_TITLE_74,Cloud Engineer,クラウドエンジニア,,,Engenheiro de Cloud,Ingeniero de Nubes,,,Облачный инженер,,,Inginerul Norului,Bulut Mühendisi,Ingeniero de nubes
 ACHIEVEMENT_DESC_74,Identified the CloudCoreX,「クラウドコアX」を検出する,,,Identificou o CloudCoreX,Identifica 'Boss3_ElNucleoNubeX',,,Идентифицировать ОблачноеЯдроX,,,Ai identificat CloudCoreX,CloudCoreX'i tespit ettin.,Identifica al jefe Núcleo de nubes X
-ACHIEVEMENT_TITLE_75,EZ AI?,もしかしてチョロい？,,,IA IZI?,EZ AI?,,,ИЗИ ИИ?,,,AI ușor?,Kolay AI mı?,¿FÁCIL IA?
-ACHIEVEMENT_DESC_75,Identified the LEV_AI,「LEV_AI」を検出する,,,Identificou o LEV_AI,Identifica 'Boss4_LEV_AI',,,Идентифицировать ЛЕВ_ИИ,,,Ai identificat LEV_AI,LEV_AI'yi tespit ettin.,Identifica al jefe Lev IA
+ACHIEVEMENT_TITLE_75,EZ AI?,もしかしてチョロい？,,,IA IZI?,EZ IA?,,,ИЗИ ИИ?,,,AI ușor?,Kolay AI mı?,¿FÁCIL IA?
+ACHIEVEMENT_DESC_75,Identified the LEV_AI,「LEV_AI」を検出する,,,Identificou o LEV_AI,Identifica 'Boss4_LEV_IA',,,Идентифицировать ЛЕВ_ИИ,,,Ai identificat LEV_AI,LEV_AI'yi tespit ettin.,Identifica al jefe Lev IA
 ACHIEVEMENT_TITLE_76,Auto Clicker,オートクリッカー,,,Auto-Clicker,Auto Clicker,,,Автокликер,,,Auto Clicker,Otomatik Tıklayıcı,Cliqueado automático
 ACHIEVEMENT_DESC_76,Unlock the Clicking Cursor,クリックカーソルをアンロックする,,,Desbloqueou o Cursor de Clique,Desbloquea el Cursor de Clicks,,,Разблокировать Кликающий курсор,,,Deblochează Clicking Cursor,Tıklayan imleci açtın.,Desbloquea el Cursor de clics
 ACHIEVEMENT_TITLE_77,Identifier,検出しますた,,,Identificador,Identificador,,,Идентификатор,,,Identificator,Tanımlayıcı,Identificador
@@ -177,6 +177,185 @@ UNLOCK_CURSOR_2,Unlocked the Identifying Cursor!,検出カーソルがアンロ�
 UNLOCK_CURSOR_3,Unlocked the Selection Cursor!,範囲選択カーソルがアンロックされた！,解锁：选择鼠标！,解鎖：選擇滑鼠！,Desbloqueou o Cursor de Seleção!,¡Desbloqueado el Cursor de Selección!,,,Разблокирован Курсор-выделитель!,,,Ai deblocat Selection Cursor!,Seçim imlecin kilidini açtın!,¡Desbloqueaste el Cursor de selección!
 UNLOCK_WIDGET_1,Unlocked the Attack Widget!,攻撃ウィジェットがアンロックされた！,解锁：攻击力组件！,解鎖：攻擊力組件！,Desbloqueou o Widget de Ataque!,¡Desbloqueado el Widget de Ataque!,,,Разблокирован Виджет атаки!,,,Ai deblocat Attack Widget!,Saldırı widget'ının kilidini açtın!,¡Desbloqueaste el widget de ataque!
 UNLOCK_WIDGET_2,Unlocked the Health Widget!,回復ウィジェットがアンロックされた！,解锁：生命组件！,解鎖：生命組件！,Desbloqueou o Widget de Vida!,¡Desbloqueado el Widget de Vida!,,,Разблокирован Виджет здоровья!,,,Ai deblocat Health Widget!,Sağlık widget'ının kilidini açtın!,¡Desbloqueaste el widget de vida!
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,

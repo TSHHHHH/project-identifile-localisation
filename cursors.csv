@@ -7,7 +7,7 @@ UI_CURSOR_DESC_2,"Single-target attacker, tap on the viruses to identify them. Y
 UI_CURSOR_UNLOCK_DESC_2,Identify The First Bug to unlock the Clicking Cursor.,ボス「ファーストバグ」を検出すると「クリックカーソル」が解放される。,识别第一个Bug解锁“点击鼠标”,辨識第一個 Bug 解鎖「點擊滑鼠」,Identifique O Bug Primordial para desbloquear o Cursor de Clique.,Identifica 'Boss1_ElPrimerBug' para desbloquear el Cursor de Clicks,,,"Идентифицируйте Первый Баг, чтобы разблокировать Кликающий курсор.",,,Identifică The First Bug pentru a debloca Clicking Cursor.,Tıklayan İmleç'i açmak için The First Bug'ı tanımla.,Identifica al jefe El primer bug para desbloquear el Cursor de clics
 UI_CURSOR_NAME_3,Identifying Cursor,検出カーソル,识别鼠标,辨識滑鼠,Cursor de Identificação,Cursor de Identificación,,,Курсор-идентификатор,,,Identifying Cursor,Tanımlayan İmleç,Cursor de identificación
 UI_CURSOR_DESC_3,Increased Draw Length and Combo capacity. Lower base attack.,線の長さとコンボの上限数がアップ。ただし、基本攻撃力は控えめ。,提升鼠标绘画长度和连击上限，基础攻击力降低,提升滑鼠繪圖長度與連擊上限，但基礎攻擊力會下降。,Maior Comprimento de Desenho e capacidade de Combo. Menor ataque base.,"Incrementa tu Rango de Dibujo y tu Máximo Combo, pero reduce tu ataque base",,,"Увеличенная длина линии и объем комбо, но базовый урон понижен.",,,Lungime de desen și capacitate de combo crescute. Atac de bază redus.,Daha uzun çizim menzili ve artırılmış kombo kapasitesi sunar. Temel saldırı gücü düşüktür.,"Incrementa tu Rango de dibujo y tu Capacidad de combo, pero reduce tu ataque base."
-UI_CURSOR_UNLOCK_DESC_3,Identify 100 viruses to unlock the Identifying Cursor.,ウイルスを100体検出すると「検出カーソル」が解放される。,识别100个病毒解锁“识别鼠标”,辨識 100 個病毒解鎖「辨識滑鼠」,Identifique 100 vírus para desbloquear o Cursor de Identificação.,Identifica 100 virus para desbloquear el Cursor de Identificación,,,"Идентифицируйте 100 вирусов, чтобы разблокировать Курсор-определитель.",,,Identifică 100 de viruși pentru a debloca Identifying Cursor.,100 virüsü tanımlayarak Tanımlayan İmleç'in kilidini aç.,Identifica 100 virus para desbloquear el Cursor de identificación
+UI_CURSOR_UNLOCK_DESC_3,Identify 100 viruses to unlock the Identifying Cursor.,ウイルスを100体検出すると「検出カーソル」が解放される。,识别100个病毒解锁“识别鼠标”,辨識 100 個病毒解鎖「辨識滑鼠」,Identifique 100 vírus para desbloquear o Cursor de Identificação.,Identifica 100 virus para desbloquear el Cursor de Identificación,,,"Идентифицируйте 100 вирусов, чтобы разблокировать Курсор-идентификатор.",,,Identifică 100 de viruși pentru a debloca Identifying Cursor.,100 virüsü tanımlayarak Tanımlayan İmleç'in kilidini aç.,Identifica 100 virus para desbloquear el Cursor de identificación
 UI_CURSOR_NAME_4,Selection Cursor,範囲選択カーソル,选择鼠标,選擇滑鼠,Cursor de Seleção,Cursor de Selección,,,Курсор-выделитель,,,Selection Cursor,Seçim İmleci,Cursor de selección
 UI_CURSOR_DESC_4,Deals damage within a dotted box around you periodically.,カーソルの周囲に点線の枠が表示される。その範囲内に入った敵に対し、一定の間隔でダメージが付与される。,对你虚线框范围内的敌人造成周期性伤害。,對你虛線框範圍內的敵人造成週期性傷害。,Periodicamente causa dano dentro de uma caixa pontilhada ao redor de você.,Causa daño periódicamente a todos los virus que se encuentren en el cuadrado que tiene a su alrededor,,,Периодически наносит урон в пределах пунктирного квадрата вокруг вас.,,,Provoacă daune periodic într-o zonă delimitată de o cutie punctată în jurul tău.,Etrafında noktalı bir kutu içinde periyodik olarak hasar verir.,Causa daño periódicamente a todos los virus que se encuentren en el cuadrado que tiene a su alrededor.
 UI_CURSOR_UNLOCK_DESC_4,Nothing to see here.,情報なし。,这里啥都没有。,這裡什麼都沒有。,Nada para ver aqui.,No hay absolutamente nada aquí,,,Здесь нечего смотреть.,,,Nu e nimic de văzut aici.,Burada görülecek bir şey yok.,Nada que ver aquí.
@@ -24,7 +24,7 @@ UI_CURSOR_NAME_8,Ninja Cursor,ニンジャカーソル,木叶鼠标,木葉滑鼠
 UI_CURSOR_DESC_8,Hold and stop moving to charge up and unleash rapid slashes on a target.,移動を止めて、左クリック長押しでチャージ。ターゲットに高速の斬撃を放つ。,按住并停止移动鼠标进行蓄力，松开对目标释放快速连斩（哈撒给）,按住並停止移動滑鼠進行蓄力，放開後對目標施放高速連斬（哈撒給）。,Segure e pare de mexer para carregar e executar cortes rápidos no alvo.,Mantén y deja de moverte para cargar un ataque de cortes rápidos,,,"Удерживайте и оставайтесь на месте, чтобы зарядить атаку, а затем обрушьте серию быстрых ударов на врага.",,,Ține apăsat și oprește mișcarea pentru a încărca și elibera o serie rapidă de tăieturi asupra unei ținte.,Basılı tutup hareket etmeyerek enerji topla ve hedefe seri kesikler savur.,Mantén y deja de moverte para cargar un ataque de cortes rápidos
 UI_CURSOR_UNLOCK_DESC_8,Cleared the F:/ drive,Fドライブをクリアすることでゲット。,通关F盘,通關F槽,Termine o Drive F:/,Completa el disco F:/,,,Зачистить диск F:/,,,Curăță partiția F:/,F:/ sürücüsünü temizle.,Completa el disco F:/
 UI_CURSOR_NAME_9,Mechanic Cursor,メカニックカーソル,机械师鼠标,機械師滑鼠,Cursor Mecânico,Cursor Mecánico,,,Механический курсор,,,Mechanic Cursor,Mekanik İmleç,Cursor mecánico
-UI_CURSOR_DESC_9,Hold to consume 2 keys to construct a turret. Collect scraps and hammer your turrets to upgrade,左クリック長押しでタレットを設置（キーを2本消費）。スクラップを集めた後、ハンマーで叩くとタレットが強化される。,按住鼠标会消耗两把钥匙建造一个炮台，收集零件并锤击你的炮台来进行升级,按住滑鼠會消耗兩把鑰匙建造一座砲台，收集零件並敲擊你的砲台以升級。,Segure para gastar 2 chaves e construir uma torreta. Colete sucatas e martele as torretas para melhorá-las,Mantén para consumir 2 llaves a cambio de colocar una torreta. Recolecta fragmentos y martillos para mejorar tus torretas,,,"Удерживайте, чтобы потратить 2 ключа и построить турель. Собирайте обломки и улучшайте её с помощью молотка.",,,Ține apăsat pentru a consuma 2 chei și a construi o turelă. Colectează piese și repară turelele pentru upgrade.,Basılı tutarak 2 anahtar harca ve bir taret inşa et. Hurda toplayarak taretlerini çekiçle geliştir.,Mantén para consumir 2 llaves a cambio de colocar una torreta. Recolecta fragmentos y martilla tus torretas para mejorarlas.
+UI_CURSOR_DESC_9,Hold to consume 2 keys to construct a turret. Collect scraps and hammer your turrets to upgrade,左クリック長押しでタレットを設置（キーを2本消費）。スクラップを集めた後、ハンマーで叩くとタレットが強化される。,按住鼠标会消耗两把钥匙建造一个炮台，收集零件并锤击你的炮台来进行升级,按住滑鼠會消耗兩把鑰匙建造一座砲台，收集零件並敲擊你的砲台以升級。,Segure para gastar 2 chaves e construir uma torreta. Colete sucatas e martele as torretas para melhorá-las,Mantén para consumir 2 llaves a cambio de colocar una torreta. Recolecta fragmentos y martillos para mejorar tus torretas,,,"Удерживайте, чтобы потратить 2 ключа и построить турель. Собирайте обломки и улучшайте ее с помощью молотка.",,,Ține apăsat pentru a consuma 2 chei și a construi o turelă. Colectează piese și repară turelele pentru upgrade.,Basılı tutarak 2 anahtar harca ve bir taret inşa et. Hurda toplayarak taretlerini çekiçle geliştir.,Mantén para consumir 2 llaves a cambio de colocar una torreta. Recolecta fragmentos y martilla tus torretas para mejorarlas.
 UI_CURSOR_UNLOCK_DESC_9,Obtain Key Piece 1 and Key Piece 2,キーピース1とキーピース2を手に入れる。,收集密钥碎片1和2,收集密鑰碎片1和2,Obtenha o Pedaço de Chave 1 e Pedaço de Chave 2,Obtén Pieza de Llave 1 y Pieza de Llave 2,,,Получите 1 и 2 фрагменты ключа,,,Obține Fragment de Cheie 1 și Fragment de Cheie 2.,Anahtar Parçası 1 ve 2’yi elde et.,Obtén Fragmento de llave 1 y Fragmento de llave 2
 UI_CURSOR_NAME_10,Gambler Cursor,ギャンブラーカーソル,赌狗鼠标,賭狗滑鼠,Cursor de Apostas,Cursor Gambling,,,Азартный курсор,,,Gambler Cursor,Kumar İmleci,Cursor de apuestas
 UI_CURSOR_DESC_10,Hold & drag to shoot coins like railgun. Fire rate & speed scales with coins,長押し&ドラッグで、コインをレールガンのように発射する。コインの所持枚数に応じて、連射速度と弾速が上がっていく。,按住或拖拽鼠标蓄力射击出硬币，射速和弹速受硬币数量影响,按住或拖曳滑鼠蓄力射出硬幣，射速與彈速會受到硬幣數量影響。,Segura & arraste para atirar moedas como uma railgun. Velocidade e cadência escalam com mais moedas,Mantén y arrastra para disparar monedas como si fuera un cañon de riel. Velocidad de disparo y de proyectil escala según tus monedas,,,"Удерживайте и тяните, чтобы выстрелить монетами, словно из рельсотрона. Скорость и темп стрельбы зависят от количества монет.",,,Ține apăsat și trage pentru a lansa monede ca un railgun. Viteza și rata de foc cresc în funcție de numărul de monede.,Basılı tutup sürükleyerek madeni paraları raylı tüfek gibi fırlat. Ateş hızı ve mermi hızı sahip olduğun para miktarına bağlıdır.,Mantén y arrastra para disparar monedas como si fuera un cañon de riel. La velocidad de disparo y de proyectil escala según tus monedas.
@@ -61,11 +61,11 @@ UI_CURSOR_TRAIL_NAME_11,Space Invader Trail,軌跡：インベーダー,太空�
 UI_CURSOR_TRAIL_NAME_12,Dev Trail,軌跡：開発者マスコット,开发者尾迹,開發者尾跡,Rastro de Dev,Rastro de Desarrollador,,,След разработчика,,,Traseu Dev,Geliştirici İzi,Rastro de desarrollador
 UI_CURSOR_SKIN_NAME_0,,,,,,,,,,,,,,
 UI_CURSOR_SKIN_NAME_1,Clipee Skin,クリッピースキン,小夹皮皮肤,小夾皮造型,Skin Clipee,Skin de Clipee,,,Скрепыш,,,Skin Clipee,Clipee Kostümü,Aspecto de Clipee
-UI_CURSOR_SKIN_NAME_2,Thug Life Skin,ドヤ顔スキン,痞子人生皮肤,痞子人生造型,Skin Thug Life,Skin de Thug Life,,,Бандит,,,Skin Thug Life,Thug Life Kostümü,Aspecto de Thug Life
+UI_CURSOR_SKIN_NAME_2,Thug Life Skin,グラサンスキン,痞子人生皮肤,痞子人生造型,Skin Thug Life,Skin de Thug Life,,,Бандит,,,Skin Thug Life,Thug Life Kostümü,Aspecto de Thug Life
 UI_CURSOR_SKIN_NAME_3,Sword Skin,ソードスキン,剑形皮肤,劍形造型,Skin Espada,Skin de Espada,,,Меч,,,Skin de Sabie,Kılıç Kostümü,Aspecto de Espada
 UI_CURSOR_SKIN_NAME_4,Pickaxe Skin,ピッケルスキン,镐子皮肤,鎬子造型,Skin Picareta,Skin de Pico,,,Кирка,,,Skin de Tarnacop,Kazma Kostümü,Aspecto de Pico
 UI_CURSOR_SKIN_NAME_5,Gohei Skin,ゴヘイスキン,御币皮肤,御幣造型,Skin Gohei,Skin de Gohei,,,Гохэй,,,Skin Gohei,Gohei Kostümü,Aspecto de Gohei
-UI_CURSOR_SKIN_NAME_6,Pin Skin,ピン留めスキン,图钉皮肤,圖釘造型,Skin Pin,Skin de Pin,,,Булавка,,,Skin de Ac,İğne Kostümü,Aspecto de Pin
+UI_CURSOR_SKIN_NAME_6,Pin Skin,ピンスキン,图钉皮肤,圖釘造型,Skin Pin,Skin de Pin,,,Булавка,,,Skin de Ac,İğne Kostümü,Aspecto de Pin
 UI_CURSOR_SKIN_NAME_7,Blue Box Skin,ブルーボックススキン,蓝盒皮肤,藍盒造型,Skin Caixa Azul,Skin de Caja Azul,,,Синий ящик,,,Skin Cutie Albastră,Blue Box Kostümü,Aspecto de Caja azul
 UI_CURSOR_SKIN_NAME_8,Fish Skin,おさかなスキン,小鱼皮肤,魚魚造型,Skin Peixe,Skin de Pez,,,Рыба,,,Skin de Pește,Balık Kostümü,Aspecto de Pez
 UI_CURSOR_SKIN_NAME_9,Magical Girl Skin,魔法少女☆スキン,魔法少女皮肤,魔法少女造型,Skin Garota Mágica,Skin de Chica mágica,,,Девочка-волшебница,,,Skin Fată Magică,Büyülü Kız Kostümü,Aspecto de Chica mágica
@@ -73,7 +73,7 @@ UI_CURSOR_SKIN_NAME_10,Banana Skin,バナナスキン,香蕉皮肤,香蕉造型,
 UI_CURSOR_SKIN_NAME_11,Pizza Skin,ピザスキン,披萨皮肤,披薩造型,Skin Pizza,Skin de Pizza,,,Пицца,,,Skin de Pizza,Pizza Kostümü,Aspecto de Pizza
 UI_CURSOR_SKIN_NAME_12,Determination,ケツイ,决心皮肤,決心造型,Determinação,Determinación,,,Решимость,,,Determinare,Azim,Determinación
 PET_NAME_1,Spore,スポア,小孢,小孢,Esporo,Espora,,,Спора,,,Spore,Spor,Espora
-PET_NAME_2,Skull,スカル,小骷,小骷,Caveira,Calavera,,,Чареп,,,Skull,Kuru Kafa,Calavera
+PET_NAME_2,Skull,スカル,小骷,小骷,Caveira,Calavera,,,Чeреп,,,Skull,Kuru Kafa,Calavera
 PET_NAME_3,Trojan,トロイ,小马,小馬,Trojan,Trojano,,,Троян,,,Trojan,Truva,Trojano
 PET_NAME_4,Diva,ディーヴァ,小姬,小姬,Diva,Diva,,,Дива,,,Diva,Diva,Diva
 PET_NAME_5,ZipBomb,ZIP爆弾,压缩炸弹,壓縮炸彈,ZipBomb,Bomba Zip,,,ZipБомба,,,ZipBomb,ZipBomb,BombaZip
@@ -105,7 +105,7 @@ PET_NAME_30,ZBot,Zbot,Z僵尸,Z殭屍,ZBot,ZBot,,,ZBot,,,ZBot,Zbot,BotZ
 PET_NAME_101,The First Bug,ファーストバグ,Bug之祖,Bug之祖,O Bug Primordial,El Primer Bug,,,Первый Баг,,,The First Bug,The First Bug,El primer bug
 PET_NAME_102,The Web Weaver,ウェブウィーバー,织网者,織網者,A Tece Teias,La Tejedora Web,,,Ткачиха,,,The Web Weaver,The Web Weaver,La tejedora web
 PET_NAME_103,The Cloud CoreX,クラウドコアX,云核X,雲核X,O CloudCoreX,El NucleoNubeX,,,Облачное ЯдроX,,,The Cloud CoreX,The Cloud CoreX,El NúcleoNubeX
-PET_NAME_104,LEV_AI,LEV_AI,利维_AI,利維_AI,LEV_AI,LEV_AI,,,ЛЕВ_ИИ,,,LEV_AI,LEV_AI,LEV_AI
+PET_NAME_104,LEV_AI,LEV_AI,利维_AI,利維_AI,LEV_AI,LEV_IA,,,ЛЕВ_ИИ,,,LEV_AI,LEV_AI,LEV_IA
 PET_NAME_201,Blue Box,ブルーボックス,蓝盒,藍盒,Caixa Azul,Caja Azul,,,Синий ящик,,,Blue Box,Blue Box,Caja azul
 PET_NAME_202,Dina,ディナ,迪娜,迪娜,Dina,Dina,,,Дина,,,Dina,Dina,Dina
 PET_NAME_203,Sylvia,シルヴィア,希维亚,希維亞,Sylvia,Sylvia,,,Сильвия,,,Sylvia,Sylvia,Sylvia
@@ -121,35 +121,47 @@ PET_NAME_212,Tanzu,Tanzu,坦祖,坦祖,Tanzu,Tanzu,,,Танзу,,,Tanzu,Tanzu,Ta
 PET_NAME_213,Princess Pomu,ポム姫,泡沐公主,泡沐公主,Princess Pomu,Princesa Pomu,,,Принцесса Пому,,,Princess Pomu,Prenses Pomu,Princesa Pomu
 PET_NAME_214,Whimling,きまぐれベビー,小奇灵,小奇靈,Whimling,Whimling,,,Чудик,,,Whimling,Whimling,Whimling
 PET_NAME_215,Axolotl,サンショウウオ,美西螈,美西鯰,Axolotl,Ajolote,,,Аксолотль,,,Axolotl,Aksolotl,Ajolote
-PET_NAME_216,Paige,Paige,Paige,Paige,Paige,Paige,Paige,Paige,Paige,Paige,Paige,Paige,Paige,Paige
-PET_NAME_217,Keyboard Cat,Keyboard Cat,Keyboard Cat,Keyboard Cat,Keyboard Cat,Keyboard Cat,Keyboard Cat,Keyboard Cat,Keyboard Cat,Keyboard Cat,Keyboard Cat,Keyboard Cat,Keyboard Cat,Keyboard Cat
-PET_NAME_218,Noko,Noko,Noko,Noko,Noko,Noko,Noko,Noko,Noko,Noko,Noko,Noko,Noko,Noko
-PET_NAME_219,Bob,Bob,Bob,Bob,Bob,Bob,Bob,Bob,Bob,Bob,Bob,Bob,Bob,Bob
-PET_NAME_220,Rat,Rat,Rat,Rat,Rat,Rat,Rat,Rat,Rat,Rat,Rat,Rat,Rat,Rat
-PET_NAME_221,Caronte Caim,Caronte Caim,Caronte Caim,Caronte Caim,Caronte Caim,Caronte Caim,Caronte Caim,Caronte Caim,Caronte Caim,Caronte Caim,Caronte Caim,Caronte Caim,Caronte Caim,Caronte Caim
-PET_NAME_222,Nooble,Nooble,Nooble,Nooble,Nooble,Nooble,Nooble,Nooble,Nooble,Nooble,Nooble,Nooble,Nooble,Nooble
-PET_NAME_223,Chicken Guy,Chicken Guy,Chicken Guy,Chicken Guy,Chicken Guy,Chicken Guy,Chicken Guy,Chicken Guy,Chicken Guy,Chicken Guy,Chicken Guy,Chicken Guy,Chicken Guy,Chicken Guy
-PET_NAME_224,Tiny Dice Adventurer,Tiny Dice Adventurer,Tiny Dice Adventurer,Tiny Dice Adventurer,Tiny Dice Adventurer,Tiny Dice Adventurer,Tiny Dice Adventurer,Tiny Dice Adventurer,Tiny Dice Adventurer,Tiny Dice Adventurer,Tiny Dice Adventurer,Tiny Dice Adventurer,Tiny Dice Adventurer,Tiny Dice Adventurer
-PET_NAME_225,Sudonym,Sudonym,Sudonym,Sudonym,Sudonym,Sudonym,Sudonym,Sudonym,Sudonym,Sudonym,Sudonym,Sudonym,Sudonym,Sudonym
-PET_NAME_226,Wyrm,Wyrm,Wyrm,Wyrm,Wyrm,Wyrm,Wyrm,Wyrm,Wyrm,Wyrm,Wyrm,Wyrm,Wyrm,Wyrm
-PET_NAME_227,Moon Bunny,Moon Bunny,Moon Bunny,Moon Bunny,Moon Bunny,Moon Bunny,Moon Bunny,Moon Bunny,Moon Bunny,Moon Bunny,Moon Bunny,Moon Bunny,Moon Bunny,Moon Bunny
-PET_NAME_228,Bloopa,Bloopa,Bloopa,Bloopa,Bloopa,Bloopa,Bloopa,Bloopa,Bloopa,Bloopa,Bloopa,Bloopa,Bloopa,Bloopa
-PET_NAME_229,Mei,Mei,Mei,Mei,Mei,Mei,Mei,Mei,Mei,Mei,Mei,Mei,Mei,Mei
-PET_NAME_230,Natsu,Natsu,Natsu,Natsu,Natsu,Natsu,Natsu,Natsu,Natsu,Natsu,Natsu,Natsu,Natsu,Natsu
-PET_NAME_231,Luna,Luna,Luna,Luna,Luna,Luna,Luna,Luna,Luna,Luna,Luna,Luna,Luna,Luna
-PET_NAME_232,Candy,Candy,Candy,Candy,Candy,Candy,Candy,Candy,Candy,Candy,Candy,Candy,Candy,Candy
-PET_NAME_233,Beandejo,Beandejo,Beandejo,Beandejo,Beandejo,Beandejo,Beandejo,Beandejo,Beandejo,Beandejo,Beandejo,Beandejo,Beandejo,Beandejo
-PET_NAME_234,Pichon,Pichon,Pichon,Pichon,Pichon,Pichon,Pichon,Pichon,Pichon,Pichon,Pichon,Pichon,Pichon,Pichon
-PET_NAME_235,jeminix2,jeminix3,jeminix4,jeminix5,jeminix6,jeminix7,jeminix8,jeminix9,jeminix10,jeminix11,jeminix12,jeminix13,jeminix14,jeminix2
-PET_NAME_236,Creamy,Creamy,Creamy,Creamy,Creamy,Creamy,Creamy,Creamy,Creamy,Creamy,Creamy,Creamy,Creamy,Creamy
-PET_NAME_237,Tofu,Tofu,Tofu,Tofu,Tofu,Tofu,Tofu,Tofu,Tofu,Tofu,Tofu,Tofu,Tofu,Tofu
-PET_NAME_238,Funa,Funa,Funa,Funa,Funa,Funa,Funa,Funa,Funa,Funa,Funa,Funa,Funa,Funa
-PET_NAME_239,Sundust,Sundust,Sundust,Sundust,Sundust,Sundust,Sundust,Sundust,Sundust,Sundust,Sundust,Sundust,Sundust,Sundust
-PET_NAME_240,Mini Tank,Mini Tank,Mini Tank,Mini Tank,Mini Tank,Mini Tank,Mini Tank,Mini Tank,Mini Tank,Mini Tank,Mini Tank,Mini Tank,Mini Tank,Mini Tank
-PET_NAME_241,aintnoking,aintnoking,aintnoking,aintnoking,aintnoking,aintnoking,aintnoking,aintnoking,aintnoking,aintnoking,aintnoking,aintnoking,aintnoking,aintnoking
-PET_NAME_242,Cara,Cara,Cara,Cara,Cara,Cara,Cara,Cara,Cara,Cara,Cara,Cara,Cara,Cara
-PET_NAME_243,Hanabee,Hanabee,Hanabee,Hanabee,Hanabee,Hanabee,Hanabee,Hanabee,Hanabee,Hanabee,Hanabee,Hanabee,Hanabee,Hanabee
-PET_NAME_244,Oenn,Oenn,Oenn,Oenn,Oenn,Oenn,Oenn,Oenn,Oenn,Oenn,Oenn,Oenn,Oenn,Oenn
+PET_NAME_216,Paige,ペイジ,佩姬,佩姬,Paige,Paige,Paige,Paige,Пэйдж,Paige,Paige,Paige,Paige,Paige
+PET_NAME_217,Keyboard Cat,キーボード・キャット,键盘猫,鍵盤貓,Keyboard Cat,Gato Teclado,Keyboard Cat,Keyboard Cat,Кот-пианист,Keyboard Cat,Keyboard Cat,Keyboard Cat,Piyanist Kedi,Gato Teclado
+PET_NAME_218,Noko,ノコ,诺可,諾可,Noko,Noko,Noko,Noko,Ноко,Noko,Noko,Noko,Noko,Noko
+PET_NAME_219,Bob,ボブ,鲍勃,鮑勃,Bob,Bob,Bob,Bob,Боб,Bob,Bob,Bob,Bob,Bob
+PET_NAME_220,Rat,ネズミ,小鼠,小鼠,Rato,Rata,Rat,Rat,Крыска,Rat,Rat,Rat,Farecik,Rat
+PET_NAME_221,Caronte Caim,カロンテ＝カイム,卡隆特·凯姆,卡隆特·凱姆,Caronte Caim,Caronte Caim,Caronte Caim,Caronte Caim,Харон Каим,Caronte Caim,Caronte Caim,Caronte Caim,Caronte Caim,Caronte Caim
+PET_NAME_222,Nooble,ヌーブル,努布尔,努布爾,Nooble,Nooble,Nooble,Nooble,Нуби,Nooble,Nooble,Nooble,Nooble,Nooble
+PET_NAME_223,Chicken Guy,チキン野郎,鸡哥,雞哥,Cara da Galinha,Tio gallina,Chicken Guy,Chicken Guy,Петушок,Chicken Guy,Chicken Guy,Chicken Guy,Tavuk Adam,Chico gallina
+PET_NAME_224,Tiny Dice Adventurer,豆サイコロの冒険者,小骰子冒险家,小骰子冒險家,Aventureiro de Tiny Dice,Pequeño dado aventurero,Tiny Dice Adventurer,Tiny Dice Adventurer,Крошка кубоход,Tiny Dice Adventurer,Tiny Dice Adventurer,Tiny Dice Adventurer,Minik Zar Maceracısı,Pequeño dado aventurero
+PET_NAME_225,Sudonym,Sudonym,苏多宁,蘇多寧,Sudônimo,Sudonym,Sudonym,Sudonym,Судоним,Sudonym,Sudonym,Sudonym,Sudonym,Sudonym
+PET_NAME_226,Wyrm,ウィルム,飞龙,飛龍,Wyrm,Wyrm,Wyrm,Wyrm,Вирм,Wyrm,Wyrm,Wyrm,Wyrm,Wyrm
+PET_NAME_227,Moon Bunny,月ウサギ,月兔,月兔,Moon Bunny,Moon Bunny,Moon Bunny,Moon Bunny,Лунный кролик,Moon Bunny,Moon Bunny,Moon Bunny,Ay Tavşanı,Moon Bunny
+PET_NAME_228,Bloopa,ブクパ,布鲁帕,布魯帕,Bloopa,Bloopa,Bloopa,Bloopa,Блупик,Bloopa,Bloopa,Bloopa,Bloopa,Bloopa
+PET_NAME_229,Mei,メイ,美,美,Mei,Mei,Mei,Mei,Мэй,Mei,Mei,Mei,Mei,Mei
+PET_NAME_230,Natsu,ナツ,纳茨,納茨,Natsu,Natsu,Natsu,Natsu,Нацу,Natsu,Natsu,Natsu,Natsu,Natsu
+PET_NAME_231,Luna,ルナ,露娜,露娜,Luna,Luna,Luna,Luna,Луна,Luna,Luna,Luna,Luna,Luna
+PET_NAME_232,Candy,キャンディ,糖果,糖果,Candy,Candy,Candy,Candy,Конфетка,Candy,Candy,Candy,Şekercik,Candy
+PET_NAME_233,Beandejo,ビーンジョー,豆德霍,豆德霍,Beandejo,Beandejo,Beandejo,Beandejo,Боблван,Beandejo,Beandejo,Beandejo,Fasulyo,Beandejo
+PET_NAME_234,Pichon,ピチョン,皮琼,皮瓊,Pichon,Pichon,Pichon,Pichon,Птенчик,Pichon,Pichon,Pichon,Pichon,Pichon
+PET_NAME_235,jeminix2,ジェミニクス2,北极星x2,北極星x2,jeminix2,jeminix2,jeminix2,jeminix2,jeminix2,jeminix2,jeminix2,jeminix2,jeminix2,jeminix2
+PET_NAME_236,Creamy,クリーミー,克瑞米,克瑞米,Creamy,Creamy,Creamy,Creamy,Сливчик,Creamy,Creamy,Creamy,Kremi,Creamy
+PET_NAME_237,Tofu,豆腐,豆腐,豆腐,Tofu,Tofu,Tofu,Tofu,Тофу,Tofu,Tofu,Tofu,Tofu,Tofu
+PET_NAME_238,Funa,フナ,芙娜,芙娜,Funa,Funa,Funa,Funa,Фуна,Funa,Funa,Funa,Funa,Funa
+PET_NAME_239,Sundust,サンダスト,晨辉,晨輝,Sundust,Sundust,Sundust,Sundust,Лучинка,Sundust,Sundust,Sundust,Güneş Tozu,Sundust
+PET_NAME_240,Mini Tank,ミニタンク,迷你坦克,迷你坦克,Mini Tanque,Mini Tanque,Mini Tank,Mini Tank,Мини-танк,Mini Tank,Mini Tank,Mini Tank,Tankçık,Mini Tanque
+PET_NAME_241,aintnoking,aintnoking,艾特诺金,艾特諾金,aintnoking,aintnoking,aintnoking,aintnoking,aintnoking,aintnoking,aintnoking,aintnoking,aintnoking,aintnoking
+PET_NAME_242,Cara,カーラ,卡拉,卡拉,Cara,Cara,Cara,Cara,Кара,Cara,Cara,Cara,Cara,Cara
+PET_NAME_243,Hanabee,ハナビー,花奈比,花奈比,Hanabee,Hanabee,Hanabee,Hanabee,Осалютик,Hanabee,Hanabee,Hanabee,Havai,Hanabee
+PET_NAME_244,Oenn,オエン,欧恩,歐恩,Oenn,Oenn,Oenn,Oenn,Оенн,Oenn,Oenn,Oenn,Oenn,Oenn
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,
