@@ -1,51 +1,51 @@
 ﻿keys,en,ja,cn,tw,ptbr,es,kr,de,ru,pl,fr,ro,tr,esla
-UI_COMMON_NOT_IN_DEMO,Not available in the demo.,デモ版では利用不可。,试玩版中不可用。,試玩版中無法使用。,Indisponível na demo.,No disponible en la demo,,,Недоступно в демоверсии.,,,Indisponibil în versiunea demo.,Demo sürümünde mevcut değil.,No disponible en la demo.
-UI_COMMON_START,Start,スタート,开始,開始,Iniciar,Empezar,,,Начать,,,Start,Başlat,Empezar
-UI_COMMON_SAVE,Save,セーブ,保存,儲存,Salvar,Guardar,,,Сохранить,,,Salvare,Kaydet,Guardar
-UI_COMMON_SEED,Seed,シード,种子,種子,Seed,Seed,,,Seed,,,Cod Seed,Seed,Semilla
-UI_COMMON_CANCEL,Cancel,キャンセル,取消,取消,Cancelar,Cancelar,,,Отмена,,,Anulare,İptal,Cancelar
-UI_COMMON_ACCEPT,Yes,はい,是,是,Sim,Sí,,,Да,,,Da,Evet,Sí
-UI_COMMON_REJECT,No,いいえ,否,否,Não,No,,,Нет,,,Nu,Hayır,No
-UI_COMMON_BACK,Back,戻る,返回,返回,Voltar,Volver,,,Назад,,,Înapoi,Geri,Volver
-UI_COMMON_PLAY,Play,プレイ,开始游戏,開始遊戲,Jogar,Jugar,,,Играть,,,Joacă,Oyna,Jugar
-UI_COMMON_RARITY_COMMON,Common,コモン,普通,普通,Comum,Común,,,Обычный,,,Comun,Yaygın,Común
-UI_COMMON_RARITY_UNCOMMON,Uncommon,アンコモン,优秀,優秀,Incomum,Poco común,,,Необычный,,,Neobișnuit,Nadir,Poco común
-UI_COMMON_RARITY_RARE,Rare,レア,稀有,稀有,Raro,Raro,,,Редкий,,,Rar,Ender,Raro
-UI_COMMON_RARITY_LEGENDARY,Legendary,レジェンダリ,传说,傳說,Lendário,Legendario,,,Легендарный,,,Legendar,Efsanevi,Legendario
-UI_COMMON_RARITY_EXE,EXE,EXE,EXE,EXE,EXE,EXE,,,EXE,,,EXE,EXE,EXE
-UI_STAT_HEALTH,Health,体力,生命,生命值,Vida,Vida,,,Здоровье,,,Sănătate,Sağlık,Vida
-UI_STAT_HEARTS,Hearts,ハート,心,心,Corações,Corazones,,,Сердца,,,Inimi,Kalpler,Corazones
-UI_STAT_SHIELD,Shield,シールド,护盾,護盾,Escudo,Escudo,,,Щит,,,Scut,Kalkan,Escudo
-UI_STAT_ATTACK,Attack,攻撃,攻击力,攻擊力,Ataque,Ataque,,,Атака,,,Atac,Saldırı,Ataque
-UI_STAT_DRAW_LENGTH,Draw Length,線の長さ,最大绘画长度,最大繪圖長度,Tamanho de Desenho,Rango de Dibujo,,,Длина линии,,,Lungimea Liniei Desenate,Çekim Uzunluğu,Rango de dibujo
-UI_STAT_COMBO_CAP,Combo Cap,コンボの上限数,连击上限,連擊上限,Limite de Combo,Máximo Combo,,,Объем комбо,,,Limită Combo,Kombo Sınırı,Máximo de combo
-UI_STAT_DODGE_RATE,Dodge Rate,回避率,闪避率,閃避率,Taxa de Esquiva,Probabilidad de Esquive,,,Шанс уклонения,,,Șansă de Eschivă,Kaçınma Oranı,Probabilidad de esquivar
-UI_STAT_CRIT_RATE,Crit Rate,クリティカル率,暴击率,爆擊率,Taxa de Crítico,Probabilidad de Crítico,,,Шанс крита,,,Șansă de Lovitură Critică,Kritik Oranı,Probabilidad de crítico
-UI_STAT_CRIT_DAMAGE,Crit Damage,クリティカルダメージ,暴击伤害,爆擊傷害,Dano Crítico,Daño Crítico,,,Крит. урон,,,Damage Critic,Kritik Hasar,Daño crítico
-UI_OPTIONS_MASTER_VOL,Master Volume,マスターボリューム,主音量,主音量,Volume Principal,Volumen General,,,Общая громкость,,,Volum Principal,Ana Ses,Volumen general
-UI_OPTIONS_BGM_VOL,Music Volume,BGMボリューム,音乐音量,音樂音量,Volume da Música,Volumen de la Música,,,Громкость музыки,,,Volum Muzică,Müzik Sesi,Música
-UI_OPTIONS_SFX_VOL,Sound Effects Volume,効果音ボリューム,音效音量,音效音量,Volume de Efeitos Sonoros,Volumen de los Efectos,,,Громкость звуков,,,Volum Efecte Sonore,Efekt Sesi,Efectos de sonido
-UI_OPTIONS_DISPLAY_MODE,Display Mode,ディスプレイモード,显示模式,顯示模式,Modo de Exibição,Modo de Visualización,,,Режим экрана,,,Mod de afișare,Görüntü Modu,Modo de visualización
-UI_OPTIONS_RESOLUTION,Resolution,解像度,分辨率,解析度,Resolução,Resolución,,,Разрешение,,,Rezoluție,Çözünürlük,Resolución
-UI_OPTIONS_RESOLUTION_OPTION_1,Fullscreen,フルスクリーン,全屏,全螢幕,Tela Cheia,Pantalla Completa,,,Полный экран,,,Ecran complet,Tam Ekran,Pantalla completa
-UI_OPTIONS_RESOLUTION_OPTION_2,Borderless,ボーダレス,无边框,無邊框,Sem Bordas,Sin Bordes,,,Окно без рамок,,,Fără margini,Kenarlıksız,Sin bordes
-UI_OPTIONS_RESOLUTION_OPTION_3,Windowed,ウィンドウ表示,窗口化,視窗模式,Janela,Con Ventana,,,Окно,,,În fereastră,Pencereli,Ventana
-UI_OPTIONS_VSYNC,VSync,垂直同期,垂直同步,垂直同步,VSync,VSync,,,Вертик. синхронизация,,,VSync,VSync,Sincronización vertical
-UI_OPTIONS_CRT,CRT Filter,CRTフィルター,CRT滤镜,CRT濾鏡,Filtro CRT,Filtro CRT,,,CRT-фильтр,,,Filtru CRT,CRT Filtresi,Filtro CRT
-UI_OPTIONS_SCREENSHAKE,Screenshake,画面揺れ,屏幕抖动,畫面震動,Screenshake,Agitación de la Pantalla,,,Дрожание экрана,,,Tremur ecran,Ekran Sarsıntısı,Temblor de pantalla
-UI_OPTIONS_MOUSE_SENSITIVITY,Mouse Sensitivity,マウス感度,鼠标灵敏度,滑鼠靈敏度,Sensibilidade do Mouse,Sensibilidad del Ratón,,,Чувствительность мыши,,,Sensibilitate mouse,Fare Hassasiyeti,Sensibilidad del ratón
-UI_OPTIONS_COMBAT_BACKGROUND,Combat Background Intensity,戦闘時：背景の不透明度,战斗背景浓淡,戰鬥背景濃淡,Intensidade do Fundo de Combate,Intensidad del Fondo en Combate,,,Интенсивность фона в бою,,,Intensitatea fundalului de luptă,Savaş Arka Plan Yoğunluğu,Intensidad del fondo en combate
-UI_MENU_LABEL_START,Start,スタート,开始,開始,Iniciar,Iniciar,,,Начать,,,Start,Başlat,Iniciar
-UI_MENU_LABEL_CONTINUE,Continue,コンティニュー,继续,繼續,Continuar,Continuar,,,Продолжить,,,Continuă,Devam Et,Continuar
-UI_MENU_LABEL_OPTIONS,Options,オプション,选项,選項,Opções,Opciones,,,Настройки,,,Opțiuni,Ayarlar,Opciones
-UI_MENU_LABEL_QUIT,Quit,終了,退出,離開,Sair,Salir,,,Выход,,,Ieșire,Çıkış,Salir
-UI_MENU_LABEL_LOG,Log,ログ,日志,日誌,Registro,Registro,,,Журнал,,,Jurnal,Günlük,Registro
-UI_MENU_LABEL_DATABASE,Database,データベース,数据库,資料庫,Banco de Dados,Base de Datos,,,База данных,,,Bază de date,Veritabanı,Base de datos
-UI_MENU_LABEL_CREDITS,Credits,クレジット,制作人员名单,製作人員名單,Créditos,Créditos,,,Авторы,,,Credite,Katkıda Bulunanlar,Créditos
-UI_MENU_LABEL_WISHLIST,Wishlist,ウィッシュリスト,添加到愿望单,加入願望清單,Lista de Desejos,Lista de Deseos,,,В желаемое,,,Listă de dorințe,İstek Listesi,Lista de deseos
-UI_MENU_LABEL_DISCORD,Discord,Discord,Discord,Discord,Discord,Discord,,,Discord,,,Discord,Discord,Discord
-UI_MENU_LABEL_SECRETS,Secrets,シークレット,加密档案,加密檔案,Segredos,Secretos,,,Секреты,,,Secrete,Sırlar,Secretos
-UI_MENU_LABEL_SHOP,Shop,ショップ,商店,商店,Loja,Tienda,,,Магазин,,,Magazin,Mağaza,Tienda
+UI_COMMON_NOT_IN_DEMO,Not available in the demo.,デモ版では利用不可。,试玩版中不可用。,試玩版中無法使用。,Indisponível na demo.,No disponible en la demo,,Nicht verfügbar in der Demo,Недоступно в демоверсии.,Niedostępne w wersji demonstracyjnej.,,Indisponibil în versiunea demo.,Demo sürümünde mevcut değil.,No disponible en la demo.
+UI_COMMON_START,Start,スタート,开始,開始,Iniciar,Empezar,,Start,Начать,Startuj,,Start,Başlat,Empezar
+UI_COMMON_SAVE,Save,セーブ,保存,儲存,Salvar,Guardar,,Speichern,Сохранить,Zapisz,,Salvare,Kaydet,Guardar
+UI_COMMON_SEED,Seed,シード,种子,種子,Seed,Seed,,Seed,Seed,Ziarno,,Seed,Seed,Semilla
+UI_COMMON_CANCEL,Cancel,キャンセル,取消,取消,Cancelar,Cancelar,,Abbrechen,Отмена,Anuluj,,Anulare,İptal,Cancelar
+UI_COMMON_ACCEPT,Yes,はい,是,是,Sim,Sí,,Ja,Да,Tak,,Da,Evet,Sí
+UI_COMMON_REJECT,No,いいえ,否,否,Não,No,,Nein,Нет,Nie,,Nu,Hayır,No
+UI_COMMON_BACK,Back,戻る,返回,返回,Voltar,Volver,,Zurück,Назад,Cofnij,,Înapoi,Geri,Volver
+UI_COMMON_PLAY,Play,プレイ,开始游戏,開始遊戲,Jogar,Jugar,,Spielen,Играть,Graj,,Joacă,Oyna,Jugar
+UI_COMMON_RARITY_COMMON,Common,コモン,普通,普通,Comum,Común,,Gewöhnlich,Обычный,Pospolity,,Comun,Yaygın,Común
+UI_COMMON_RARITY_UNCOMMON,Uncommon,アンコモン,优秀,優秀,Incomum,Poco común,,Ungewöhnlich,Необычный,Niepospolity,,Neobișnuit,Nadir,Poco común
+UI_COMMON_RARITY_RARE,Rare,レア,稀有,稀有,Raro,Raro,,Selten,Редкий,Rzadki,,Rar,Ender,Raro
+UI_COMMON_RARITY_LEGENDARY,Legendary,レジェンダリ,传说,傳說,Lendário,Legendario,,Legendär,Легендарный,Legendarny,,Legendar,Efsanevi,Legendario
+UI_COMMON_RARITY_EXE,EXE,EXE,EXE,EXE,EXE,EXE,,EXE,EXE,EXE,,EXE,EXE,EXE
+UI_STAT_HEALTH,Health,体力,生命,生命值,Vida,Vida,,Gesundheit,Здоровье,Życie,,Sănătate,Sağlık,Vida
+UI_STAT_HEARTS,Hearts,ハート,心,心,Corações,Corazones,,Herzen,Сердца,Serca,,Inimi,Kalpler,Corazones
+UI_STAT_SHIELD,Shield,シールド,护盾,護盾,Escudo,Escudo,,Schild,Щит,Tarcza,,Scut,Kalkan,Escudo
+UI_STAT_ATTACK,Attack,攻撃,攻击力,攻擊力,Ataque,Ataque,,Angriff,Атака,Atak,,Atac,Saldırı,Ataque
+UI_STAT_DRAW_LENGTH,Draw Length,線の長さ,最大绘画长度,最大繪圖長度,Tamanho de Desenho,Rango de Dibujo,,Streckenlänge,Длина линии,Długość szlaczka,,Lungimea Liniei Desenate,Çekim Uzunluğu,Rango de dibujo
+UI_STAT_COMBO_CAP,Combo Cap,コンボの上限数,连击上限,連擊上限,Limite de Combo,Máximo Combo,,Kombi Cap,Объем комбо,Limit combo,,Limită Combo,Kombo Sınırı,Máximo de combo
+UI_STAT_DODGE_RATE,Dodge Rate,回避率,闪避率,閃避率,Taxa de Esquiva,Probabilidad de Esquive,,Ausweichrate,Шанс уклонения,Szansa na unik,,Șansă de Eschivă,Kaçınma Oranı,Probabilidad de esquivar
+UI_STAT_CRIT_RATE,Crit Rate,クリティカル率,暴击率,爆擊率,Taxa de Crítico,Probabilidad de Crítico,,Krit-Rate,Шанс крита,Szansa na trafienie krytyczne,,Șansă de Lovitură Critică,Kritik Oranı,Probabilidad de crítico
+UI_STAT_CRIT_DAMAGE,Crit Damage,クリティカルダメージ,暴击伤害,爆擊傷害,Dano Crítico,Daño Crítico,,Kritischer Schaden,Крит. урон,Obrażenia krytyczne,,Damage Critic,Kritik Hasar,Daño crítico
+UI_OPTIONS_MASTER_VOL,Master Volume,マスターボリューム,主音量,主音量,Volume Principal,Volumen General,,Gesamt Lautstärke,Общая громкость,Głośność ogólna,,Volum Principal,Ana Ses,Volumen general
+UI_OPTIONS_BGM_VOL,Music Volume,BGMボリューム,音乐音量,音樂音量,Volume da Música,Volumen de la Música,,Musik Lautstärke,Громкость музыки,Głośność muzyki,,Volum Muzică,Müzik Sesi,Música
+UI_OPTIONS_SFX_VOL,Sound Effects Volume,効果音ボリューム,音效音量,音效音量,Volume de Efeitos Sonoros,Volumen de los Efectos,,Sound Effekt Lautstärke,Громкость звуков,Głośność efektów specjalnych,,Volum Efecte Sonore,Efekt Sesi,Efectos de sonido
+UI_OPTIONS_DISPLAY_MODE,Display Mode,ディスプレイモード,显示模式,顯示模式,Modo de Exibição,Modo de Visualización,,Anzeige Modus,Режим экрана,Tryb wyświetlania,,Mod de afișare,Görüntü Modu,Modo de visualización
+UI_OPTIONS_RESOLUTION,Resolution,解像度,分辨率,解析度,Resolução,Resolución,,Auflösung,Разрешение,Rozdzielczość,,Rezoluție,Çözünürlük,Resolución
+UI_OPTIONS_RESOLUTION_OPTION_1,Fullscreen,フルスクリーン,全屏,全螢幕,Tela Cheia,Pantalla Completa,,Vollbildschirm,Полный экран,Pełny ekran,,Ecran complet,Tam Ekran,Pantalla completa
+UI_OPTIONS_RESOLUTION_OPTION_2,Borderless,ボーダレス,无边框,無邊框,Sem Bordas,Sin Bordes,,Randlosermodus,Окно без рамок,Okno bez ramki,,Fără margini,Kenarlıksız,Sin bordes
+UI_OPTIONS_RESOLUTION_OPTION_3,Windowed,ウィンドウ表示,窗口化,視窗模式,Janela,Con Ventana,,Fenstermodus,Окно,Okno bez ramki,,În fereastră,Pencereli,Ventana
+UI_OPTIONS_VSYNC,VSync,垂直同期,垂直同步,垂直同步,VSync,VSync,,VSync,Вертик. синхронизация,Vsync,,VSync,VSync,Sincronización vertical
+UI_OPTIONS_CRT,CRT Filter,CRTフィルター,CRT滤镜,CRT濾鏡,Filtro CRT,Filtro CRT,,CRT Filter,CRT-фильтр,Filtr CRT,,Filtru CRT,CRT Filtresi,Filtro CRT
+UI_OPTIONS_SCREENSHAKE,Screenshake,画面揺れ,屏幕抖动,畫面震動,Screenshake,Agitación de la Pantalla,,Bildschirmschütterung,Дрожание экрана,Trzęsienie ekranu,,Tremur ecran,Ekran Sarsıntısı,Temblor de pantalla
+UI_OPTIONS_MOUSE_SENSITIVITY,Mouse Sensitivity,マウス感度,鼠标灵敏度,滑鼠靈敏度,Sensibilidade do Mouse,Sensibilidad del Ratón,,Maus Sensitivität ,Чувствительность мыши,Czułosć myszy,,Sensibilitate mouse,Fare Hassasiyeti,Sensibilidad del ratón
+UI_OPTIONS_COMBAT_BACKGROUND,Combat Background Intensity,戦闘時：背景の不透明度,战斗背景浓淡,戰鬥背景濃淡,Intensidade do Fundo de Combate,Intensidad del Fondo en Combate,,Kampfhintergrundintensität,Интенсивность фона в бою,Intensywnosć tła w walce,,Intensitatea fundalului de luptă,Savaş Arka Plan Yoğunluğu,Intensidad del fondo en combate
+UI_MENU_LABEL_START,Start,スタート,开始,開始,Iniciar,Iniciar,,Start,Начать,Startuj,,Start,Başlat,Iniciar
+UI_MENU_LABEL_CONTINUE,Continue,コンティニュー,继续,繼續,Continuar,Continuar,,Weiter,Продолжить,Koontynuuj,,Continuă,Devam Et,Continuar
+UI_MENU_LABEL_OPTIONS,Options,オプション,选项,選項,Opções,Opciones,,Optionen,Настройки,Opcje,,Opțiuni,Ayarlar,Opciones
+UI_MENU_LABEL_QUIT,Quit,終了,退出,離開,Sair,Salir,,Beenden,Выход,Wyjdź,,Ieșire,Çıkış,Salir
+UI_MENU_LABEL_LOG,Log,ログ,日志,日誌,Registro,Registro,,Protokoll,Журнал,Dziennik,,Jurnal,Günlük,Registro
+UI_MENU_LABEL_DATABASE,Database,データベース,数据库,資料庫,Banco de Dados,Base de Datos,,Datenbank,База данных,Baza danych,,Bază de date,Veritabanı,Base de datos
+UI_MENU_LABEL_CREDITS,Credits,クレジット,制作人员名单,製作人員名單,Créditos,Créditos,,Credits,Авторы,Twórcy,,Credite,Katkıda Bulunanlar,Créditos
+UI_MENU_LABEL_WISHLIST,Wishlist,ウィッシュリスト,添加到愿望单,加入願望清單,Lista de Desejos,Lista de Deseos,,Wunschliste ,В желаемое,Lista życzeń,,Listă de dorințe,İstek Listesi,Lista de deseos
+UI_MENU_LABEL_DISCORD,Discord,Discord,Discord,Discord,Discord,Discord,,Discord,Discord,Discord,,Discord,Discord,Discord
+UI_MENU_LABEL_SECRETS,Secrets,シークレット,加密档案,加密檔案,Segredos,Secretos,,Geheimnisse,Секреты,Sekrety,,Secrete,Sırlar,Secretos
+UI_MENU_LABEL_SHOP,Shop,ショップ,商店,商店,Loja,Tienda,,Shop,Магазин,Sklep,,Magazin,Mağaza,Tienda
 UI_CREDITS_DESC,"Credits:
 
 Gearbyte Games
@@ -81,7 +81,7 @@ Hassan Al Khatib (Marketing)
 Chris Zukowski
 Discord Community
 X Community: 
-@NuraPixel, @_kiseki_miracle, @Lynte_, @m_artstuff, @Duwi_EXE, @Phromn_, @CunnieHoe, @ZeliotL, @trizG_, @NandooPX, @iterateinteract, @gatekid3, @NotMondayGame, @Toadzillart, @NapasGames, @PixelDominus, @TanzDev, @GabreuSenra, @DracoNoko, @Cup_Nooble_, @CursedCode, @Caronte_Caim, @moonlightmae_vt, @auralystic, @Bloopa_Loopa, @SpringloadedDev, @sudonym, @Flashkirby, @w1k3d10, @aintnoking, @HanahoneybeeVT, @Regris_Kallen, @the_polar_pop, @MeanieMoonArt, @jeminix2, @elpichonart, @arsundust, @MiniTankMayhem, @_nyunnya_, @TurtleHolder, @krait181, @lenard_pr, @funa_vt, @_theMatteBlack","クレジット
+@NuraPixel, @_kiseki_miracle, @Lynte_, @m_artstuff, @Duwi_EXE, @Phromn_, @CunnieHoe, @ZeliotL, @trizG_, @NandooPX, @iterateinteract, @gatekid3, @NotMondayGame, @Toadzillart, @NapasGames, @PixelDominus, @TanzDev, @GabreuSenra, @DracoNoko, @Cup_Nooble_, @CursedCode, @Caronte_Caim, @moonlightmae_vt, @auralystic, @Bloopa_Loopa, @SpringloadedDev, @sudonym, @Flashkirby, @w1k3d10, @aintnoking, @HanahoneybeeVT, @Regris_Kallen, @the_polar_pop, @MeanieMoonArt, @jeminix2, @elpichonart, @arsundust, @MiniTankMayhem, @_nyunnya_, @TurtleHolder, @krait181, @lenard_pr, @funa_vt, @_theMatteBlack, @Teitara_Game","クレジット
 
 Gearbyte Games
 クリエイティブ・リード：SylverDev (@sylver_dev)
@@ -116,7 +116,7 @@ Hassan Al Khatib (Marketing)
 Chris Zukowski
 Discordコミュニティ
 Xコミュニティ：
-@NuraPixel, @_kiseki_miracle, @Lynte_, @m_artstuff, @Duwi_EXE, @Phromn_, @CunnieHoe, @ZeliotL, @trizG_, @NandooPX, @iterateinteract, @gatekid3, @NotMondayGame, @Toadzillart, @NapasGames, @PixelDominus, @TanzDev, @GabreuSenra, @DracoNoko, @Cup_Nooble_, @CursedCode, @Caronte_Caim, @moonlightmae_vt, @auralystic, @Bloopa_Loopa, @SpringloadedDev, @sudonym, @Flashkirby, @w1k3d10, @aintnoking, @HanahoneybeeVT, @Regris_Kallen, @the_polar_pop, @MeanieMoonArt, @jeminix2, @elpichonart, @arsundust, @MiniTankMayhem, @_nyunnya_, @TurtleHolder, @krait181, @lenard_pr, @funa_vt, @_theMatteBlack","制作人员名单:
+@NuraPixel, @_kiseki_miracle, @Lynte_, @m_artstuff, @Duwi_EXE, @Phromn_, @CunnieHoe, @ZeliotL, @trizG_, @NandooPX, @iterateinteract, @gatekid3, @NotMondayGame, @Toadzillart, @NapasGames, @PixelDominus, @TanzDev, @GabreuSenra, @DracoNoko, @Cup_Nooble_, @CursedCode, @Caronte_Caim, @moonlightmae_vt, @auralystic, @Bloopa_Loopa, @SpringloadedDev, @sudonym, @Flashkirby, @w1k3d10, @aintnoking, @HanahoneybeeVT, @Regris_Kallen, @the_polar_pop, @MeanieMoonArt, @jeminix2, @elpichonart, @arsundust, @MiniTankMayhem, @_nyunnya_, @TurtleHolder, @krait181, @lenard_pr, @funa_vt, @_theMatteBlack, @Teitara_Game","制作人员名单:
 
 Gearbyte Games
 创意总监: SylverDev (@sylver_dev)
@@ -151,7 +151,7 @@ Hassan Al Khatib (市场推广)
 Chris Zukowski
 Discord 社群
 X 社区:
-@NuraPixel, @_kiseki_miracle, @Lynte_, @m_artstuff, @Duwi_EXE, @Phromn_, @CunnieHoe, @ZeliotL, @trizG_, @NandooPX, @iterateinteract, @gatekid3, @NotMondayGame, @Toadzillart, @NapasGames, @PixelDominus, @TanzDev, @GabreuSenra, @DracoNoko, @Cup_Nooble_, @CursedCode, @Caronte_Caim, @moonlightmae_vt, @auralystic, @Bloopa_Loopa, @SpringloadedDev, @sudonym, @Flashkirby, @w1k3d10, @aintnoking, @HanahoneybeeVT, @Regris_Kallen, @the_polar_pop, @MeanieMoonArt, @jeminix2, @elpichonart, @arsundust, @MiniTankMayhem, @_nyunnya_, @TurtleHolder, @krait181, @lenard_pr, @funa_vt, @_theMatteBlack ","製作人員名單
+@NuraPixel, @_kiseki_miracle, @Lynte_, @m_artstuff, @Duwi_EXE, @Phromn_, @CunnieHoe, @ZeliotL, @trizG_, @NandooPX, @iterateinteract, @gatekid3, @NotMondayGame, @Toadzillart, @NapasGames, @PixelDominus, @TanzDev, @GabreuSenra, @DracoNoko, @Cup_Nooble_, @CursedCode, @Caronte_Caim, @moonlightmae_vt, @auralystic, @Bloopa_Loopa, @SpringloadedDev, @sudonym, @Flashkirby, @w1k3d10, @aintnoking, @HanahoneybeeVT, @Regris_Kallen, @the_polar_pop, @MeanieMoonArt, @jeminix2, @elpichonart, @arsundust, @MiniTankMayhem, @_nyunnya_, @TurtleHolder, @krait181, @lenard_pr, @funa_vt, @_theMatteBlack, @Teitara_Game ","製作人員名單
 
 Gearbyte Games
 創意總監: SylverDev (@sylver_dev)
@@ -186,7 +186,7 @@ Hassan Al Khatib (市場推廣)
 Chris Zukowski
 Discord 社群
 X 平台社群:
-@NuraPixel, @_kiseki_miracle, @Lynte_, @m_artstuff, @Duwi_EXE, @Phromn_, @CunnieHoe, @ZeliotL, @trizG_, @NandooPX, @iterateinteract, @gatekid3, @NotMondayGame, @Toadzillart, @NapasGames, @PixelDominus, @TanzDev, @GabreuSenra, @DracoNoko, @Cup_Nooble_, @CursedCode, @Caronte_Caim, @moonlightmae_vt, @auralystic, @Bloopa_Loopa, @SpringloadedDev, @sudonym, @Flashkirby, @w1k3d10, @aintnoking, @HanahoneybeeVT, @Regris_Kallen, @the_polar_pop, @MeanieMoonArt, @jeminix2, @elpichonart, @arsundust, @MiniTankMayhem, @_nyunnya_, @TurtleHolder, @krait181, @lenard_pr, @funa_vt, @_theMatteBlack","Créditos:
+@NuraPixel, @_kiseki_miracle, @Lynte_, @m_artstuff, @Duwi_EXE, @Phromn_, @CunnieHoe, @ZeliotL, @trizG_, @NandooPX, @iterateinteract, @gatekid3, @NotMondayGame, @Toadzillart, @NapasGames, @PixelDominus, @TanzDev, @GabreuSenra, @DracoNoko, @Cup_Nooble_, @CursedCode, @Caronte_Caim, @moonlightmae_vt, @auralystic, @Bloopa_Loopa, @SpringloadedDev, @sudonym, @Flashkirby, @w1k3d10, @aintnoking, @HanahoneybeeVT, @Regris_Kallen, @the_polar_pop, @MeanieMoonArt, @jeminix2, @elpichonart, @arsundust, @MiniTankMayhem, @_nyunnya_, @TurtleHolder, @krait181, @lenard_pr, @funa_vt, @_theMatteBlack, @Teitara_Game","Créditos:
 
 Gearbyte Games
 Líder Criativo: SylverDev (@sylver_dev)
@@ -221,7 +221,7 @@ Hassan Al Khatib (Marketing)
 Chris Zukowski
 Comunidade do Discord
 Comunidade do X: 
-@NuraPixel, @_kiseki_miracle, @Lynte_, @m_artstuff, @Duwi_EXE, @Phromn_, @CunnieHoe, @ZeliotL, @trizG_, @NandooPX, @iterateinteract, @gatekid3, @NotMondayGame, @Toadzillart, @NapasGames, @PixelDominus, @TanzDev, @GabreuSenra, @DracoNoko, @Cup_Nooble_, @CursedCode, @Caronte_Caim, @moonlightmae_vt, @auralystic, @Bloopa_Loopa, @SpringloadedDev, @sudonym, @Flashkirby, @w1k3d10, @aintnoking, @HanahoneybeeVT, @Regris_Kallen, @the_polar_pop, @MeanieMoonArt, @jeminix2, @elpichonart, @arsundust, @MiniTankMayhem, @_nyunnya_, @TurtleHolder, @krait181, @lenard_pr, @funa_vt, @_theMatteBlack ","Créditos:
+@NuraPixel, @_kiseki_miracle, @Lynte_, @m_artstuff, @Duwi_EXE, @Phromn_, @CunnieHoe, @ZeliotL, @trizG_, @NandooPX, @iterateinteract, @gatekid3, @NotMondayGame, @Toadzillart, @NapasGames, @PixelDominus, @TanzDev, @GabreuSenra, @DracoNoko, @Cup_Nooble_, @CursedCode, @Caronte_Caim, @moonlightmae_vt, @auralystic, @Bloopa_Loopa, @SpringloadedDev, @sudonym, @Flashkirby, @w1k3d10, @aintnoking, @HanahoneybeeVT, @Regris_Kallen, @the_polar_pop, @MeanieMoonArt, @jeminix2, @elpichonart, @arsundust, @MiniTankMayhem, @_nyunnya_, @TurtleHolder, @krait181, @lenard_pr, @funa_vt, @_theMatteBlack, @Teitara_Game ","Créditos:
 
 Gearbyte Games
 Líder Creativo: SylverDev (@sylver_dev)
@@ -256,7 +256,42 @@ Hassan Al Khatib (Marketing)
 Chris Zukowski
 Comunidad de Discord
 Comunidad de X: 
-@NuraPixel, @_kiseki_miracle, @Lynte_, @m_artstuff, @Duwi_EXE, @Phromn_, @CunnieHoe, @ZeliotL, @trizG_, @NandooPX, @iterateinteract, @gatekid3, @NotMondayGame, @Toadzillart, @NapasGames, @PixelDominus, @TanzDev, @GabreuSenra, @DracoNoko, @Cup_Nooble_, @CursedCode, @Caronte_Caim, @moonlightmae_vt, @auralystic, @Bloopa_Loopa, @SpringloadedDev, @sudonym, @Flashkirby, @w1k3d10, @aintnoking, @HanahoneybeeVT, @Regris_Kallen, @the_polar_pop, @MeanieMoonArt, @jeminix2, @elpichonart, @arsundust, @MiniTankMayhem, @_nyunnya_, @TurtleHolder, @krait181, @lenard_pr, @funa_vt, @_theMatteBlack ",,,Разработано:\nGearbyte Games\n\nКреативный директор\nTang Leejed\n\nВедущий программист\nLin Xin\n\nКомпозитор музыки и звуков\nKevin Mevlana (LordMev)\n\nШрифты\nLanaPixel (eishiya)\nPixelLocale (Johste)\n\nОсобая благодарность\nDatlad11 (QA/дизайн)\nУчастникам сообщества Discord,"Авторы:
+@NuraPixel, @_kiseki_miracle, @Lynte_, @m_artstuff, @Duwi_EXE, @Phromn_, @CunnieHoe, @ZeliotL, @trizG_, @NandooPX, @iterateinteract, @gatekid3, @NotMondayGame, @Toadzillart, @NapasGames, @PixelDominus, @TanzDev, @GabreuSenra, @DracoNoko, @Cup_Nooble_, @CursedCode, @Caronte_Caim, @moonlightmae_vt, @auralystic, @Bloopa_Loopa, @SpringloadedDev, @sudonym, @Flashkirby, @w1k3d10, @aintnoking, @HanahoneybeeVT, @Regris_Kallen, @the_polar_pop, @MeanieMoonArt, @jeminix2, @elpichonart, @arsundust, @MiniTankMayhem, @_nyunnya_, @TurtleHolder, @krait181, @lenard_pr, @funa_vt, @_theMatteBlack, @Teitara_Game ",,"Credits:
+
+Gearbyte Games
+Creative Lead: SylverDev (@sylver_dev)
+Lead Programmer: Calipao
+Lead Audio: Kevin Mevlana (@lordmev)
+
+QA/Design: Datlad11
+
+PR:
+Neon Noroshi (JP)
+Tiffa Media (CN)
+
+Localization: 
+Yuki Fujita (JP)
+Si Han, Si Wei (CN/TW)
+Nikita Mikhalev (RU)
+Edmilson Rocha (PTBR)
+OMarcoGPO (ES)
+Izabella Mitu (DE)
+AtomicBraven, Marcoleric (FR)
+Konrad Jopek, Szymon Kołodziej (PL)
+Andrei Găboreanu (RO)
+Joaquín Riveros Véliz, OMarcoGPO (ESLA)
+Mustafa ""Neekagami"" Dinç (TR)
+
+Fonts:
+PixelLocale (Johste)
+LanaPixel (eishiya)
+
+Special Thanks!
+Hassan Al Khatib (Marketing)
+Chris Zukowski
+Discord Community
+X Community: 
+@NuraPixel, @_kiseki_miracle, @Lynte_, @m_artstuff, @Duwi_EXE, @Phromn_, @CunnieHoe, @ZeliotL, @trizG_, @NandooPX, @iterateinteract, @gatekid3, @NotMondayGame, @Toadzillart, @NapasGames, @PixelDominus, @TanzDev, @GabreuSenra, @DracoNoko, @Cup_Nooble_, @CursedCode, @Caronte_Caim, @moonlightmae_vt, @auralystic, @Bloopa_Loopa, @SpringloadedDev, @sudonym, @Flashkirby, @w1k3d10, @aintnoking, @HanahoneybeeVT, @Regris_Kallen, @the_polar_pop, @MeanieMoonArt, @jeminix2, @elpichonart, @arsundust, @MiniTankMayhem, @_nyunnya_, @TurtleHolder, @krait181, @lenard_pr, @funa_vt, @_theMatteBlack, @Teitara_Game","Авторы:
 
 Gearbyte Games
 Креативный директор: SylverDev (@sylver_dev)
@@ -290,7 +325,7 @@ LanaPixel (eishiya)
 Hassan Al Khatib (Маркетинг)
 Сообществу Discord
 Сообществу X: 
-@NuraPixel, @_kiseki_miracle, @Lynte_, @m_artstuff, @Duwi_EXE, @Phromn_, @CunnieHoe, @ZeliotL, @trizG_, @NandooPX, @iterateinteract, @gatekid3, @NotMondayGame, @Toadzillart, @NapasGames, @PixelDominus, @TanzDev, @GabreuSenra, @DracoNoko, @Cup_Nooble_, @CursedCode, @Caronte_Caim, @moonlightmae_vt, @auralystic, @Bloopa_Loopa, @SpringloadedDev, @sudonym, @Flashkirby, @w1k3d10, @aintnoking, @HanahoneybeeVT, @Regris_Kallen, @the_polar_pop, @MeanieMoonArt, @jeminix2, @elpichonart, @arsundust, @MiniTankMayhem, @_nyunnya_, @TurtleHolder, @krait181, @lenard_pr, @funa_vt, @_theMatteBlack",,"Credite:
+@NuraPixel, @_kiseki_miracle, @Lynte_, @m_artstuff, @Duwi_EXE, @Phromn_, @CunnieHoe, @ZeliotL, @trizG_, @NandooPX, @iterateinteract, @gatekid3, @NotMondayGame, @Toadzillart, @NapasGames, @PixelDominus, @TanzDev, @GabreuSenra, @DracoNoko, @Cup_Nooble_, @CursedCode, @Caronte_Caim, @moonlightmae_vt, @auralystic, @Bloopa_Loopa, @SpringloadedDev, @sudonym, @Flashkirby, @w1k3d10, @aintnoking, @HanahoneybeeVT, @Regris_Kallen, @the_polar_pop, @MeanieMoonArt, @jeminix2, @elpichonart, @arsundust, @MiniTankMayhem, @_nyunnya_, @TurtleHolder, @krait181, @lenard_pr, @funa_vt, @_theMatteBlack, @Teitara_Game ",Stworzone przez:\nGearbyte Games\n\nDyrektor Kreatywny\nTang Leejed\n\nGłówny Programista\nLin Xin\n\nKompozytor Muzyki i Dźwięku\nKevin Mevlana (LordMev)\n\nCzcionki\nLanaPixel (eishiya)\nPixelLocale (Johste)\n\nSpecjalne podziękowania\nDatlad11 (QA/Design)\nCzłonkowie Społeczności Discord,,"Credite:
 
 Gearbyte Games
 Conducere Creativă: SylverDev (@sylver_dev)
@@ -325,7 +360,7 @@ Hassan Al Khatib (Marketing)
 Chris Zukowski
 Comunitatea Discord
 Comunitatea X: 
-@NuraPixel, @_kiseki_miracle, @Lynte_, @m_artstuff, @Duwi_EXE, @Phromn_, @CunnieHoe, @ZeliotL, @trizG_, @NandooPX, @iterateinteract, @gatekid3, @NotMondayGame, @Toadzillart, @NapasGames, @PixelDominus, @TanzDev, @GabreuSenra, @DracoNoko, @Cup_Nooble_, @CursedCode, @Caronte_Caim, @moonlightmae_vt, @auralystic, @Bloopa_Loopa, @SpringloadedDev, @sudonym, @Flashkirby, @w1k3d10, @aintnoking, @HanahoneybeeVT, @Regris_Kallen, @the_polar_pop, @MeanieMoonArt, @jeminix2, @elpichonart, @arsundust, @MiniTankMayhem, @_nyunnya_, @TurtleHolder, @krait181, @lenard_pr, @funa_vt, @_theMatteBlack","Katkıda Bulunanlar (Credits):
+@NuraPixel, @_kiseki_miracle, @Lynte_, @m_artstuff, @Duwi_EXE, @Phromn_, @CunnieHoe, @ZeliotL, @trizG_, @NandooPX, @iterateinteract, @gatekid3, @NotMondayGame, @Toadzillart, @NapasGames, @PixelDominus, @TanzDev, @GabreuSenra, @DracoNoko, @Cup_Nooble_, @CursedCode, @Caronte_Caim, @moonlightmae_vt, @auralystic, @Bloopa_Loopa, @SpringloadedDev, @sudonym, @Flashkirby, @w1k3d10, @aintnoking, @HanahoneybeeVT, @Regris_Kallen, @the_polar_pop, @MeanieMoonArt, @jeminix2, @elpichonart, @arsundust, @MiniTankMayhem, @_nyunnya_, @TurtleHolder, @krait181, @lenard_pr, @funa_vt, @_theMatteBlack, @Teitara_Game ","Katkıda Bulunanlar (Credits):
 
 Gearbyte Games
  Yaratıcı Lider (Creative Lead): SylverDev (@sylver_dev)
@@ -360,7 +395,7 @@ Hassan Al Khatib (Pazarlama / Marketing)
 Chris Zukowski
 Discord Topluluğu
  X Topluluğu (X Community):
-@NuraPixel, @_kiseki_miracle, @Lynte_, @m_artstuff, @Duwi_EXE, @Phromn_, @CunnieHoe, @ZeliotL, @trizG_, @NandooPX, @iterateinteract, @gatekid3, @NotMondayGame, @Toadzillart, @NapasGames, @PixelDominus, @TanzDev, @GabreuSenra, @DracoNoko, @Cup_Nooble_, @CursedCode, @Caronte_Caim, @moonlightmae_vt, @auralystic, @Bloopa_Loopa, @SpringloadedDev, @sudonym, @Flashkirby, @w1k3d10, @aintnoking, @HanahoneybeeVT, @Regris_Kallen, @the_polar_pop, @MeanieMoonArt, @jeminix2, @elpichonart, @arsundust, @MiniTankMayhem, @_nyunnya_, @TurtleHolder, @krait181, @lenard_pr, @funa_vt, @_theMatteBlack","Créditos:
+@NuraPixel, @_kiseki_miracle, @Lynte_, @m_artstuff, @Duwi_EXE, @Phromn_, @CunnieHoe, @ZeliotL, @trizG_, @NandooPX, @iterateinteract, @gatekid3, @NotMondayGame, @Toadzillart, @NapasGames, @PixelDominus, @TanzDev, @GabreuSenra, @DracoNoko, @Cup_Nooble_, @CursedCode, @Caronte_Caim, @moonlightmae_vt, @auralystic, @Bloopa_Loopa, @SpringloadedDev, @sudonym, @Flashkirby, @w1k3d10, @aintnoking, @HanahoneybeeVT, @Regris_Kallen, @the_polar_pop, @MeanieMoonArt, @jeminix2, @elpichonart, @arsundust, @MiniTankMayhem, @_nyunnya_, @TurtleHolder, @krait181, @lenard_pr, @funa_vt, @_theMatteBlack, @Teitara_Game ","Créditos:
 
 Gearbyte Games
 Director creativo: SylverDev (@sylver_dev)
@@ -393,13 +428,14 @@ LanaPixel (eishiya)
 ¡Agradecimientos especiales!
 Hassan Al Khatib (Marketing)
 Comunidad de Discord
-Comunidad de X: "
-UI_PAUSE_WINDOW_WISHLIST,Wishlist on Steam,ウィッシュリストに追加,添加到Steam愿望单,添加到Steam愿望单,Adicione à Lista de Desejos,Añadir a Lista de Deseos en Steam,,,Добавить в желаемое,,,Adaugă pe lista de dorințe Steam,Steam’de İstek Listesine Ekle,Añadir a Lista de deseos en Steam
-UI_PAUSE_WINDOW_RESUME_GAME,Resume Game,ゲーム再開,继续游戏,續遊戲,Continuar Jogo,Continuar Juego,,,Продолжить игру,,,Reia jocul,Oyuna Devam Et,Continuar juego
-UI_PAUSE_WINDOW_OPTIONS,Options,オプション,选项,選項,Opções,Opciones,,,Настройки,,,Opțiuni,Ayarlar,Opciones
-UI_PAUSE_WINDOW_EXIT_TO_MENU,Exit To Menu,メニューに戻る,返回主菜单,返回主選單,Sair para o Menu,Salir al Menú,,,Выйти в меню,,,Ieșire la meniu,Menüye Dön,Salir al menú
-UI_QUIT_WINDOW_CONFIRMATION_MSG,"Are you sure you want to quit? If you quit now, you will lose this run's progress",終了してもよろしいですか？\nこれまでの進行状況は失われます。,确认退出？现在退出将会丢失本轮游戏进度,確定要離開嗎？現在離開會失去本輪遊戲進度,"Tem certeza que deseja sair? Se você sair agora, perderá o progresso desta execução","¿Seguro que quieres salir? Si lo haces, perderás los datos de esta navegación",,,"Вы уверены, что хотите выйти? Прогресс этого забега будет потерян",,,"Ești sigur că vrei să ieși? Dacă ieși acum, vei pierde progresul acestei runde.",Çıkmak istediğinden emin misin? Şimdi çıkarsan bu turun ilerlemesini kaybedeceksin.,"¿Seguro que quieres salir? Si lo haces, perderás todo el progreso de esta partida"
-UI_DESKTOP_DEMO_LABEL,Demo,デモ版,试玩版,試玩版,Demo,Demo,,,Демо,,,Demo,Demo,Demo
+Comunidad de X: 
+@NuraPixel, @_kiseki_miracle, @Lynte_, @m_artstuff, @Duwi_EXE, @Phromn_, @CunnieHoe, @ZeliotL, @trizG_, @NandooPX, @iterateinteract, @gatekid3, @NotMondayGame, @Toadzillart, @NapasGames, @PixelDominus, @TanzDev, @GabreuSenra, @DracoNoko, @Cup_Nooble_, @CursedCode, @Caronte_Caim, @moonlightmae_vt, @auralystic, @Bloopa_Loopa, @SpringloadedDev, @sudonym, @Flashkirby, @w1k3d10, @aintnoking, @HanahoneybeeVT, @Regris_Kallen, @the_polar_pop, @MeanieMoonArt, @jeminix2, @elpichonart, @arsundust, @MiniTankMayhem, @_nyunnya_, @TurtleHolder, @krait181, @lenard_pr, @funa_vt, @_theMatteBlack, @Teitara_Game "
+UI_PAUSE_WINDOW_WISHLIST,Wishlist on Steam,ウィッシュリストに追加,添加到Steam愿望单,添加到Steam愿望单,Adicione à Lista de Desejos,Añadir a Lista de Deseos en Steam,,Auf die Steam Wunschliste :) ,Добавить в желаемое,Dodaj do listy życzeń na Steam,,Adaugă pe lista de dorințe Steam,Steam’de İstek Listesine Ekle,Añadir a Lista de deseos en Steam
+UI_PAUSE_WINDOW_RESUME_GAME,Resume Game,ゲーム再開,继续游戏,續遊戲,Continuar Jogo,Continuar Juego,,Spiel Fortsetzen,Продолжить игру,Wznów gre,,Reia jocul,Oyuna Devam Et,Continuar juego
+UI_PAUSE_WINDOW_OPTIONS,Options,オプション,选项,選項,Opções,Opciones,,Optionen,Настройки,Opcje,,Opțiuni,Ayarlar,Opciones
+UI_PAUSE_WINDOW_EXIT_TO_MENU,Exit To Menu,メニューに戻る,返回主菜单,返回主選單,Sair para o Menu,Salir al Menú,,Zum Menü,Выйти в меню,Wyjdź do menu,,Ieșire la meniu,Menüye Dön,Salir al menú
+UI_QUIT_WINDOW_CONFIRMATION_MSG,"Are you sure you want to quit? If you quit now, you will lose this run's progress",終了してもよろしいですか？\nこれまでの進行状況は失われます。,确认退出？现在退出将会丢失本轮游戏进度,確定要離開嗎？現在離開會失去本輪遊戲進度,"Tem certeza que deseja sair? Se você sair agora, perderá o progresso desta execução","¿Seguro que quieres salir? Si lo haces, perderás los datos de esta navegación",,Willst du wirklich beenden? Du verlierst den Fortschritt dieses Durchlaufs,"Вы уверены, что хотите выйти? Прогресс этого забега будет потерян",Jestes pewnien że chcesz opuścić grę? Jeżeli wyjdziesz teraz stracisz progres obecnego podejścia,,"Ești sigur că vrei să ieși? Dacă ieși acum, vei pierde progresul acestei runde.",Çıkmak istediğinden emin misin? Şimdi çıkarsan bu turun ilerlemesini kaybedeceksin.,"¿Seguro que quieres salir? Si lo haces, perderás todo el progreso de esta partida"
+UI_DESKTOP_DEMO_LABEL,Demo,デモ版,试玩版,試玩版,Demo,Demo,,Demo,Демо,Wersja demonstracyjna,,Demo,Demo,Demo
 ,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,
