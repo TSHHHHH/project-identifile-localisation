@@ -1,51 +1,51 @@
-﻿keys,en,ja,cn,tw,ptbr,es,kr,de,ru,pl,fr,ro,tr,esla
-UI_COMMON_NOT_IN_DEMO,Not available in the demo.,デモ版では利用不可。,试玩版中不可用。,試玩版中無法使用。,Indisponível na demo.,No disponible en la demo,,Nicht verfügbar in der Demo,Недоступно в демоверсии.,Niedostępne w wersji demonstracyjnej.,,Indisponibil în versiunea demo.,Demo sürümünde mevcut değil.,No disponible en la demo.
-UI_COMMON_START,Start,スタート,开始,開始,Iniciar,Empezar,,Start,Начать,Startuj,,Start,Başlat,Empezar
-UI_COMMON_SAVE,Save,セーブ,保存,儲存,Salvar,Guardar,,Speichern,Сохранить,Zapisz,,Salvare,Kaydet,Guardar
-UI_COMMON_SEED,Seed,シード,种子,種子,Seed,Seed,,Seed,Seed,Ziarno,,Seed,Seed,Semilla
-UI_COMMON_CANCEL,Cancel,キャンセル,取消,取消,Cancelar,Cancelar,,Abbrechen,Отмена,Anuluj,,Anulare,İptal,Cancelar
-UI_COMMON_ACCEPT,Yes,はい,是,是,Sim,Sí,,Ja,Да,Tak,,Da,Evet,Sí
-UI_COMMON_REJECT,No,いいえ,否,否,Não,No,,Nein,Нет,Nie,,Nu,Hayır,No
-UI_COMMON_BACK,Back,戻る,返回,返回,Voltar,Volver,,Zurück,Назад,Cofnij,,Înapoi,Geri,Volver
-UI_COMMON_PLAY,Play,プレイ,开始游戏,開始遊戲,Jogar,Jugar,,Spielen,Играть,Graj,,Joacă,Oyna,Jugar
-UI_COMMON_RARITY_COMMON,Common,コモン,普通,普通,Comum,Común,,Gewöhnlich,Обычный,Pospolity,,Comun,Yaygın,Común
-UI_COMMON_RARITY_UNCOMMON,Uncommon,アンコモン,优秀,優秀,Incomum,Poco común,,Ungewöhnlich,Необычный,Niepospolity,,Neobișnuit,Nadir,Poco común
-UI_COMMON_RARITY_RARE,Rare,レア,稀有,稀有,Raro,Raro,,Selten,Редкий,Rzadki,,Rar,Ender,Raro
-UI_COMMON_RARITY_LEGENDARY,Legendary,レジェンダリ,传说,傳說,Lendário,Legendario,,Legendär,Легендарный,Legendarny,,Legendar,Efsanevi,Legendario
-UI_COMMON_RARITY_EXE,EXE,EXE,EXE,EXE,EXE,EXE,,EXE,EXE,EXE,,EXE,EXE,EXE
-UI_STAT_HEALTH,Health,体力,生命,生命值,Vida,Vida,,Gesundheit,Здоровье,Życie,,Sănătate,Sağlık,Vida
-UI_STAT_HEARTS,Hearts,ハート,心,心,Corações,Corazones,,Herzen,Сердца,Serca,,Inimi,Kalpler,Corazones
-UI_STAT_SHIELD,Shield,シールド,护盾,護盾,Escudo,Escudo,,Schild,Щит,Tarcza,,Scut,Kalkan,Escudo
-UI_STAT_ATTACK,Attack,攻撃,攻击力,攻擊力,Ataque,Ataque,,Angriff,Атака,Atak,,Atac,Saldırı,Ataque
-UI_STAT_DRAW_LENGTH,Draw Length,線の長さ,最大绘画长度,最大繪圖長度,Tamanho de Desenho,Rango de Dibujo,,Streckenlänge,Длина линии,Długość szlaczka,,Lungimea Liniei Desenate,Çekim Uzunluğu,Rango de dibujo
-UI_STAT_COMBO_CAP,Combo Cap,コンボの上限数,连击上限,連擊上限,Limite de Combo,Máximo Combo,,Kombi Cap,Объем комбо,Limit combo,,Limită Combo,Kombo Sınırı,Máximo de combo
-UI_STAT_DODGE_RATE,Dodge Rate,回避率,闪避率,閃避率,Taxa de Esquiva,Probabilidad de Esquive,,Ausweichrate,Шанс уклонения,Szansa na unik,,Șansă de Eschivă,Kaçınma Oranı,Probabilidad de esquivar
-UI_STAT_CRIT_RATE,Crit Rate,クリティカル率,暴击率,爆擊率,Taxa de Crítico,Probabilidad de Crítico,,Krit-Rate,Шанс крита,Szansa na trafienie krytyczne,,Șansă de Lovitură Critică,Kritik Oranı,Probabilidad de crítico
-UI_STAT_CRIT_DAMAGE,Crit Damage,クリティカルダメージ,暴击伤害,爆擊傷害,Dano Crítico,Daño Crítico,,Kritischer Schaden,Крит. урон,Obrażenia krytyczne,,Damage Critic,Kritik Hasar,Daño crítico
-UI_OPTIONS_MASTER_VOL,Master Volume,マスターボリューム,主音量,主音量,Volume Principal,Volumen General,,Gesamt Lautstärke,Общая громкость,Głośność ogólna,,Volum Principal,Ana Ses,Volumen general
-UI_OPTIONS_BGM_VOL,Music Volume,BGMボリューム,音乐音量,音樂音量,Volume da Música,Volumen de la Música,,Musik Lautstärke,Громкость музыки,Głośność muzyki,,Volum Muzică,Müzik Sesi,Música
-UI_OPTIONS_SFX_VOL,Sound Effects Volume,効果音ボリューム,音效音量,音效音量,Volume de Efeitos Sonoros,Volumen de los Efectos,,Sound Effekt Lautstärke,Громкость звуков,Głośność efektów specjalnych,,Volum Efecte Sonore,Efekt Sesi,Efectos de sonido
-UI_OPTIONS_DISPLAY_MODE,Display Mode,ディスプレイモード,显示模式,顯示模式,Modo de Exibição,Modo de Visualización,,Anzeige Modus,Режим экрана,Tryb wyświetlania,,Mod de afișare,Görüntü Modu,Modo de visualización
-UI_OPTIONS_RESOLUTION,Resolution,解像度,分辨率,解析度,Resolução,Resolución,,Auflösung,Разрешение,Rozdzielczość,,Rezoluție,Çözünürlük,Resolución
-UI_OPTIONS_RESOLUTION_OPTION_1,Fullscreen,フルスクリーン,全屏,全螢幕,Tela Cheia,Pantalla Completa,,Vollbildschirm,Полный экран,Pełny ekran,,Ecran complet,Tam Ekran,Pantalla completa
-UI_OPTIONS_RESOLUTION_OPTION_2,Borderless,ボーダレス,无边框,無邊框,Sem Bordas,Sin Bordes,,Randlosermodus,Окно без рамок,Okno bez ramki,,Fără margini,Kenarlıksız,Sin bordes
-UI_OPTIONS_RESOLUTION_OPTION_3,Windowed,ウィンドウ表示,窗口化,視窗模式,Janela,Con Ventana,,Fenstermodus,Окно,Okno bez ramki,,În fereastră,Pencereli,Ventana
-UI_OPTIONS_VSYNC,VSync,垂直同期,垂直同步,垂直同步,VSync,VSync,,VSync,Вертик. синхронизация,Vsync,,VSync,VSync,Sincronización vertical
-UI_OPTIONS_CRT,CRT Filter,CRTフィルター,CRT滤镜,CRT濾鏡,Filtro CRT,Filtro CRT,,CRT Filter,CRT-фильтр,Filtr CRT,,Filtru CRT,CRT Filtresi,Filtro CRT
-UI_OPTIONS_SCREENSHAKE,Screenshake,画面揺れ,屏幕抖动,畫面震動,Screenshake,Agitación de la Pantalla,,Bildschirmschütterung,Дрожание экрана,Trzęsienie ekranu,,Tremur ecran,Ekran Sarsıntısı,Temblor de pantalla
-UI_OPTIONS_MOUSE_SENSITIVITY,Mouse Sensitivity,マウス感度,鼠标灵敏度,滑鼠靈敏度,Sensibilidade do Mouse,Sensibilidad del Ratón,,Maus Sensitivität ,Чувствительность мыши,Czułosć myszy,,Sensibilitate mouse,Fare Hassasiyeti,Sensibilidad del ratón
-UI_OPTIONS_COMBAT_BACKGROUND,Combat Background Intensity,戦闘時：背景の不透明度,战斗背景浓淡,戰鬥背景濃淡,Intensidade do Fundo de Combate,Intensidad del Fondo en Combate,,Kampfhintergrundintensität,Интенсивность фона в бою,Intensywnosć tła w walce,,Intensitatea fundalului de luptă,Savaş Arka Plan Yoğunluğu,Intensidad del fondo en combate
-UI_MENU_LABEL_START,Start,スタート,开始,開始,Iniciar,Iniciar,,Start,Начать,Startuj,,Start,Başlat,Iniciar
-UI_MENU_LABEL_CONTINUE,Continue,コンティニュー,继续,繼續,Continuar,Continuar,,Weiter,Продолжить,Koontynuuj,,Continuă,Devam Et,Continuar
-UI_MENU_LABEL_OPTIONS,Options,オプション,选项,選項,Opções,Opciones,,Optionen,Настройки,Opcje,,Opțiuni,Ayarlar,Opciones
-UI_MENU_LABEL_QUIT,Quit,終了,退出,離開,Sair,Salir,,Beenden,Выход,Wyjdź,,Ieșire,Çıkış,Salir
-UI_MENU_LABEL_LOG,Log,ログ,日志,日誌,Registro,Registro,,Protokoll,Журнал,Dziennik,,Jurnal,Günlük,Registro
-UI_MENU_LABEL_DATABASE,Database,データベース,数据库,資料庫,Banco de Dados,Base de Datos,,Datenbank,База данных,Baza danych,,Bază de date,Veritabanı,Base de datos
-UI_MENU_LABEL_CREDITS,Credits,クレジット,制作人员名单,製作人員名單,Créditos,Créditos,,Credits,Авторы,Twórcy,,Credite,Katkıda Bulunanlar,Créditos
-UI_MENU_LABEL_WISHLIST,Wishlist,ウィッシュリスト,添加到愿望单,加入願望清單,Lista de Desejos,Lista de Deseos,,Wunschliste ,В желаемое,Lista życzeń,,Listă de dorințe,İstek Listesi,Lista de deseos
-UI_MENU_LABEL_DISCORD,Discord,Discord,Discord,Discord,Discord,Discord,,Discord,Discord,Discord,,Discord,Discord,Discord
-UI_MENU_LABEL_SECRETS,Secrets,シークレット,加密档案,加密檔案,Segredos,Secretos,,Geheimnisse,Секреты,Sekrety,,Secrete,Sırlar,Secretos
-UI_MENU_LABEL_SHOP,Shop,ショップ,商店,商店,Loja,Tienda,,Shop,Магазин,Sklep,,Magazin,Mağaza,Tienda
+keys,en,ja,cn,tw,ptbr,es,kr,de,ru,pl,fr,ro,tr,esla
+UI_COMMON_NOT_IN_DEMO,Not available in the demo.,??????????,????????,?????????,Indispon�vel na demo.,No disponible en la demo,,Nicht verf�gbar in der Demo,?????????? ? ??????????.,Niedost?pne w wersji demonstracyjnej.,Indisponible dans la d�mo,Indisponibil �n versiunea demo.,Demo s�r�m�nde mevcut de?il.,No disponible en la demo.
+UI_COMMON_START,Start,????,??,??,Iniciar,Empezar,,Start,??????,Startuj,Commencer,Start,Ba?lat,Empezar
+UI_COMMON_SAVE,Save,???,??,??,Salvar,Guardar,,Speichern,?????????,Zapisz,Sauvegarder,Salvare,Kaydet,Guardar
+UI_COMMON_SEED,Seed,???,??,??,Seed,Seed,,Seed,Seed,Ziarno,Seed,Seed,Seed,Semilla
+UI_COMMON_CANCEL,Cancel,?????,??,??,Cancelar,Cancelar,,Abbrechen,??????,Anuluj,Annuler,Anulare,?ptal,Cancelar
+UI_COMMON_ACCEPT,Yes,??,?,?,Sim,S�,,Ja,??,Tak,Oui,Da,Evet,S�
+UI_COMMON_REJECT,No,???,?,?,N�o,No,,Nein,???,Nie,Non,Nu,Hay?r,No
+UI_COMMON_BACK,Back,??,??,??,Voltar,Volver,,Zur�ck,?????,Cofnij,Retour,�napoi,Geri,Volver
+UI_COMMON_PLAY,Play,???,????,????,Jogar,Jugar,,Spielen,??????,Graj,Jouer,Joac?,Oyna,Jugar
+UI_COMMON_RARITY_COMMON,Common,???,??,??,Comum,Com�n,,Gew�hnlich,???????,Pospolity,Commun,Comun,Yayg?n,Com�n
+UI_COMMON_RARITY_UNCOMMON,Uncommon,?????,??,??,Incomum,Poco com�n,,Ungew�hnlich,?????????,Niepospolity,Peu Commun,Neobi?nuit,Nadir,Poco com�n
+UI_COMMON_RARITY_RARE,Rare,??,??,??,Raro,Raro,,Selten,??????,Rzadki,Rare,Rar,Ender,Raro
+UI_COMMON_RARITY_LEGENDARY,Legendary,??????,??,??,Lend�rio,Legendario,,Legend�r,???????????,Legendarny,L�gendaire,Legendar,Efsanevi,Legendario
+UI_COMMON_RARITY_EXE,EXE,EXE,EXE,EXE,EXE,EXE,,EXE,EXE,EXE,Exe,EXE,EXE,EXE
+UI_STAT_HEALTH,Health,??,??,???,Vida,Vida,,Gesundheit,????????,?ycie,Vie,S?n?tate,Sa?l?k,Vida
+UI_STAT_HEARTS,Hearts,???,?,?,Cora��es,Corazones,,Herzen,??????,Serca,C�urs,Inimi,Kalpler,Corazones
+UI_STAT_SHIELD,Shield,????,??,??,Escudo,Escudo,,Schild,???,Tarcza,Bouclier,Scut,Kalkan,Escudo
+UI_STAT_ATTACK,Attack,??,???,???,Ataque,Ataque,,Angriff,?????,Atak,Attaque,Atac,Sald?r?,Ataque
+UI_STAT_DRAW_LENGTH,Draw Length,????,??????,??????,Tamanho de Desenho,Rango de Dibujo,,Streckenl�nge,????? ?????,D?ugo?? szlaczka,Longueur du trac�,Lungimea Liniei Desenate,�ekim Uzunlu?u,Rango de dibujo
+UI_STAT_COMBO_CAP,Combo Cap,???????,????,????,Limite de Combo,M�ximo Combo,,Kombi Cap,????? ?????,Limit combo,Combo Maximal,Limit? Combo,Kombo S?n?r?,M�ximo de combo
+UI_STAT_DODGE_RATE,Dodge Rate,???,???,???,Taxa de Esquiva,Probabilidad de Esquive,,Ausweichrate,???? ?????????,Szansa na unik,Taux d'esquive,?ans? de Eschiv?,Ka�?nma Oran?,Probabilidad de esquivar
+UI_STAT_CRIT_RATE,Crit Rate,???????,???,???,Taxa de Cr�tico,Probabilidad de Cr�tico,,Krit-Rate,???? ?????,Szansa na trafienie krytyczne,Taux de coup critique,?ans? de Lovitur? Critic?,Kritik Oran?,Probabilidad de cr�tico
+UI_STAT_CRIT_DAMAGE,Crit Damage,??????????,????,????,Dano Cr�tico,Da�o Cr�tico,,Kritischer Schaden,????. ????,Obra?enia krytyczne,D�gats critiques,Damage Critic,Kritik Hasar,Da�o cr�tico
+UI_OPTIONS_MASTER_VOL,Master Volume,?????????,???,???,Volume Principal,Volumen General,,Gesamt Lautst�rke,????? ?????????,G?o?no?? og�lna,Volume General,Volum Principal,Ana Ses,Volumen general
+UI_OPTIONS_BGM_VOL,Music Volume,BGM?????,????,????,Volume da M�sica,Volumen de la M�sica,,Musik Lautst�rke,????????? ??????,G?o?no?? muzyki,Volume de la musique,Volum Muzic?,M�zik Sesi,M�sica
+UI_OPTIONS_SFX_VOL,Sound Effects Volume,????????,????,????,Volume de Efeitos Sonoros,Volumen de los Efectos,,Sound Effekt Lautst�rke,????????? ??????,G?o?no?? efekt�w specjalnych,Volume des effets,Volum Efecte Sonore,Efekt Sesi,Efectos de sonido
+UI_OPTIONS_DISPLAY_MODE,Display Mode,?????????,????,????,Modo de Exibi��o,Modo de Visualizaci�n,,Anzeige Modus,????? ??????,Tryb wy?wietlania,Mode d'affichage,Mod de afi?are,G�r�nt� Modu,Modo de visualizaci�n
+UI_OPTIONS_RESOLUTION,Resolution,???,???,???,Resolu��o,Resoluci�n,,Aufl�sung,??????????,Rozdzielczo??,R�solution,Rezolu?ie,��z�n�rl�k,Resoluci�n
+UI_OPTIONS_RESOLUTION_OPTION_1,Fullscreen,???????,??,???,Tela Cheia,Pantalla Completa,,Vollbildschirm,?????? ?????,Pe?ny ekran,Plein �cran,Ecran complet,Tam Ekran,Pantalla completa
+UI_OPTIONS_RESOLUTION_OPTION_2,Borderless,?????,???,???,Sem Bordas,Sin Bordes,,Randlosermodus,???? ??? ?????,Okno bez ramki,Fen�tr� sans bordure,F?r? margini,Kenarl?ks?z,Sin bordes
+UI_OPTIONS_RESOLUTION_OPTION_3,Windowed,???????,???,????,Janela,Con Ventana,,Fenstermodus,????,Okno bez ramki,Fen�tr�,�n fereastr?,Pencereli,Ventana
+UI_OPTIONS_VSYNC,VSync,????,????,????,VSync,VSync,,VSync,??????. ?????????????,Vsync,Syncro verticale,VSync,VSync,Sincronizaci�n vertical
+UI_OPTIONS_CRT,CRT Filter,CRT?????,CRT??,CRT??,Filtro CRT,Filtro CRT,,CRT Filter,CRT-??????,Filtr CRT,Filtre cathodique,Filtru CRT,CRT Filtresi,Filtro CRT
+UI_OPTIONS_SCREENSHAKE,Screenshake,????,????,????,Screenshake,Agitaci�n de la Pantalla,,Bildschirmsch�tterung,???????? ??????,Trz?sienie ekranu,Tremblements d'�cran,Tremur ecran,Ekran Sars?nt?s?,Temblor de pantalla
+UI_OPTIONS_MOUSE_SENSITIVITY,Mouse Sensitivity,?????,?????,?????,Sensibilidade do Mouse,Sensibilidad del Rat�n,,Maus Sensitivit�t ,???????????????? ????,Czu?os? myszy,Sensibilit� de la souris,Sensibilitate mouse,Fare Hassasiyeti,Sensibilidad del rat�n
+UI_OPTIONS_COMBAT_BACKGROUND,Combat Background Intensity,???????????,??????,??????,Intensidade do Fundo de Combate,Intensidad del Fondo en Combate,,Kampfhintergrundintensit�t,????????????? ???? ? ???,Intensywnos? t?a w walce,Intensit� du fond en combat,Intensitatea fundalului de lupt?,Sava? Arka Plan Yo?unlu?u,Intensidad del fondo en combate
+UI_MENU_LABEL_START,Start,????,??,??,Iniciar,Iniciar,,Start,??????,Startuj,Commencer,Start,Ba?lat,Iniciar
+UI_MENU_LABEL_CONTINUE,Continue,???????,??,??,Continuar,Continuar,,Weiter,??????????,Koontynuuj,Continuer,Continu?,Devam Et,Continuar
+UI_MENU_LABEL_OPTIONS,Options,?????,??,??,Op��es,Opciones,,Optionen,?????????,Opcje,Options,Op?iuni,Ayarlar,Opciones
+UI_MENU_LABEL_QUIT,Quit,??,??,??,Sair,Salir,,Beenden,?????,Wyjd?,Quitter,Ie?ire,�?k??,Salir
+UI_MENU_LABEL_LOG,Log,??,??,??,Registro,Registro,,Protokoll,??????,Dziennik,Registre,Jurnal,G�nl�k,Registro
+UI_MENU_LABEL_DATABASE,Database,??????,???,???,Banco de Dados,Base de Datos,,Datenbank,???? ??????,Baza danych,Base de donn�e,Baz? de date,Veritaban?,Base de datos
+UI_MENU_LABEL_CREDITS,Credits,?????,??????,??????,Cr�ditos,Cr�ditos,,Credits,??????,Tw�rcy,Cr�dits,Credite,Katk?da Bulunanlar,Cr�ditos
+UI_MENU_LABEL_WISHLIST,Wishlist,????????,??????,??????,Lista de Desejos,Lista de Deseos,,Wunschliste ,? ????????,Lista ?ycze?,Liste de souhait,List? de dorin?e,?stek Listesi,Lista de deseos
+UI_MENU_LABEL_DISCORD,Discord,Discord,Discord,Discord,Discord,Discord,,Discord,Discord,Discord,Discord,Discord,Discord,Discord
+UI_MENU_LABEL_SECRETS,Secrets,??????,????,????,Segredos,Secretos,,Geheimnisse,???????,Sekrety,Secrets,Secrete,S?rlar,Secretos
+UI_MENU_LABEL_SHOP,Shop,????,??,??,Loja,Tienda,,Shop,???????,Sklep,Magasin,Magazin,Ma?aza,Tienda
 UI_CREDITS_DESC,"Credits:
 
 Gearbyte Games
@@ -66,11 +66,11 @@ Nikita Mikhalev (RU)
 Edmilson Rocha (PTBR)
 OMarcoGPO (ES)
 Izabella Mitu (DE)
-AtomicBraven, Marcoleric (FR)
-Konrad Jopek, Szymon Kołodziej (PL)
-Andrei Găboreanu (RO)
-Joaquín Riveros Véliz, OMarcoGPO (ESLA)
-Mustafa ""Neekagami"" Dinç (TR)
+AtomicBraven, Marcoleric, Senkouilles (FR)
+Konrad Jopek, Szymon Ko?odziej (PL)
+Andrei G?boreanu (RO)
+Joaqu�n Riveros V�liz, OMarcoGPO (ESLA)
+Mustafa ""Neekagami"" Din� (TR)
 
 Fonts:
 PixelLocale (Johste)
@@ -81,117 +81,117 @@ Hassan Al Khatib (Marketing)
 Chris Zukowski
 Discord Community
 X Community: 
-@NuraPixel, @_kiseki_miracle, @Lynte_, @m_artstuff, @Duwi_EXE, @Phromn_, @CunnieHoe, @ZeliotL, @trizG_, @NandooPX, @iterateinteract, @gatekid3, @NotMondayGame, @Toadzillart, @NapasGames, @PixelDominus, @TanzDev, @GabreuSenra, @DracoNoko, @Cup_Nooble_, @CursedCode, @Caronte_Caim, @moonlightmae_vt, @auralystic, @Bloopa_Loopa, @SpringloadedDev, @sudonym, @Flashkirby, @w1k3d10, @aintnoking, @HanahoneybeeVT, @Regris_Kallen, @the_polar_pop, @MeanieMoonArt, @jeminix2, @elpichonart, @arsundust, @MiniTankMayhem, @_nyunnya_, @TurtleHolder, @krait181, @lenard_pr, @funa_vt, @_theMatteBlack, @Teitara_Game","クレジット
+@NuraPixel, @_kiseki_miracle, @Lynte_, @m_artstuff, @Duwi_EXE, @Phromn_, @CunnieHoe, @ZeliotL, @trizG_, @NandooPX, @iterateinteract, @gatekid3, @NotMondayGame, @Toadzillart, @NapasGames, @PixelDominus, @TanzDev, @GabreuSenra, @DracoNoko, @Cup_Nooble_, @CursedCode, @Caronte_Caim, @moonlightmae_vt, @auralystic, @Bloopa_Loopa, @SpringloadedDev, @sudonym, @Flashkirby, @w1k3d10, @aintnoking, @HanahoneybeeVT, @Regris_Kallen, @the_polar_pop, @MeanieMoonArt, @jeminix2, @elpichonart, @arsundust, @MiniTankMayhem, @_nyunnya_, @TurtleHolder, @krait181, @lenard_pr, @funa_vt, @_theMatteBlack, @Teitara_Game","?????
 
 Gearbyte Games
-クリエイティブ・リード：SylverDev (@sylver_dev)
-リードプログラマー：Calipao
-オーディオ・リード：Kevin Mevlana (@lordmev)
+????????????SylverDev (@sylver_dev)
+??????????Calipao
+??????????Kevin Mevlana (@lordmev)
 
-QA/デザイン：Datlad11
+QA/?????Datlad11
 
-PR：
+PR?
 Neon Noroshi (JP)
 Tiffa Media (CN)
 
-ローカライズ
+??????
 Yuki Fujita (JP)
 Si Han, Si Wei (CN/TW)
 Nikita Mikhalev (RU)
 Edmilson Rocha (PTBR)
 OMarcoGPO (ES)
 Izabella Mitu (DE)
-AtomicBraven, Marcoleric (FR)
-Konrad Jopek, Szymon Kołodziej (PL)
-Andrei Găboreanu (RO)
-Joaquín Riveros Véliz, OMarcoGPO (ESLA)
-Mustafa """"Neekagami"""" Dinç (TR)
+AtomicBraven, Marcoleric, Senkouilles (FR)
+Konrad Jopek, Szymon Ko?odziej (PL)
+Andrei G?boreanu (RO)
+Joaqu�n Riveros V�liz, OMarcoGPO (ESLA)
+Mustafa """"Neekagami"""" Din� (TR)
 
-フォント：
+?????
 PixelLocale (Johste)
 LanaPixel (eishiya)
 
 Special Thanks!
 Hassan Al Khatib (Marketing)
 Chris Zukowski
-Discordコミュニティ
-Xコミュニティ：
-@NuraPixel, @_kiseki_miracle, @Lynte_, @m_artstuff, @Duwi_EXE, @Phromn_, @CunnieHoe, @ZeliotL, @trizG_, @NandooPX, @iterateinteract, @gatekid3, @NotMondayGame, @Toadzillart, @NapasGames, @PixelDominus, @TanzDev, @GabreuSenra, @DracoNoko, @Cup_Nooble_, @CursedCode, @Caronte_Caim, @moonlightmae_vt, @auralystic, @Bloopa_Loopa, @SpringloadedDev, @sudonym, @Flashkirby, @w1k3d10, @aintnoking, @HanahoneybeeVT, @Regris_Kallen, @the_polar_pop, @MeanieMoonArt, @jeminix2, @elpichonart, @arsundust, @MiniTankMayhem, @_nyunnya_, @TurtleHolder, @krait181, @lenard_pr, @funa_vt, @_theMatteBlack, @Teitara_Game","制作人员名单:
+Discord??????
+X???????
+@NuraPixel, @_kiseki_miracle, @Lynte_, @m_artstuff, @Duwi_EXE, @Phromn_, @CunnieHoe, @ZeliotL, @trizG_, @NandooPX, @iterateinteract, @gatekid3, @NotMondayGame, @Toadzillart, @NapasGames, @PixelDominus, @TanzDev, @GabreuSenra, @DracoNoko, @Cup_Nooble_, @CursedCode, @Caronte_Caim, @moonlightmae_vt, @auralystic, @Bloopa_Loopa, @SpringloadedDev, @sudonym, @Flashkirby, @w1k3d10, @aintnoking, @HanahoneybeeVT, @Regris_Kallen, @the_polar_pop, @MeanieMoonArt, @jeminix2, @elpichonart, @arsundust, @MiniTankMayhem, @_nyunnya_, @TurtleHolder, @krait181, @lenard_pr, @funa_vt, @_theMatteBlack, @Teitara_Game","??????:
 
 Gearbyte Games
-创意总监: SylverDev (@sylver_dev)
-主程序员: Calipao
-音频总监: Kevin Mevlana (@lordmev)
+????: SylverDev (@sylver_dev)
+????: Calipao
+????: Kevin Mevlana (@lordmev)
 
-品控/设计: Datlad11
+??/??: Datlad11
 
-地区推广:
-Neon Noroshi (日本)
-Tiffa Media (中文区)
+????:
+Neon Noroshi (??)
+Tiffa Media (???)
 
-本地化:
-Yuki Fujita (日语)
-Si Han, Si Wei (简体中文/繁体中文)
-Nikita Mikhalev (俄语)
-Edmilson Rocha (巴西葡语)
-OMarcoGPO (西班牙语)
-Izabella Mitu (德语)
-AtomicBraven, Marcoleric (法语)
-Konrad Jopek, Szymon Kołodziej (波兰语)
-Andrei Găboreanu (罗马尼亚语)
-Joaquín Riveros Véliz, OMarcoGPO (拉美西语)
-Mustafa ""Neekagami"" Dinç (土耳其语)
+???:
+Yuki Fujita (??)
+Si Han, Si Wei (????/????)
+Nikita Mikhalev (??)
+Edmilson Rocha (????)
+OMarcoGPO (????)
+Izabella Mitu (??)
+AtomicBraven, Marcoleric, Senkouilles (??)
+Konrad Jopek, Szymon Ko?odziej (???)
+Andrei G?boreanu (?????)
+Joaqu�n Riveros V�liz, OMarcoGPO (????)
+Mustafa ""Neekagami"" Din� (????)
 
-字体:
+??:
 PixelLocale (Johste)
 LanaPixel (eishiya)
 
-特别鸣谢!
-Hassan Al Khatib (市场推广)
+????!
+Hassan Al Khatib (????)
 Chris Zukowski
-Discord 社群
-X 社区:
-@NuraPixel, @_kiseki_miracle, @Lynte_, @m_artstuff, @Duwi_EXE, @Phromn_, @CunnieHoe, @ZeliotL, @trizG_, @NandooPX, @iterateinteract, @gatekid3, @NotMondayGame, @Toadzillart, @NapasGames, @PixelDominus, @TanzDev, @GabreuSenra, @DracoNoko, @Cup_Nooble_, @CursedCode, @Caronte_Caim, @moonlightmae_vt, @auralystic, @Bloopa_Loopa, @SpringloadedDev, @sudonym, @Flashkirby, @w1k3d10, @aintnoking, @HanahoneybeeVT, @Regris_Kallen, @the_polar_pop, @MeanieMoonArt, @jeminix2, @elpichonart, @arsundust, @MiniTankMayhem, @_nyunnya_, @TurtleHolder, @krait181, @lenard_pr, @funa_vt, @_theMatteBlack, @Teitara_Game ","製作人員名單
+Discord ??
+X ??:
+@NuraPixel, @_kiseki_miracle, @Lynte_, @m_artstuff, @Duwi_EXE, @Phromn_, @CunnieHoe, @ZeliotL, @trizG_, @NandooPX, @iterateinteract, @gatekid3, @NotMondayGame, @Toadzillart, @NapasGames, @PixelDominus, @TanzDev, @GabreuSenra, @DracoNoko, @Cup_Nooble_, @CursedCode, @Caronte_Caim, @moonlightmae_vt, @auralystic, @Bloopa_Loopa, @SpringloadedDev, @sudonym, @Flashkirby, @w1k3d10, @aintnoking, @HanahoneybeeVT, @Regris_Kallen, @the_polar_pop, @MeanieMoonArt, @jeminix2, @elpichonart, @arsundust, @MiniTankMayhem, @_nyunnya_, @TurtleHolder, @krait181, @lenard_pr, @funa_vt, @_theMatteBlack, @Teitara_Game ","??????
 
 Gearbyte Games
-創意總監: SylverDev (@sylver_dev)
-主程式設計師: Calipao
-音訊總監: Kevin Mevlana (@lordmev)
+????: SylverDev (@sylver_dev)
+??????: Calipao
+????: Kevin Mevlana (@lordmev)
 
-品管/設計: Datlad11
+??/??: Datlad11
 
-地區推廣:
-Neon Noroshi (日本)
-Tiffa Media (中國大陸)
+????:
+Neon Noroshi (??)
+Tiffa Media (????)
 
-在地化:
-Yuki Fujita (日語)
-Si Han, Si Wei (簡體中文/繁體中文)
-Nikita Mikhalev (俄語)
-Edmilson Rocha (巴西葡語)
-OMarcoGPO (西班牙語)
-Izabella Mitu (德語)
-AtomicBraven, Marcoleric (法語)
-Konrad Jopek, Szymon Kołodziej (波蘭語)
-Andrei Găboreanu (羅馬尼亞語)
-Joaquín Riveros Véliz, OMarcoGPO (拉美西語)
-Mustafa ""Neekagami"" Dinç (土耳其語)
+???:
+Yuki Fujita (??)
+Si Han, Si Wei (????/????)
+Nikita Mikhalev (??)
+Edmilson Rocha (????)
+OMarcoGPO (????)
+Izabella Mitu (??)
+AtomicBraven, Marcoleric, Senkouilles (??)
+Konrad Jopek, Szymon Ko?odziej (???)
+Andrei G?boreanu (?????)
+Joaqu�n Riveros V�liz, OMarcoGPO (????)
+Mustafa ""Neekagami"" Din� (????)
 
-字型:
+??:
 PixelLocale (Johste)
 LanaPixel (eishiya)
 
-特別鳴謝
-Hassan Al Khatib (市場推廣)
+????
+Hassan Al Khatib (????)
 Chris Zukowski
-Discord 社群
-X 平台社群:
-@NuraPixel, @_kiseki_miracle, @Lynte_, @m_artstuff, @Duwi_EXE, @Phromn_, @CunnieHoe, @ZeliotL, @trizG_, @NandooPX, @iterateinteract, @gatekid3, @NotMondayGame, @Toadzillart, @NapasGames, @PixelDominus, @TanzDev, @GabreuSenra, @DracoNoko, @Cup_Nooble_, @CursedCode, @Caronte_Caim, @moonlightmae_vt, @auralystic, @Bloopa_Loopa, @SpringloadedDev, @sudonym, @Flashkirby, @w1k3d10, @aintnoking, @HanahoneybeeVT, @Regris_Kallen, @the_polar_pop, @MeanieMoonArt, @jeminix2, @elpichonart, @arsundust, @MiniTankMayhem, @_nyunnya_, @TurtleHolder, @krait181, @lenard_pr, @funa_vt, @_theMatteBlack, @Teitara_Game","Créditos:
+Discord ??
+X ????:
+@NuraPixel, @_kiseki_miracle, @Lynte_, @m_artstuff, @Duwi_EXE, @Phromn_, @CunnieHoe, @ZeliotL, @trizG_, @NandooPX, @iterateinteract, @gatekid3, @NotMondayGame, @Toadzillart, @NapasGames, @PixelDominus, @TanzDev, @GabreuSenra, @DracoNoko, @Cup_Nooble_, @CursedCode, @Caronte_Caim, @moonlightmae_vt, @auralystic, @Bloopa_Loopa, @SpringloadedDev, @sudonym, @Flashkirby, @w1k3d10, @aintnoking, @HanahoneybeeVT, @Regris_Kallen, @the_polar_pop, @MeanieMoonArt, @jeminix2, @elpichonart, @arsundust, @MiniTankMayhem, @_nyunnya_, @TurtleHolder, @krait181, @lenard_pr, @funa_vt, @_theMatteBlack, @Teitara_Game","Cr�ditos:
 
 Gearbyte Games
-Líder Criativo: SylverDev (@sylver_dev)
-Líder de Programação: Calipao
-Líder de Áudio: Kevin Mevlana (@lordmev)
+L�der Criativo: SylverDev (@sylver_dev)
+L�der de Programa��o: Calipao
+L�der de �udio: Kevin Mevlana (@lordmev)
 
 QA/Design: Datlad11
 
@@ -199,18 +199,18 @@ PR:
 Neon Noroshi (JP)
 Tiffa Media (CN)
 
-Localização: 
+Localiza��o: 
 Yuki Fujita (JP)
 Si Han, Si Wei (CN/TW)
 Nikita Mikhalev (RU)
 Edmilson Rocha (PTBR)
 OMarcoGPO (ES)
 Izabella Mitu (DE)
-AtomicBraven, Marcoleric (FR)
-Konrad Jopek, Szymon Kołodziej (PL)
-Andrei Găboreanu (RO)
-Joaquín Riveros Véliz, OMarcoGPO (ESLA)
-Mustafa ""Neekagami"" Dinç (TR)
+AtomicBraven, Marcoleric, Senkouilles (FR)
+Konrad Jopek, Szymon Ko?odziej (PL)
+Andrei G?boreanu (RO)
+Joaqu�n Riveros V�liz, OMarcoGPO (ESLA)
+Mustafa ""Neekagami"" Din� (TR)
 
 Fontes:
 PixelLocale (Johste)
@@ -221,16 +221,16 @@ Hassan Al Khatib (Marketing)
 Chris Zukowski
 Comunidade do Discord
 Comunidade do X: 
-@NuraPixel, @_kiseki_miracle, @Lynte_, @m_artstuff, @Duwi_EXE, @Phromn_, @CunnieHoe, @ZeliotL, @trizG_, @NandooPX, @iterateinteract, @gatekid3, @NotMondayGame, @Toadzillart, @NapasGames, @PixelDominus, @TanzDev, @GabreuSenra, @DracoNoko, @Cup_Nooble_, @CursedCode, @Caronte_Caim, @moonlightmae_vt, @auralystic, @Bloopa_Loopa, @SpringloadedDev, @sudonym, @Flashkirby, @w1k3d10, @aintnoking, @HanahoneybeeVT, @Regris_Kallen, @the_polar_pop, @MeanieMoonArt, @jeminix2, @elpichonart, @arsundust, @MiniTankMayhem, @_nyunnya_, @TurtleHolder, @krait181, @lenard_pr, @funa_vt, @_theMatteBlack, @Teitara_Game ","Créditos:
+@NuraPixel, @_kiseki_miracle, @Lynte_, @m_artstuff, @Duwi_EXE, @Phromn_, @CunnieHoe, @ZeliotL, @trizG_, @NandooPX, @iterateinteract, @gatekid3, @NotMondayGame, @Toadzillart, @NapasGames, @PixelDominus, @TanzDev, @GabreuSenra, @DracoNoko, @Cup_Nooble_, @CursedCode, @Caronte_Caim, @moonlightmae_vt, @auralystic, @Bloopa_Loopa, @SpringloadedDev, @sudonym, @Flashkirby, @w1k3d10, @aintnoking, @HanahoneybeeVT, @Regris_Kallen, @the_polar_pop, @MeanieMoonArt, @jeminix2, @elpichonart, @arsundust, @MiniTankMayhem, @_nyunnya_, @TurtleHolder, @krait181, @lenard_pr, @funa_vt, @_theMatteBlack, @Teitara_Game ","Cr�ditos:
 
 Gearbyte Games
-Líder Creativo: SylverDev (@sylver_dev)
+L�der Creativo: SylverDev (@sylver_dev)
 Programador Principal: Calipao
 Compositor Principal: Kevin Mevlana (@lordmev)
 
-Control de calidad/Diseño: Datlad11
+Control de calidad/Dise�o: Datlad11
 
-Relaciones Públicas:
+Relaciones P�blicas:
 Neon Noroshi (JP)
 Tiffa Media (CN)
 
@@ -241,17 +241,17 @@ Nikita Mikhalev (RU)
 Edmilson Rocha (PTBR)
 OMarcoGPO (ES)
 Izabella Mitu (DE)
-AtomicBraven, Marcoleric (FR)
-Konrad Jopek, Szymon Kołodziej (PL)
-Andrei Găboreanu (RO)
-Joaquín Riveros Véliz, OMarcoGPO (ESLA)
-Mustafa ""Neekagami"" Dinç (TR)
+AtomicBraven, Marcoleric, Senkouilles (FR)
+Konrad Jopek, Szymon Ko?odziej (PL)
+Andrei G?boreanu (RO)
+Joaqu�n Riveros V�liz, OMarcoGPO (ESLA)
+Mustafa ""Neekagami"" Din� (TR)
 
 Fuentes:
 PixelLocale (Johste)
 LanaPixel (eishiya)
 
-¡Agradecimientos especiales!
+�Agradecimientos especiales!
 Hassan Al Khatib (Marketing)
 Chris Zukowski
 Comunidad de Discord
@@ -276,59 +276,129 @@ Nikita Mikhalev (RU)
 Edmilson Rocha (PTBR)
 OMarcoGPO (ES)
 Izabella Mitu (DE)
-AtomicBraven, Marcoleric (FR)
-Konrad Jopek, Szymon Kołodziej (PL)
-Andrei Găboreanu (RO)
-Joaquín Riveros Véliz, OMarcoGPO (ESLA)
-Mustafa ""Neekagami"" Dinç (TR)
+AtomicBraven, Marcoleric, Senkouilles (FR)
+Konrad Jopek, Szymon Ko?odziej (PL)
+Andrei G?boreanu (RO)
+Joaqu�n Riveros V�liz, OMarcoGPO (ESLA)
+Mustafa ""Neekagami"" Din� (TR)
 
 Fonts:
 PixelLocale (Johste)
 LanaPixel (eishiya)
 
-Special Thanks!
+Vielen Dank!
 Hassan Al Khatib (Marketing)
 Chris Zukowski
 Discord Community
 X Community: 
-@NuraPixel, @_kiseki_miracle, @Lynte_, @m_artstuff, @Duwi_EXE, @Phromn_, @CunnieHoe, @ZeliotL, @trizG_, @NandooPX, @iterateinteract, @gatekid3, @NotMondayGame, @Toadzillart, @NapasGames, @PixelDominus, @TanzDev, @GabreuSenra, @DracoNoko, @Cup_Nooble_, @CursedCode, @Caronte_Caim, @moonlightmae_vt, @auralystic, @Bloopa_Loopa, @SpringloadedDev, @sudonym, @Flashkirby, @w1k3d10, @aintnoking, @HanahoneybeeVT, @Regris_Kallen, @the_polar_pop, @MeanieMoonArt, @jeminix2, @elpichonart, @arsundust, @MiniTankMayhem, @_nyunnya_, @TurtleHolder, @krait181, @lenard_pr, @funa_vt, @_theMatteBlack, @Teitara_Game","Авторы:
+@NuraPixel, @_kiseki_miracle, @Lynte_, @m_artstuff, @Duwi_EXE, @Phromn_, @CunnieHoe, @ZeliotL, @trizG_, @NandooPX, @iterateinteract, @gatekid3, @NotMondayGame, @Toadzillart, @NapasGames, @PixelDominus, @TanzDev, @GabreuSenra, @DracoNoko, @Cup_Nooble_, @CursedCode, @Caronte_Caim, @moonlightmae_vt, @auralystic, @Bloopa_Loopa, @SpringloadedDev, @sudonym, @Flashkirby, @w1k3d10, @aintnoking, @HanahoneybeeVT, @Regris_Kallen, @the_polar_pop, @MeanieMoonArt, @jeminix2, @elpichonart, @arsundust, @MiniTankMayhem, @_nyunnya_, @TurtleHolder, @krait181, @lenard_pr, @funa_vt, @_theMatteBlack, @Teitara_Game","??????:
 
 Gearbyte Games
-Креативный директор: SylverDev (@sylver_dev)
-Ведущий программист: Calipao
-Ведущий звукорежиссер: Kevin Mevlana (@lordmev)
+?????????? ????????: SylverDev (@sylver_dev)
+??????? ???????????: Calipao
+??????? ?????????????: Kevin Mevlana (@lordmev)
 
-QA/Дизайн: Datlad11
+QA/??????: Datlad11
 
 PR:
 Neon Noroshi (JP)
 Tiffa Media (CN)
 
-Локализация: 
+???????????: 
 Yuki Fujita (JP)
 Si Han, Si Wei (CN/TW)
 Nikita Mikhalev (RU)
 Edmilson Rocha (PTBR)
 OMarcoGPO (ES)
 Izabella Mitu (DE)
-AtomicBraven, Marcoleric (FR)
-Konrad Jopek, Szymon Kołodziej (PL)
-Andrei Găboreanu (RO)
-Joaquín Riveros Véliz, OMarcoGPO (ESLA)
-Mustafa ""Neekagami"" Dinç (TR)
+AtomicBraven, Marcoleric, Senkouilles (FR)
+Konrad Jopek, Szymon Ko?odziej (PL)
+Andrei G?boreanu (RO)
+Joaqu�n Riveros V�liz, OMarcoGPO (ESLA)
+Mustafa ""Neekagami"" Din� (TR)
 
-Шрифты:
+??????:
 PixelLocale (Johste)
 LanaPixel (eishiya)
 
-Особая благодарность!
-Hassan Al Khatib (Маркетинг)
-Сообществу Discord
-Сообществу X: 
-@NuraPixel, @_kiseki_miracle, @Lynte_, @m_artstuff, @Duwi_EXE, @Phromn_, @CunnieHoe, @ZeliotL, @trizG_, @NandooPX, @iterateinteract, @gatekid3, @NotMondayGame, @Toadzillart, @NapasGames, @PixelDominus, @TanzDev, @GabreuSenra, @DracoNoko, @Cup_Nooble_, @CursedCode, @Caronte_Caim, @moonlightmae_vt, @auralystic, @Bloopa_Loopa, @SpringloadedDev, @sudonym, @Flashkirby, @w1k3d10, @aintnoking, @HanahoneybeeVT, @Regris_Kallen, @the_polar_pop, @MeanieMoonArt, @jeminix2, @elpichonart, @arsundust, @MiniTankMayhem, @_nyunnya_, @TurtleHolder, @krait181, @lenard_pr, @funa_vt, @_theMatteBlack, @Teitara_Game ",Stworzone przez:\nGearbyte Games\n\nDyrektor Kreatywny\nTang Leejed\n\nGłówny Programista\nLin Xin\n\nKompozytor Muzyki i Dźwięku\nKevin Mevlana (LordMev)\n\nCzcionki\nLanaPixel (eishiya)\nPixelLocale (Johste)\n\nSpecjalne podziękowania\nDatlad11 (QA/Design)\nCzłonkowie Społeczności Discord,,"Credite:
+?????? ?????????????!
+Hassan Al Khatib (?????????)
+?????????? Discord
+?????????? X: 
+@NuraPixel, @_kiseki_miracle, @Lynte_, @m_artstuff, @Duwi_EXE, @Phromn_, @CunnieHoe, @ZeliotL, @trizG_, @NandooPX, @iterateinteract, @gatekid3, @NotMondayGame, @Toadzillart, @NapasGames, @PixelDominus, @TanzDev, @GabreuSenra, @DracoNoko, @Cup_Nooble_, @CursedCode, @Caronte_Caim, @moonlightmae_vt, @auralystic, @Bloopa_Loopa, @SpringloadedDev, @sudonym, @Flashkirby, @w1k3d10, @aintnoking, @HanahoneybeeVT, @Regris_Kallen, @the_polar_pop, @MeanieMoonArt, @jeminix2, @elpichonart, @arsundust, @MiniTankMayhem, @_nyunnya_, @TurtleHolder, @krait181, @lenard_pr, @funa_vt, @_theMatteBlack, @Teitara_Game ","Tw�rcy:
 
 Gearbyte Games
-Conducere Creativă: SylverDev (@sylver_dev)
+Dyrektor kreatywny: SylverDev (@sylver_dev)
+G?�wny programista: Calipao
+?cie?ka d?wi?kowa: Kevin Mevlana (@lordmev)
+
+Kontrola jako?ci / Projektowanie: Datlad11
+
+PR:
+Neon Noroshi (JP)
+Tiffa Media (CN)
+
+T?umaczenie: 
+Yuki Fujita (JP)
+Si Han, Si Wei (CN/TW)
+Nikita Mikhalev (RU)
+Edmilson Rocha (PTBR)
+OMarcoGPO (ES)
+Izabella Mitu (DE)
+AtomicBraven, Marcoleric, Senkouilles (FR)
+Konrad Jopek, Szymon Ko?odziej (PL)
+Andrei G?boreanu (RO)
+Joaqu�n Riveros V�liz (ESLA)
+Mustafa ""Neekagami"" Din� (TR)
+
+Czcionki:
+PixelLocale (Johste)
+LanaPixel (eishiya)
+
+Specjalne podzi?kowania!
+Hassan Al Khatib (Marketing)
+Cz?onkom spo?ecznosci discord
+Spo?eczno?ci na X: 
+@NuraPixel, @_kiseki_miracle, @Lynte_, @m_artstuff, @Duwi_EXE, @Phromn_, @CunnieHoe, @ZeliotL, @trizG_, @NandooPX, @iterateinteract, @gatekid3, @NotMondayGame, @Toadzillart, @NapasGames, @PixelDominus, @TanzDev, @GabreuSenra, @DracoNoko, @Cup_Nooble_, @CursedCode, @Caronte_Caim, @moonlightmae_vt, @auralystic, @Bloopa_Loopa, @SpringloadedDev, @sudonym, @Flashkirby, @w1k3d10, @aintnoking, @HanahoneybeeVT, @Regris_Kallen, @the_polar_pop, @MeanieMoonArt, @jeminix2, @elpichonart, @arsundust, @MiniTankMayhem, @_nyunnya_, @TurtleHolder, @krait181, @lenard_pr, @funa_vt, @_theMatteBlack, @Teitara_Game ","Credits:
+
+Gearbyte Games
+Responsable Cr�atif: SylverDev (@sylver_dev)
+Programmeur en chef : Calipao
+Responsable Audio: Kevin Mevlana (@lordmev)
+
+QA/Design: Datlad11
+
+Marketing:
+Neon Noroshi (JP)
+Tiffa Media (CN)
+
+Localisation: 
+Yuki Fujita (JP)
+Si Han, Si Wei (CN/TW)
+Nikita Mikhalev (RU)
+Edmilson Rocha (PTBR)
+OMarcoGPO (ES)
+Izabella Mitu (DE)
+AtomicBraven, Marcoleric, Searaw (FR)
+Konrad Jopek, Szymon Ko?odziej (PL)
+Andrei G?boreanu (RO)
+Joaqu�n Riveros V�liz, OMarcoGPO (ESLA)
+Mustafa ""Neekagami"" Din� (TR)
+
+Police d'�criture:
+PixelLocale (Johste)
+LanaPixel (eishiya)
+
+Remerciments !
+Hassan Al Khatib (Marketing)
+Chris Zukowski
+Discord Community
+X Community: 
+@NuraPixel, @_kiseki_miracle, @Lynte_, @m_artstuff, @Duwi_EXE, @Phromn_, @CunnieHoe, @ZeliotL, @trizG_, @NandooPX, @iterateinteract, @gatekid3, @NotMondayGame, @Toadzillart, @NapasGames, @PixelDominus, @TanzDev, @GabreuSenra, @DracoNoko, @Cup_Nooble_, @CursedCode, @Caronte_Caim, @moonlightmae_vt, @auralystic, @Bloopa_Loopa, @SpringloadedDev, @sudonym, @Flashkirby, @w1k3d10, @aintnoking, @HanahoneybeeVT, @Regris_Kallen, @the_polar_pop, @MeanieMoonArt, @jeminix2, @elpichonart, @arsundust, @MiniTankMayhem, @_nyunnya_, @TurtleHolder, @krait181, @lenard_pr, @funa_vt, @_theMatteBlack
+","Credite:
+
+Gearbyte Games
+Conducere Creativ?: SylverDev (@sylver_dev)
 Programator Principal: Calipao
 Responsabil Audio Principal: Kevin Mevlana (@lordmev)
 
@@ -345,97 +415,842 @@ Nikita Mikhalev (RU)
 Edmilson Rocha (PTBR)
 OMarcoGPO (ES)
 Izabella Mitu (DE)
-AtomicBraven, Marcoleric (FR)
-Konrad Jopek, Szymon Kołodziej (PL)
-Andrei Găboreanu (RO)
-Joaquín Riveros Véliz, OMarcoGPO (ESLA)
-Mustafa ""Neekagami"" Dinç (TR)
+AtomicBraven, Marcoleric, Senkouilles (FR)
+Konrad Jopek, Szymon Ko?odziej (PL)
+Andrei G?boreanu (RO)
+Joaqu�n Riveros V�liz, OMarcoGPO (ESLA)
+Mustafa ""Neekagami"" Din� (TR)
 
 Fonturi:
 PixelLocale (Johste)
 LanaPixel (eishiya)
 
-Mulțumiri Speciale!
+Mul?umiri Speciale!
 Hassan Al Khatib (Marketing)
 Chris Zukowski
 Comunitatea Discord
 Comunitatea X: 
-@NuraPixel, @_kiseki_miracle, @Lynte_, @m_artstuff, @Duwi_EXE, @Phromn_, @CunnieHoe, @ZeliotL, @trizG_, @NandooPX, @iterateinteract, @gatekid3, @NotMondayGame, @Toadzillart, @NapasGames, @PixelDominus, @TanzDev, @GabreuSenra, @DracoNoko, @Cup_Nooble_, @CursedCode, @Caronte_Caim, @moonlightmae_vt, @auralystic, @Bloopa_Loopa, @SpringloadedDev, @sudonym, @Flashkirby, @w1k3d10, @aintnoking, @HanahoneybeeVT, @Regris_Kallen, @the_polar_pop, @MeanieMoonArt, @jeminix2, @elpichonart, @arsundust, @MiniTankMayhem, @_nyunnya_, @TurtleHolder, @krait181, @lenard_pr, @funa_vt, @_theMatteBlack, @Teitara_Game ","Katkıda Bulunanlar (Credits):
+@NuraPixel, @_kiseki_miracle, @Lynte_, @m_artstuff, @Duwi_EXE, @Phromn_, @CunnieHoe, @ZeliotL, @trizG_, @NandooPX, @iterateinteract, @gatekid3, @NotMondayGame, @Toadzillart, @NapasGames, @PixelDominus, @TanzDev, @GabreuSenra, @DracoNoko, @Cup_Nooble_, @CursedCode, @Caronte_Caim, @moonlightmae_vt, @auralystic, @Bloopa_Loopa, @SpringloadedDev, @sudonym, @Flashkirby, @w1k3d10, @aintnoking, @HanahoneybeeVT, @Regris_Kallen, @the_polar_pop, @MeanieMoonArt, @jeminix2, @elpichonart, @arsundust, @MiniTankMayhem, @_nyunnya_, @TurtleHolder, @krait181, @lenard_pr, @funa_vt, @_theMatteBlack, @Teitara_Game ","Katk?da Bulunanlar (Credits):
 
 Gearbyte Games
- Yaratıcı Lider (Creative Lead): SylverDev (@sylver_dev)
- Baş Programcı (Lead Programmer): Calipao
- Baş Ses Sorumlusu (Lead Audio): Kevin Mevlana (@lordmev)
+ Yarat?c? Lider (Creative Lead): SylverDev (@sylver_dev)
+ Ba? Programc? (Lead Programmer): Calipao
+ Ba? Ses Sorumlusu (Lead Audio): Kevin Mevlana (@lordmev)
 
-Kalite Kontrol / Tasarım (QA/Design): Datlad11
+Kalite Kontrol / Tasar?m (QA/Design): Datlad11
 
-Halkla İlişkiler (PR):
+Halkla ?li?kiler (PR):
 Neon Noroshi (JP)
 Tiffa Media (CN)
 
-Yerelleştirme (Localization):
+Yerelle?tirme (Localization):
 Yuki Fujita (JP)
 Si Han, Si Wei (CN/TW)
 Nikita Mikhalev (RU)
 Edmilson Rocha (PTBR)
 OMarcoGPO (ES)
 Izabella Mitu (DE)
-AtomicBraven, Marcoleric (FR)
-Konrad Jopek, Szymon Kołodziej (PL)
-Andrei Găboreanu (RO)
-Joaquín Riveros Véliz, OMarcoGPO (ESLA)
-Mustafa ""Neekagami"" Dinç (TR)
+AtomicBraven, Marcoleric, Senkouilles (FR)
+Konrad Jopek, Szymon Ko?odziej (PL)
+Andrei G?boreanu (RO)
+Joaqu�n Riveros V�liz, OMarcoGPO (ESLA)
+Mustafa ""Neekagami"" Din� (TR)
 
-Yazı Tipleri (Fonts):
+Yaz? Tipleri (Fonts):
 PixelLocale (Johste)
 LanaPixel (eishiya)
 
-Özel Teşekkürler (Special Thanks!)
+�zel Te?ekk�rler (Special Thanks!)
 Hassan Al Khatib (Pazarlama / Marketing)
 Chris Zukowski
-Discord Topluluğu
- X Topluluğu (X Community):
-@NuraPixel, @_kiseki_miracle, @Lynte_, @m_artstuff, @Duwi_EXE, @Phromn_, @CunnieHoe, @ZeliotL, @trizG_, @NandooPX, @iterateinteract, @gatekid3, @NotMondayGame, @Toadzillart, @NapasGames, @PixelDominus, @TanzDev, @GabreuSenra, @DracoNoko, @Cup_Nooble_, @CursedCode, @Caronte_Caim, @moonlightmae_vt, @auralystic, @Bloopa_Loopa, @SpringloadedDev, @sudonym, @Flashkirby, @w1k3d10, @aintnoking, @HanahoneybeeVT, @Regris_Kallen, @the_polar_pop, @MeanieMoonArt, @jeminix2, @elpichonart, @arsundust, @MiniTankMayhem, @_nyunnya_, @TurtleHolder, @krait181, @lenard_pr, @funa_vt, @_theMatteBlack, @Teitara_Game ","Créditos:
+Discord Toplulu?u
+ X Toplulu?u (X Community):
+@NuraPixel, @_kiseki_miracle, @Lynte_, @m_artstuff, @Duwi_EXE, @Phromn_, @CunnieHoe, @ZeliotL, @trizG_, @NandooPX, @iterateinteract, @gatekid3, @NotMondayGame, @Toadzillart, @NapasGames, @PixelDominus, @TanzDev, @GabreuSenra, @DracoNoko, @Cup_Nooble_, @CursedCode, @Caronte_Caim, @moonlightmae_vt, @auralystic, @Bloopa_Loopa, @SpringloadedDev, @sudonym, @Flashkirby, @w1k3d10, @aintnoking, @HanahoneybeeVT, @Regris_Kallen, @the_polar_pop, @MeanieMoonArt, @jeminix2, @elpichonart, @arsundust, @MiniTankMayhem, @_nyunnya_, @TurtleHolder, @krait181, @lenard_pr, @funa_vt, @_theMatteBlack, @Teitara_Game ","Cr�ditos:
 
 Gearbyte Games
 Director creativo: SylverDev (@sylver_dev)
 Programador principal: Calipao
 Responsable principal del sonido: Kevin Mevlana (@lordmev)
 
-QA/Diseño: Datlad11
+QA/Dise�o: Datlad11
 
 RP:
 Neon Noroshi (JP)
 Tiffa Media (CN)
 
-Localización: 
+Localizaci�n: 
 Yuki Fujita (JP)
 Si Han, Si Wei (CN/TW)
 Nikita Mikhalev (RU)
 Edmilson Rocha (PTBR)
 OMarcoGPO (ES)
 Izabella Mitu (DE)
-AtomicBraven, Marcoleric (FR)
-Konrad Jopek, Szymon Kołodziej (PL)
-Andrei Găboreanu (RO)
-Joaquín Riveros Véliz,  OMarcoGPO (ESLA)
-Mustafa ""Neekagami"" Dinç (TR)
+AtomicBraven, Marcoleric, Senkouilles (FR)
+Konrad Jopek, Szymon Ko?odziej (PL)
+Andrei G?boreanu (RO)
+Joaqu�n Riveros V�liz,  OMarcoGPO (ESLA)
+Mustafa ""Neekagami"" Din� (TR)
 
 Fuentes:
 PixelLocale (Johste)
 LanaPixel (eishiya)
 
-¡Agradecimientos especiales!
+�Agradecimientos especiales!
 Hassan Al Khatib (Marketing)
 Comunidad de Discord
 Comunidad de X: 
 @NuraPixel, @_kiseki_miracle, @Lynte_, @m_artstuff, @Duwi_EXE, @Phromn_, @CunnieHoe, @ZeliotL, @trizG_, @NandooPX, @iterateinteract, @gatekid3, @NotMondayGame, @Toadzillart, @NapasGames, @PixelDominus, @TanzDev, @GabreuSenra, @DracoNoko, @Cup_Nooble_, @CursedCode, @Caronte_Caim, @moonlightmae_vt, @auralystic, @Bloopa_Loopa, @SpringloadedDev, @sudonym, @Flashkirby, @w1k3d10, @aintnoking, @HanahoneybeeVT, @Regris_Kallen, @the_polar_pop, @MeanieMoonArt, @jeminix2, @elpichonart, @arsundust, @MiniTankMayhem, @_nyunnya_, @TurtleHolder, @krait181, @lenard_pr, @funa_vt, @_theMatteBlack, @Teitara_Game "
-UI_PAUSE_WINDOW_WISHLIST,Wishlist on Steam,ウィッシュリストに追加,添加到Steam愿望单,添加到Steam愿望单,Adicione à Lista de Desejos,Añadir a Lista de Deseos en Steam,,Auf die Steam Wunschliste :) ,Добавить в желаемое,Dodaj do listy życzeń na Steam,,Adaugă pe lista de dorințe Steam,Steam’de İstek Listesine Ekle,Añadir a Lista de deseos en Steam
-UI_PAUSE_WINDOW_RESUME_GAME,Resume Game,ゲーム再開,继续游戏,續遊戲,Continuar Jogo,Continuar Juego,,Spiel Fortsetzen,Продолжить игру,Wznów gre,,Reia jocul,Oyuna Devam Et,Continuar juego
-UI_PAUSE_WINDOW_OPTIONS,Options,オプション,选项,選項,Opções,Opciones,,Optionen,Настройки,Opcje,,Opțiuni,Ayarlar,Opciones
-UI_PAUSE_WINDOW_EXIT_TO_MENU,Exit To Menu,メニューに戻る,返回主菜单,返回主選單,Sair para o Menu,Salir al Menú,,Zum Menü,Выйти в меню,Wyjdź do menu,,Ieșire la meniu,Menüye Dön,Salir al menú
-UI_QUIT_WINDOW_CONFIRMATION_MSG,"Are you sure you want to quit? If you quit now, you will lose this run's progress",終了してもよろしいですか？\nこれまでの進行状況は失われます。,确认退出？现在退出将会丢失本轮游戏进度,確定要離開嗎？現在離開會失去本輪遊戲進度,"Tem certeza que deseja sair? Se você sair agora, perderá o progresso desta execução","¿Seguro que quieres salir? Si lo haces, perderás los datos de esta navegación",,Willst du wirklich beenden? Du verlierst den Fortschritt dieses Durchlaufs,"Вы уверены, что хотите выйти? Прогресс этого забега будет потерян",Jestes pewnien że chcesz opuścić grę? Jeżeli wyjdziesz teraz stracisz progres obecnego podejścia,,"Ești sigur că vrei să ieși? Dacă ieși acum, vei pierde progresul acestei runde.",Çıkmak istediğinden emin misin? Şimdi çıkarsan bu turun ilerlemesini kaybedeceksin.,"¿Seguro que quieres salir? Si lo haces, perderás todo el progreso de esta partida"
-UI_DESKTOP_DEMO_LABEL,Demo,デモ版,试玩版,試玩版,Demo,Demo,,Demo,Демо,Wersja demonstracyjna,,Demo,Demo,Demo
+UI_PAUSE_WINDOW_WISHLIST,Wishlist on Steam,???????????,???Steam???,???Steam???,Adicione � Lista de Desejos,A�adir a Lista de Deseos en Steam,,Auf die Steam Wunschliste :) ,???????? ? ????????,Dodaj do listy ?ycze? na Steam,Wishlist sur Steam,Adaug? pe lista de dorin?e Steam,Steam�de ?stek Listesine Ekle,A�adir a Lista de deseos en Steam
+UI_PAUSE_WINDOW_RESUME_GAME,Resume Game,?????,????,???,Continuar Jogo,Continuar Juego,,Spiel Fortsetzen,?????????? ????,Wzn�w gre,Reprendre la partie,Reia jocul,Oyuna Devam Et,Continuar juego
+UI_PAUSE_WINDOW_OPTIONS,Options,?????,??,??,Op��es,Opciones,,Optionen,?????????,Opcje,Options,Op?iuni,Ayarlar,Opciones
+UI_PAUSE_WINDOW_EXIT_TO_MENU,Exit To Menu,???????,?????,?????,Sair para o Menu,Salir al Men�,,Zum Men�,????? ? ????,Wyjd? do menu,Quitter vers le menu,Ie?ire la meniu,Men�ye D�n,Salir al men�
+UI_QUIT_WINDOW_CONFIRMATION_MSG,"Are you sure you want to quit? If you quit now, you will lose this run's progress",?????????????\n????????????????,???????????????????,????????????????????,"Tem certeza que deseja sair? Se voc� sair agora, perder� o progresso desta execu��o","�Seguro que quieres salir? Si lo haces, perder�s los datos de esta navegaci�n",,Willst du wirklich beenden? Du verlierst den Fortschritt dieses Durchlaufs,"?? ???????, ??? ?????? ?????? ???????? ????? ?????? ????? ???????",Jestes pewnien ?e chcesz opu?ci? gr?? Je?eli wyjdziesz teraz stracisz progres obecnego podej?cia,Tu es s�r de vouloir quitter? Tu perdra toute la progression de ta partie,"E?ti sigur c? vrei s? ie?i? Dac? ie?i acum, vei pierde progresul acestei runde.",�?kmak istedi?inden emin misin? ?imdi �?karsan bu turun ilerlemesini kaybedeceksin.,"�Seguro que quieres salir? Si lo haces, perder�s todo el progreso de esta partida"
+UI_DESKTOP_DEMO_LABEL,Demo,???,???,???,Demo,Demo,,Demo,????,Wersja demonstracyjna,,Demo,Demo,Demo
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,
