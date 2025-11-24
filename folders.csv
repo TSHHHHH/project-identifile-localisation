@@ -1,175 +1,176 @@
-﻿keys,en,ja,cn,tw,ptbr,es,kr,de,ru,pl,fr,ro
-UI_EMPTY_FOLDER_NAME_1,Homework,宿題,家庭作业,家庭作業,Lição de Casa,Tareas de Casa,,,Домашка,,,
-UI_EMPTY_FOLDER_NAME_2,Essays,エッセイ,论文,論文,Redação,Redacciones,,,Эссе,,,
-UI_EMPTY_FOLDER_NAME_3,Finals_Study,勉強（最終版）,期末复习,期末複習,Estudo_Prova,Estudios_Finales,,,Экзы (материалы),,,
-UI_EMPTY_FOLDER_NAME_4,GroupProject(1),グループプロジェクト(1),小组项目（1）,小組項目（1）,ProjetoEmGrupo(1),TrabajoGrupo(1),,,ГрупповойПроект(1),,,
-UI_EMPTY_FOLDER_NAME_5,PastPapers,過去の論文,历年试卷,歷年試卷,PapersPassados,ArtículosPasados,,,Пробники,,,
-UI_EMPTY_FOLDER_NAME_6,PresentationSlides,プレゼンスライド,演示文稿,演示文稿,ApresentaçãoSlides,Presentaciones,,,СлайдыПрезентации,,,
-UI_EMPTY_FOLDER_NAME_7,ClassNotes,授業メモ,课堂笔记,課堂筆記,NotasAula,Apuntes de Clase,,,Конспекты,,,
-UI_EMPTY_FOLDER_NAME_8,LibraryScans,図書館スキャン,图书馆扫描件,圖書館掃描件,CópiasBiblioteca,Escaneos de la bilioteca,,,Сканы_Библиотека,,,
-UI_EMPTY_FOLDER_NAME_9,LabReports,研究報告,实验报告,實驗報告,RelatóriosLab,Informes de Laboratorio,,,Лабораторные,,,
-UI_EMPTY_FOLDER_NAME_10,Drafts,原稿,草稿,草稿,Rascunhos,Borradores,,,Черновики,,,
-UI_EMPTY_FOLDER_NAME_11,History101,歴史入門,历史学入门,歷史學入門,História Básica,Historia101,,,История101,,,
-UI_EMPTY_FOLDER_NAME_12,Math stuff,数学関係,数学资料,數學資料,Coisas de matemática,Cosas de mates,,,Математика,,,
-UI_EMPTY_FOLDER_NAME_13,flashcards,フラッシュカード,学习卡片,學習卡片,flashcards,Tarjetas didácticas,,,карточки,,,
-UI_EMPTY_FOLDER_NAME_14,cheatsheets,早見表,速查表,速查表,resumo,Resúmenes,,,шпаргалки,,,
-UI_EMPTY_FOLDER_NAME_15,research,調査,研究资料,研究資料,pesquisa,Investigación,,,исследования,,,
-UI_EMPTY_FOLDER_NAME_16,sciencefair,科学フェア,科学展览,科學展覽,feiraciências,Feria de ciencia,,,научная_ярмарка,,,
-UI_EMPTY_FOLDER_NAME_17,ExtraCredit,追加のクレジット,额外学分,額外學分,CréditosExtras,Crédito extra,,,Доп. Баллы,,,
-UI_EMPTY_FOLDER_NAME_18,attendance,出席者,出勤记录,出勤記錄,presença,Presencia,,,присутствие,,,
-UI_EMPTY_FOLDER_NAME_19,ClassRecordings,授業録画,课堂录音,課堂錄音,GravaçõesAula,Grabaciones de Clase,,,Записи занятий,,,
-UI_EMPTY_FOLDER_NAME_20,assignments,課題,课业,課業,tarefas,Tareas,,,задания,,,
-UI_EMPTY_FOLDER_NAME_21,late_submissions,提出遅れ,迟交作业,遲交作業,envios_atrasados,Envios atrasados,,,просроченное,,,
-UI_EMPTY_FOLDER_NAME_22,projects2024,2024年プロジェクト,2024项目,2024項目,projetos2024,Proyectos2024,,,проекты2024,,,
-UI_EMPTY_FOLDER_NAME_23,myGrades,自分の成績,我的成绩,我的成績,minhasNotas,MisResultados,,,мои_оценки,,,
-UI_EMPTY_FOLDER_NAME_24,studyMaterials,勉強資料,学习资料,學習資料,materiaisEstudo,Material de Estudio,,,учебные_материалы,,,
-UI_EMPTY_FOLDER_NAME_25,peer_review,査読,同侪评阅,同儕評閱,revisão_pares,Para revisar,,,рецензии,,,
-UI_EMPTY_FOLDER_NAME_26,final_Draft,最終原稿,最终稿,最終稿,rascunho_Final,Borrador_Final,,,финальная версия (черновик),,,
-UI_EMPTY_FOLDER_NAME_27,submission,提出物,提交,提交,envio,Envios,,,отправленные,,,
-UI_EMPTY_FOLDER_NAME_28,incomplete,未完成,未完成,未完成,incompleto,Falta Terminar,,,незавершенные,,,
-UI_EMPTY_FOLDER_NAME_29,GroupChatLogs,グループチャットログ,群聊记录,群聊記錄,LogsChatEmGrupo,RegistroChatGrupo,,,Чаты_группы,,,
-UI_EMPTY_FOLDER_NAME_30,deadlines,締め切り,截止日期,截止日期,prazos,Plazos,,,дедлайны,,,
-UI_EMPTY_FOLDER_DESC,What could be inside?,中には何が？,里面会有什么？,裡面會有什麼？,O que poderia ter aqui?,¿Qué podría haber dentro?,,,Что там внутри?,,,
-UI_COMBAT_FOLDER_NAME_1_1,Documents,ドキュメント,文档,文件,Documentos,Documentos,,,Документы,,,
-UI_COMBAT_FOLDER_NAME_1_2,Downloads,ダウンロード,下载,下載,Downloads,Descargas,,,Загрузки,,,
-UI_COMBAT_FOLDER_NAME_1_3,Pictures,ピクチャ,图片,圖片,Fotos,Fotos,,,Изображения,,,
-UI_COMBAT_FOLDER_NAME_1_4,Music,ミュージック,音乐,音樂,Música,Música,,,Музыка,,,
-UI_COMBAT_FOLDER_NAME_1_5,Videos,ビデオ,视频,影片,Vídeos,Videos,,,Видео,,,
-UI_COMBAT_FOLDER_NAME_1_6,Media,メディア,媒体,媒體,Mídia,Media,,,Медиа,,,
-UI_COMBAT_FOLDER_NAME_1_7,Users,ユーザー,用户,用戶,Usuários,Usuarios,,,Пользователи,,,
-UI_COMBAT_FOLDER_NAME_1_8,Program Files,プログラムファイル,程序文件,程式檔案,Arquivos de Programas,Archivos de Programa,,,Program Files,,,
-UI_COMBAT_FOLDER_NAME_1_9,Work,仕事,工作,工作,Trabalho,Trabajo,,,Работа,,,
-UI_COMBAT_FOLDER_NAME_1_10,Notes,メモ,笔记,筆記,Notas,Notas,,,Заметки,,,
-UI_COMBAT_FOLDER_NAME_1_11,Invoices,請求書,发票,發票,Faturas,Facturas,,,Счета,,,
-UI_COMBAT_FOLDER_NAME_1_12,client_data,クライアントデータ,客户数据,客戶數據,dados_cliente,datos_cliente,,,данные_клиентов,,,
-UI_COMBAT_FOLDER_NAME_1_13,contracts,連絡先,合同,合約,contratos,Contratos,,,контракты,,,
-UI_COMBAT_FOLDER_NAME_1_14,presentations,プレゼン,演示,演示,apresentações,Presentaciones,,,презентации,,,
-UI_COMBAT_FOLDER_NAME_1_15,Timesheets,タイムシート,工时表,工時表,PlanilhasHora,Horario,,,Табели,,,
-UI_COMBAT_FOLDER_NAME_1_16,Slides(1),スライド(1),幻灯片（1）,幻燈片（1）,Slides(1),Presentación(1),,,Слайды(1),,,
-UI_COMBAT_FOLDER_NAME_1_17,Payrolls,給与支払い,薪资表,薪資表,FolhaDePagamento,Nómina de Sueldo,,,Зарплаты,,,
-UI_COMBAT_FOLDER_NAME_1_18,templates,テンプレート,模板,範本,templates,Plantillas,,,шаблоны,,,
-UI_COMBAT_FOLDER_NAME_1_19,wip,作業中,半成品,半成品,wip,En Desarrollo,,,wip,,,
-UI_COMBAT_FOLDER_NAME_1_20,hr_confidential,人事部外秘,人事机密,人事機密,rh_confidencial,hr_confidential,,,кадровые_данные,,,
-UI_COMBAT_FOLDER_NAME_1_21,SharedFolder,共有フォルダ,共享文件夹,共享資料夾,PastaCompartilhada,CarpetaCompartida,,,Общие,,,
-UI_COMBAT_FOLDER_NAME_1_22,claims,クレーム,报销申请,報銷申請,reinvidicações,Reclamos,,,заявки,,,
-UI_COMBAT_FOLDER_NAME_1_23,expenses,経費,开支,開支,despesas,Gastos,,,расходы,,,
-UI_COMBAT_FOLDER_NAME_1_24,Training Materials,研修資料,培训资料,培訓資料,Materiais de Treinamento,Materiales de entrenamiento,,,Обучение (материалы),,,
-UI_COMBAT_FOLDER_NAME_1_25,internal Docs,内部資料,内部文档,內部文件,documentos internos,Documentos internos,,,внутренние документы,,,
-UI_COMBAT_FOLDER_NAME_1_26,Annual Reports,年次報告,年度报告,年度報告,Relatórios anuais,Reportes Anuales,,,Годовые отчеты,,,
-UI_COMBAT_FOLDER_NAME_1_27,Meeting_minutes,議事録,会议记录,會議記錄,Reunião_horários,Horario_reuniones,,,протоколы_встреч,,,
-UI_COMBAT_FOLDER_NAME_1_28,onboarding,オンボーディング,入职文件,入職文件,onboarding,Incorporaciones,,,адаптация,,,
-UI_COMBAT_FOLDER_NAME_1_29,Work_policies,作業ポリシー,工作政策,工作政策,Políticas_trabalho,Políticas de Trabajo,,,Рабочие правила,,,
-UI_COMBAT_FOLDER_NAME_1_30,team_proj,チームプロジェクト,团队项目,團隊項目,projeto_time,Trabajo_grupo,,,командный_проект,,,
-UI_COMBAT_FOLDER_NAME_2_1,Homework,宿題,家庭作业,家庭作業,LiçãoDeCasa,Tarea,,,Домашка,,,
-UI_COMBAT_FOLDER_NAME_2_2,Homework_real,宿題_マジ,真_家庭作业,真_家庭作業,LiçãoDeCasa_real,Tarea_real,,,Домашка_реально,,,
-UI_COMBAT_FOLDER_NAME_2_3,SandboxV2,サンドボックスV2,沙盒V2,沙盒V2,SandboxV2,SandboxV2,,,Песочница2,,,
-UI_COMBAT_FOLDER_NAME_2_4,Cats,ネコ,猫猫,貓貓,Gatos,Gatos,,,Котики,,,
-UI_COMBAT_FOLDER_NAME_2_5,Assets,アセット,资产,資產,Assets,Assets,,,Ассеты,,,
-UI_COMBAT_FOLDER_NAME_2_6,New Folder,新しいフォルダ,新建文件夹,新增資料夾,Nova Pasta,Nueva Carpeta,,,Новая папка,,,
-UI_COMBAT_FOLDER_NAME_2_7,New Folder(2),新しいフォルダ（2）,新建文件夹（2）,新增資料夾（2）,Nova Pasta(2),Nueva Carpeta(2),,,Новая папка(2),,,
-UI_COMBAT_FOLDER_NAME_2_8,Not_virus,ウィルス_じゃない,不是_病毒,不是_病毒,NãoÉ_virus,No_virus,,,Не_вирус,,,
-UI_COMBAT_FOLDER_NAME_2_9,TOP_secret,最高機密,最高_机密,最高_機密,TOP_secret,ULTRASECRETO,,,СОВЕРШЕННО_СЕКРЕТНО,,,
-UI_COMBAT_FOLDER_NAME_2_10,Source,ソース,源代码,原始碼,Source,Source,,,Источник,,,
-UI_COMBAT_FOLDER_NAME_2_11,scripts,スクリプト,脚本,腳本,scripts,scripts,,,скрипты,,,
-UI_COMBAT_FOLDER_NAME_2_12,bug_reports,バグ報告,Bug报告,Bug報告,bug_reports,bug_reports,,,отчеты_об_ошибках,,,
-UI_COMBAT_FOLDER_NAME_2_13,APIs,API,API文档,API文件,APIs,APIs,,,API,,,
-UI_COMBAT_FOLDER_NAME_2_14,lib,ライブラリ,库,庫,lib,lib,,,библиотеки,,,
-UI_COMBAT_FOLDER_NAME_2_15,repos,リポジトリ,仓库,倉庫,repos,repos,,,репозитории,,,
-UI_COMBAT_FOLDER_NAME_2_16,sandbox1,サンドボックス1,沙盒1,沙盒1,sandbox1,sandbox1,,,песочница1,,,
-UI_COMBAT_FOLDER_NAME_2_17,VirtualEnv,バーチャル環境,虚拟环境,虛擬環境,VirtualEnv,Entorno virtual,,,Виртуальная среда,,,
-UI_COMBAT_FOLDER_NAME_2_18,patches,パッチ,补丁,修補程式,patches,parches,,,патчи,,,
-UI_COMBAT_FOLDER_NAME_2_19,plugins,プラグイン,插件,外掛程式,plugins,plugins,,,плагины,,,
-UI_COMBAT_FOLDER_NAME_2_20,ext,拡張,扩展,擴充功能,ext,ext,,,расширения,,,
-UI_COMBAT_FOLDER_NAME_2_21,Extensions,エクステンション,扩展功能,擴充功能,Extensões,Extensciones,,,Расширения,,,
-UI_COMBAT_FOLDER_NAME_2_22,alpha_,アルファ,内测,內測,alpha_,alpha_,,,альфа_,,,
-UI_COMBAT_FOLDER_NAME_2_23,beta_build,ベータ版,公测版,公測版,build_beta,build_beta,,,бета_билд,,,
-UI_COMBAT_FOLDER_NAME_2_24,release,リリース,发布版,發佈版,release,lanzamiento,,,релиз,,,
-UI_COMBAT_FOLDER_NAME_2_25,debug_3,デバッグ3,调试_3,調試_3,debug_3,debug_3,,,отладка_3,,,
-UI_COMBAT_FOLDER_NAME_2_26,dumps,ダンプ,转储文件,傾印檔案,dumps,dumps,,,дампы,,,
-UI_COMBAT_FOLDER_NAME_2_27,Crash Reports,クラッシュレポート,崩溃报告,崩潰報告,Relatórios de Erro,Reportes de Crasheos,,,Отчеты о сбоях,,,
-UI_COMBAT_FOLDER_NAME_2_28,personal_proj,個人プロジェクト,个人项目,個人項目,projeto_pessoal,Projecto_personal,,,мой проект,,,
-UI_COMBAT_FOLDER_NAME_2_29,backups,バックアップ,备份,備份,backups,copias de seguridad,,,резервные копии,,,
-UI_COMBAT_FOLDER_NAME_2_30,unit_tests,ユニットテスト,单元测试,單元測試,tests_unitários,tests_unitarios,,,юнит_тесты,,,
-UI_COMBAT_FOLDER_NAME_3_1,XXX,XXX,XXX,XXX,XXX,XXX,,,XXX,,,
-UI_COMBAT_FOLDER_NAME_3_2,Memes,ミーム,表情包,表情包,Memes,Memes,,,Мемы,,,
-UI_COMBAT_FOLDER_NAME_3_3,test,テスト,测试,測試,teste,test,,,тест,,,
-UI_COMBAT_FOLDER_NAME_3_4,Test_final,最終テスト,最终_测试,最終_測試,Teste_final,Test_final,,,Финальный тест,,,
-UI_COMBAT_FOLDER_NAME_3_5,Pictures_copy,ピクチャ_コピー,图片_副本,圖片_副本,Imagens_cópia,Fotos_copia,,,Изображения_копия,,,
-UI_COMBAT_FOLDER_NAME_3_6,Backup,バックアップ,备份,備份,Backup,Copia de Seguridad,,,Бэкап,,,
-UI_COMBAT_FOLDER_NAME_3_7,backup2,バックアップ2,备份2,備份2,backup2,copia_seguridad2,,,бэкап2,,,
-UI_COMBAT_FOLDER_NAME_3_8,hidden,隠し,隐藏,隱藏,escondido,oculto,,,скрытое,,,
-UI_COMBAT_FOLDER_NAME_3_9,NoOpen,あけるな,不要打开,不要打開,NãoAbrir,NoAbierto,,,НЕ открывать,,,
-UI_COMBAT_FOLDER_NAME_3_10,SaveData,セーブデータ,存档数据,存檔數據,DadosSave,DatosGuardados,,,Сохранения,,,
-UI_COMBAT_FOLDER_NAME_3_11,UserData,ユーザーデータ,用户数据,用戶數據,DadosUsuário,DatosUsuario,,,Данные_пользователя,,,
-UI_COMBAT_FOLDER_NAME_3_12,Mods,MOD,模组,模組,Mods,Mods,,,Моды,,,
-UI_COMBAT_FOLDER_NAME_3_13,cheats,チート,修改器,修改器,trapaças,Trampas,,,читы,,,
-UI_COMBAT_FOLDER_NAME_3_14,ROMs,ROM,ROM文件,ROM檔案,ROMs,ROMs,,,ROM,,,
-UI_COMBAT_FOLDER_NAME_3_15,Configs,コンフィグ,配置文件,設定檔,Configs,Configs,,,Конфиги,,,
-UI_COMBAT_FOLDER_NAME_3_16,DLC,DLC,DLC,DLC,DLC,DLC,,,DLC,,,
-UI_COMBAT_FOLDER_NAME_3_17,OldSaves,過去セーブ,旧存档,舊存檔,SavesAntigos,GuardadosAntiguos,,,Старые_сохранения,,,
-UI_COMBAT_FOLDER_NAME_3_18,guides,ガイド,指南,指南,guias,Guías,,,гайды,,,
-UI_COMBAT_FOLDER_NAME_3_19,DevLogs,開発ログ,开发日志,開發日誌,DevLogs,Registro de Desarrollo,,,DevLogs,,,
-UI_COMBAT_FOLDER_NAME_3_20,workshop,ワークショップ,创意工坊,創意工坊,workshop,Taller,,,мастерская,,,
-UI_COMBAT_FOLDER_NAME_3_21,save_notes,セーブメモ,存档备注,存檔備註,notas_save,notas_guardadas,,,сохранения_заметки,,,
-UI_COMBAT_FOLDER_NAME_3_22,clan_docs,クラン資料,公会文档,公會文件,docs_clan,documentos_clan,,,доки_клана,,,
-UI_COMBAT_FOLDER_NAME_3_23,replays,リプレイ,回放,回放,replays,repeticiones,,,повторы,,,
-UI_COMBAT_FOLDER_NAME_3_24,saved_clips,セーブ済みクリップ,已保存片段,已保存片段,clipes_salvos,clips_guardados,,,сохраненные_клипы,,,
-UI_COMBAT_FOLDER_NAME_3_25,achievement guides,実績ガイド,成就攻略,成就攻略,guias de conquistas,guias para logros,,,гайды по ачивкам,,,
-UI_COMBAT_FOLDER_NAME_3_26,server rules,サーバールール,服务器规则,伺服器規則,regras do servidor,Reglas del Servidor,,,правила сервера,,,
-UI_COMBAT_FOLDER_NAME_3_27,cheatcodes,チートコード,作弊码,作弊碼,trapaças,Código de Trucos,,,читкоды,,,
-UI_COMBAT_FOLDER_NAME_3_28,Spam,スパム,垃圾文件,垃圾檔案,Spam,Spam,,,Спам,,,
-UI_COMBAT_FOLDER_NAME_3_29,cursed,呪われてる,被污染,被污染,amaldiçoado,Maldito,,,проклято,,,
-UI_COMBAT_FOLDER_NAME_3_30,funny,おもしろ,搞笑,搞笑,engraçado,Divertido,,,приколы,,,
-UI_COMBAT_FOLDER_DESC,My virus senses are tingling…,ウィルスセンサーが反応してる…,我的病毒感应在发作……,我的病毒感應在發作……,Meu sentido vírus está apitando…,Mi sentido virus está hormigueando...,,,Мое вирусное чутье что-то улавливает …,,,
-UI_COMBAT_ZIP_FOLDER_NAME_1,compressed.zip,圧縮.zip,压缩.zip,壓縮.zip,comprimido.zip,Comprimido.zip,,,архив.zip,,,
-UI_COMBAT_ZIP_FOLDER_NAME_2,part1.zip,パート1.zip,第1部分.zip,第1部分.zip,parte1.zip,Parte1.zip,,,часть1.zip,,,
-UI_COMBAT_ZIP_FOLDER_NAME_3,poses.zip,ポーズ.zip,姿势.zip,姿勢.zip,poses.zip,Posturas.zip,,,позы.zip,,,
-UI_COMBAT_ZIP_FOLDER_NAME_4,assignment1.zip,課題1.zip,任务1.zip,任務1.zip,tarefa1.zip,Tarea.zip,,,задание1.zip,,,
-UI_COMBAT_ZIP_FOLDER_NAME_5,glsl64.zip,glsl64.zip,glsl64.zip,glsl64.zip,glsl64.zip,glsl64.zip,,,glsl64.zip,,,
-UI_COMBAT_ZIP_FOLDER_NAME_6,_backup.zip,_バックアップ.zip,_备份.zip,_備份.zip,_backup.zip,_backup.zip,,,_бэкап.zip,,,
-UI_COMBAT_ZIP_FOLDER_NAME_7,assets.7z,アセット.7z,资产.7z,資產.7z,assets.7z,assets.7z,,,ассеты.7z,,,
-UI_COMBAT_ZIP_FOLDER_NAME_8,new(1).7z,新規（1）.7z,新（1）.7z,新（1）.7z,novo(1).7z,nuevo(1).7z,,,новый(1).7z,,,
-UI_COMBAT_ZIP_FOLDER_NAME_9,vids.tar,ビデオ.tar,视频.tar,影片.tar,vids.tar,videos.tar,,,видео.tar,,,
-UI_COMBAT_ZIP_FOLDER_NAME_10,old_save.zip,古いセーブ.zip,旧存档.zip,舊存檔.zip,old_save.zip,guardado_antiguo.zip,,,старое_сохранение.zip,,,
-UI_COMBAT_ZIP_FOLDER_NAME_11,release_build.rar,リリースビルド.rar,正式版.rar,正式版.rar,build_lançamento.rar,release_build.rar,,,релизная_сборка.rar,,,
-UI_COMBAT_ZIP_FOLDER_NAME_12,cli_tools.zip,cliツール.zip,命令行工具.zip,命令列工具.zip,ferramentas_clip.zip,cli_tools.zip,,,cli_утилиты.zip,,,
-UI_COMBAT_ZIP_FOLDER_NAME_13,dist.zip,dist.zip,分发包.zip,分發包.zip,dist.zip,dist.zip,,,сборка.zip,,,
-UI_COMBAT_ZIP_FOLDER_NAME_14,mods.7z,mod.7z,模组.7z,模組.7z,mods.7z,mods.7z,,,моды.7z,,,
-UI_COMBAT_ZIP_FOLDER_NAME_15,modules.rar,モジュール.rar,模块.rar,模組.rar,modules.rar,modulos.rar,,,модули.rar,,,
-UI_COMBAT_ZIP_FOLDER_NAME_16,debug_logs.zip,デバッグログ.zip,调试日志.zip,調試日誌.zip,debug_logs.zip,debug_logs.zip,,,логи_отладки.zip,,,
-UI_COMBAT_ZIP_FOLDER_NAME_17,hotfix_patch.7z,ホットフィックス.7z,热修补丁.7z,熱修補程式.7z,hotfix_patch.7z,hotfix_patch.7z,,,хотфикс_патч.7z,,,
-UI_COMBAT_ZIP_FOLDER_NAME_18,utils.7z,ユーティリティ.7z,工具集.7z,工具集.7z,utils.7z,utiles.7z,,,утилиты.7z,,,
-UI_COMBAT_ZIP_FOLDER_NAME_19,reports.zip,レポート.zip,报告.zip,報告.zip,reports.zip,informes.zip,,,отчеты.zip,,,
-UI_COMBAT_ZIP_FOLDER_NAME_20,events.rar,イベント.rar,事件.rar,事件.rar,eventos.zip,eventos.rar,,,события.rar,,,
-UI_COMBAT_ZIP_FOLDER_NAME_21,temp.7z,temp.7z,临时文件.7z,暫存檔.7z,temp.7z,temporal.7z,,,temp.7z,,,
-UI_COMBAT_ZIP_FOLDER_NAME_22,part2.7z,パート2.7z,part2.7z,part2.7z,part2.7z,parte2.7z,,,часть2.7z,,,
-UI_COMBAT_ZIP_FOLDER_NAME_23,assignment_final.zip,課題（最終版）.zip,最终作业.zip,最終作業.zip,tarefa_final.zip,tarea_final.zip,,,задание (к отправке).zip,,,
-UI_COMBAT_ZIP_FOLDER_NAME_24,Identifile.zip,Identifile.zip,Identifile.zip,Identifile.zip,Identifile.zip,Identifile.zip,,,Identifile.zip,,,
-UI_COMBAT_ZIP_FOLDER_NAME_25,hacks.7z,ハック.7z,破解.7z,破解.7z,hacks.7z,hacks.7z,,,взломы.7z,,,
-UI_COMBAT_ZIP_FOLDER_NAME_26,release.zip,リリース.zip,发布版.zip,發佈版.zip,release.zip,lanzamiento.zip,,,релиз.zip,,,
-UI_COMBAT_ZIP_FOLDER_NAME_27,final_submit_7z,最終提出.7z,最终提交.7z,最終提交.7z,envio_final_7z,envio_final.7z,,,финал_отправить_7z,,,
-UI_COMBAT_ZIP_FOLDER_NAME_28,w1nrar.rar,w1nrar.rar,w1nrar.rar,w1nrar.rar,w1nrar.rar,w1nrar.rar,,,w1nrar.rar,,,
-UI_COMBAT_ZIP_FOLDER_NAME_29,tempz.zip,tempz.zip,临时包.zip,臨時包.zip,tempz.zip,tempz.zip,,,tempz.zip,,,
-UI_COMBAT_ZIP_FOLDER_NAME_30,extra.zip,エクストラ.zip,额外文件.zip,額外檔案.zip,extra.zip,extra.zip,,,бонусы.zip,,,
-UI_COMBAT_ZIP_FOLDER_DESC,My virus senses are tingling…,ウィルスセンサーが反応してる…,我的病毒感应在发作……,我的病毒感應在發作……,Meu sentido vírus está apitando…,Mi sentido virus está hormigueando...,,,Мое вирусное чутье что-то улавливает …,,,
-UI_TREASURE_FOLDER_NAME,Treasure,お宝,宝藏,寶藏,Tesouro,Tesoro,,,Сокровище,,,
-UI_TREASURE_FOLDER_DESC,Various items can be found here!,いろいろなアイテムが見つかるよ！,此处可获取加密物品！,此處可獲取加密物品！,Muitos itens podem estar aqui!,Puedes encontrar varios items aquí,,,Здесь можно найти разные предметы!,,,
-UI_ADS_FOLDER_NAME,LIMITED OFFER!,限定オファー！,限时特惠！,限時特惠！,PROMOÇÃO LIMITADA!,¡OFERTA EXLUSIVA!,,,ОГРАНИЧЕННОЕ ПРЕДЛОЖЕНИЕ!,,,
-UI_ADS_FOLDER_DESC,Hmm some advertisements...,うーん、何かの広告みたい…,唔，广告时间……,唔，廣告時間……,Hmm alguns anúncios...,¡Vienen con anuncios incluidos!,,,Хм... Какая-то реклама...,,,
-UI_CHALLENGE_FOLDER_NAME,Challenge,チャレンジ,挑战,挑戰,Desafio,Desafio,,,Испытание,,,
-UI_CHALLENGE_FOLDER_DESC,Up for a challenge?,チャレンジする？,敢来试试吗？,敢來試試嗎？,Pronto para um desafio?,¿Preparado para un desafio?,,,Испытаешь себя?,,,
-UI_SHOP_FOLDER_NAME,Shop,ショップ,商店,商店,Loja,Tienda,,,Магазин,,,
-UI_SHOP_FOLDER_DESC,Various items can be bought here with coins!,コインでいろいろなアイテムが買えるよ！,消耗金币购买各类程序！,消耗金幣購買各類程式！,Vários itens podem ser comprados aqui com moedas!,Puedes comprar varios items con monedas,,,"Здесь продается все, что можно купить за монеты!",,,
-UI_SACRIFICE_FOLDER_NAME,Sacrifice,捧げる,献祭,獻祭,Sacrificar,Sacrificio,,,Жертвенник,,,
-UI_SACRIFICE_FOLDER_DESC,To lose is to gain,捨てることで得る,失即是得,失即是得,Perder é ganhar,Perder para ganar algo,,,Теряя – обретаешь,,,
-UI_REWARD_FOLDER_NAME,rewards.exe,報酬.exe,奖励.exe,獎勵.exe,recompensas.exe,Recompensas.exe,,,награды.exe,,,
-UI_REWARD_FOLDER_DESC,Rare rewards await...,レアな報酬が待ってる…,稀有奖励静待开启……,稀有獎勵靜待開啟……,Recompensas raras aguardam...,Recompensas raras te aguardan...,,,Редчайшие награды уже тебя ждут...,,,
-UI_KEY_FOLDER_NAME,Key!,鍵！,钥匙！,鑰匙！,Chave!,¡Llave!,,,Ключ!,,,
-UI_KEY_FOLDER_DESC,Key to happiness right at your fingertips.,幸せへの鍵はその指先に。,触手可及的幸福密钥。,觸手可及的幸福密鑰。,A chave da felicidade ao seu alcance.,La llave de la felicidad a tu alcanze,,,Ключ к счастью прямо у тебя под рукой.,,,
-UI_BOSS_FOLDER_NAME,Boss,ボス,Boss,Boss,Chefe,Boss,,,Босс,,,
-UI_BOSS_FOLDER_DESC,Something dangerous lurks within...,危険なものが潜んでいそうだ…,高危目标蛰伏中……,高危目標蟄伏中……,Algo perigoso se esconde dentro...,Algo peligroso te espera dentro...,,,Внутри таится нечто опасное...,,,
-UI_MINIGAME_AIM_FOLDER_NAME,Bang! Bang!,バン！バン！,砰！砰！,砰！砰！,Bang! Bang!,¡Bang! ¡Bang!,,,Бах! Бах!,,,
-UI_MINIGAME_AIM_FOLDER_DESC,How good are your shots?,狙いをつけるのは得意かな？,你枪法怎么样？,你槍法怎麼樣？,Quão bom são seus tiros?,¿Qué tan bueno eres en los disparos?,,,Испытаем твою меткость?,,,
-UI_MINIGAME_DINO_FOLDER_NAME,Disconnected?!,切断！？,掉线了？！,斷線了？！,Disconectado?!,¡¿Desconectado?!,,,Потеря соединения?!,,,
-UI_MINIGAME_DINO_FOLDER_DESC,Roarrr!!,ガオー！！,嗷呜！！,嗷嗚！！,Roarrr!!,¡¡Roarrr!!,,,Рааврррр!!,,,
-UI_LEVEL_COMPLETE_FOLDER_DESC,What's in this new drive?,,,,O que tem nesse drive novo?,¿Que habrá en este nuevo disco?,,,Что скрывается в этом диске?,,,
+﻿keys,en,ja,cn,tw,ptbr,es,kr,de,ru,pl,fr,ro,tr,esla
+UI_EMPTY_FOLDER_NAME_1,Homework,宿題,作业,作業,Lição de Casa,Tareas de Casa,,Hausaufgaben,Домашка,Zadania Domowe,Devoirs,BACKUPURI,Ev Ödevi,Tareas de casa
+UI_EMPTY_FOLDER_NAME_2,Essays,エッセイ,论文,論文,Redação,Redacciones,,Referate,Эссе,Wypracowania,Rédactions,FolderPreaBun,Denemeler,Redacciones
+UI_EMPTY_FOLDER_NAME_3,Finals_Study,勉強（最終版）,期末复习,期末複習,Estudo_Prova,Estudios_Finales,,Prüfungsstoff_lernen!,Экзы (материалы),Sesja_Materiał,Révisions_Examen,ThePirații.biz,Final_Çalışması,Estudios_Finales
+UI_EMPTY_FOLDER_NAME_4,GroupProject(1),グループプロジェクト (1),小组项目（1）,小組專案（1）,ProjetoEmGrupo(1),TrabajoGrupo(1),,Gruppenarbeit(1),ГрупповойПроект(1),Projekt grupowy(1),ProjetGroupe(1),Amintiri,GrupProjesi(1),TrabajoGrupo(1)
+UI_EMPTY_FOLDER_NAME_5,PastPapers,過去論文,历年试卷,歷年試卷,PapersPassados,ArtículosPasados,,AltesZeug,Пробники,StarePapiery,AnciensSujets,Rapoarte Munca,GeçmişSınavlar,ArtículosPasados
+UI_EMPTY_FOLDER_NAME_6,PresentationSlides,プレゼンスライド,演示文稿,簡報,ApresentaçãoSlides,Presentaciones,,PräsentationSlides,СлайдыПрезентации,SlajdyDoPrezentacji,Exposé,Poze cu Dacia Logan,SunumSlaytları,Presentaciones
+UI_EMPTY_FOLDER_NAME_7,ClassNotes,授業メモ,课堂笔记,課堂筆記,NotasAula,Apuntes de Clase,,Noten,Конспекты,NotatkiZLekcji,NotesDeClasse,backupuri(2),DersNotları,Notas de clase
+UI_EMPTY_FOLDER_NAME_8,WIP Art Folder,イラスト（作業中）,图书馆扫描件,圖書館掃描件,CópiasBiblioteca,Escaneos de la bilioteca,,BibliothekScans,Сканы_Библиотека,SkanyZBiblioteki,Art WIP,POZE CU CAINELE NU STERGE,KütüphaneTaramaları,Escaneos de la bilioteca
+UI_EMPTY_FOLDER_NAME_9,LabReports,研究報告,实验报告,實驗報告,RelatóriosLab,Informes de Laboratorio,,LaborDokumentationen,Лабораторные,RaportZLab'ów,CompteRenduLabo,NU INTRA MAMĂ,LaboratuvarRaporları,Informes de Laboratorio
+UI_EMPTY_FOLDER_NAME_10,Drafts,原稿,草稿,草稿,Rascunhos,Borradores,,Entwürfe,Черновики,Szkice,Brouillons,MANACARE,Taslaklar,Borradores
+UI_EMPTY_FOLDER_NAME_11,History101,歴史入門,历史学入门,歷史學入門,História Básica,Historia101,,Geschichte101,История101,Historia101,Histoire101,Poze Cu Matusi,Tarih101,Historia101
+UI_EMPTY_FOLDER_NAME_12,Math stuff,数学関係,数学资料,數學資料,Coisas de matemática,Cosas de mates,,MatheZeugs,Математика,Matma,Trucs de Maths,Poze cu pisici,Matematik şeyleri,Cosas de matemáticas
+UI_EMPTY_FOLDER_NAME_13,flashcards,フラッシュカード,学习卡片,學習卡片,flashcards,Tarjetas didácticas,,Karteikarten,карточки,fiszki,CarteMémoire,Steam,kartlar,Tarjetas didácticas
+UI_EMPTY_FOLDER_NAME_14,cheatsheets,カンペ,速查表,速查表,resumo,Resúmenes,,Lernzettel,шпаргалки,ściągi,FeuilleDeTriche,Memes,kopya_kağıtları,Resúmenes
+UI_EMPTY_FOLDER_NAME_15,research,調査,研究资料,研究資料,pesquisa,Investigación,,Recherche,исследования,badania,Recherche,themes pentru telefon,araştırma,Investigación
+UI_EMPTY_FOLDER_NAME_16,sciencefair,科学フェア,科学展览,科學展覽,feiraciências,Feria de ciencia,,Forschungsausstellung,научная_ярмарка,targinaukowe,FestivalScience,Meme-uri sfinte,bilim_fuarı,Feria de ciencia
+UI_EMPTY_FOLDER_NAME_17,ExtraCredit,追加クレジット,额外学分,額外學分,CréditosExtras,Crédito extra,,ExtraCredit,Доп. Баллы,DodatkowyProjekt,ExtraCredit,Resurse spirituale (manele),EkstraKredi,Crédito extra
+UI_EMPTY_FOLDER_NAME_18,attendance,出席者,出勤记录,出勤記錄,presença,Presencia,,Anwesenheit,присутствие,obecność,FeuilleAppel,BACKUPURI,devam_durumu,Presencia
+UI_EMPTY_FOLDER_NAME_19,ClassRecordings,授業録画,课堂录音,課堂錄音,GravaçõesAula,Grabaciones de Clase,,UnterrichtsAufnahmen,Записи занятий,NagraniaZLekcji,EnregistrementCours,dumps,DersKayıtları,Grabaciones de clase
+UI_EMPTY_FOLDER_NAME_20,assignments,課題,课业,課業,tarefas,Tareas,,Aufgaben,задания,zadania,TrucsAFaire,Identifile XP themes,ödevler,Tareas
+UI_EMPTY_FOLDER_NAME_21,late_submissions,提出_遅れ,迟交的作业,遲交的作業,envios_atrasados,Envios atrasados,,Spät_abgegeben,просроченное,spóźnione_prace,devoirs_en_retard,IMPORTANT!!,geç_yüklemeler,Envíos_atrasados
+UI_EMPTY_FOLDER_NAME_22,projects2024,2024年_プロジェクト,2024项目,2024專案,projetos2024,Proyectos2024,,Projekte2024,проекты2024,projekty2024,projets2024,Teme,projeler2024,Proyectos2024
+UI_EMPTY_FOLDER_NAME_23,myGrades,自分の成績,我的成绩,我的成績,minhasNotas,MisResultados,,MeineNoten,мои_оценки,mojeOceny,MesNotes,Pisicutzeee <3,Notlarım,MisResultados
+UI_EMPTY_FOLDER_NAME_24,studyMaterials,勉強_資料,学习资料,學習資料,materiaisEstudo,Material de Estudio,,LernMaterial,учебные_материалы,MateriałyDoNauki,ScanCours,Setări nucleare,çalışmaMateryalleri,MaterialdeEstudio
+UI_EMPTY_FOLDER_NAME_25,peer_review,査読,同侪评阅,同儕評閱,revisão_pares,Para revisar,,Kollegen_review,рецензии,recenzje,PasEncoreNoté,Înregistrări,akran_değerlendirmesi,Revisión_de_pares
+UI_EMPTY_FOLDER_NAME_26,final_Draft,原稿_確定版,最终稿,最終稿,rascunho_Final,Borrador_Final,,letzter_Entwurf,финальная версия (черновик),finalny_szkic,VersionsFinales,release,son_Taslak,Borrador_final
+UI_EMPTY_FOLDER_NAME_27,submission,提出物,提交,提交,envio,Envios,,Abgabe,отправленные,prace,DevoirsDéposés,PowerPoint bomba,gönderim,Envios
+UI_EMPTY_FOLDER_NAME_28,incomplete,未完成,未完成,未完成,incompleto,Falta Terminar,,Unvollständig,незавершенные,nieskończone,incomplet,Hackuri Legit,tamamlanmamış,Falta Terminar
+UI_EMPTY_FOLDER_NAME_29,GroupChatLogs,グループチャットログ,群聊记录,群組聊天記錄,LogsChatEmGrupo,RegistroChatGrupo,,GruppenChatLogs,Чаты_группы,HistoriaCzatówGrupowych,HistoriqueGroupchat,Sfinte poze cu Mihai Bendeac,GrupSohbetKayıtları,RegistroChatGrupo
+UI_EMPTY_FOLDER_NAME_30,deadlines,締め切り,截止日期,截止日期,prazos,Plazos,,Deadlines,дедлайны,terminy,dates limites,ghicitor,son_tarihler,Plazos
+UI_EMPTY_FOLDER_DESC,What could be inside?,中に何が…？,里面会有什么？,裡面會有什麼？,O que poderia ter aqui?,¿Qué podría haber dentro?,,Was könnte hier wohl drin sein?,Что там внутри?,Co mogłoby się tu znajdować?,Qu'est-ce qu'il se cache là dedans?,Ce ar putea fi înăuntru?,İçinde ne olabilir?,¿Qué podría haber dentro?
+UI_COMBAT_FOLDER_NAME_1_1,Documents,ドキュメント,文档,文件,Documentos,Documentos,,Dokumente,Документы,Dokumenty,Documents,Documente,Belgeler,Documentos
+UI_COMBAT_FOLDER_NAME_1_2,Downloads,ダウンロード,下载,下載,Downloads,Descargas,,Downloads,Загрузки,Pobrane,Téléchargements,Descărcări,İndirilenler,Descargas
+UI_COMBAT_FOLDER_NAME_1_3,Pictures,ピクチャ,图片,圖片,Fotos,Fotos,,Fotos,Изображения,Obrazy,Images,Fotografii,Resimler,Fotos
+UI_COMBAT_FOLDER_NAME_1_4,Music,ミュージック,音乐,音樂,Música,Música,,Musik,Музыка,Muzyka,Musique,Muzică,Müzik,Música
+UI_COMBAT_FOLDER_NAME_1_5,Videos,ビデオ,视频,影片,Vídeos,Videos,,Videos,Видео,Wideo,Vidéos,Videoclipuri,Videolar,Vídeos
+UI_COMBAT_FOLDER_NAME_1_6,Media,メディア,媒体,媒體,Mídia,Media,,Media,Медиа,Media,Média,Media,Medya,Media
+UI_COMBAT_FOLDER_NAME_1_7,Users,Users,用户,使用者,Usuários,Usuarios,,Nutzer,Пользователи,Użytkownicy,Utilisateurs,Utilizatori,Kullanıcılar,Usuarios
+UI_COMBAT_FOLDER_NAME_1_8,Program Files,プログラムファイル,程序文件,程式檔案,Arquivos de Programas,Archivos de Programa,,Program Files,Program Files,Program Files,Programmes,Fișiere Programe,Program Dosyaları,Archivos de programa
+UI_COMBAT_FOLDER_NAME_1_9,Work,仕事,工作相关,工作相關,Trabalho,Trabajo,,Arbeit,Работа,Praca,Travail,Muncă,İş,Trabajo
+UI_COMBAT_FOLDER_NAME_1_10,Notes,メモ,笔记,筆記,Notas,Notas,,Notizen,Заметки,Notatki,Notes,Note,Notlar,Notas
+UI_COMBAT_FOLDER_NAME_1_11,Invoices,請求書,发票,發票,Faturas,Facturas,,Rechnungen,Счета,Faktury,Factures,Facturi,Faturalar,Boletas
+UI_COMBAT_FOLDER_NAME_1_12,client_data,クライアントデータ,客户数据,客戶資料,dados_cliente,datos_cliente,,Kunden_Infos,данные_клиентов,dane_klientów,données_clients,Jocuri,müşteri_verileri,datos_cliente
+UI_COMBAT_FOLDER_NAME_1_13,contracts,契約書,合同,合約,contratos,Contratos,,Verträge,контракты,kontrakty,contrats,chinezoaice,sözleşmeler,Contratos
+UI_COMBAT_FOLDER_NAME_1_14,presentations,プレゼン,演示,簡報,apresentações,Presentaciones,,Präsentationen,презентации,prezentacje,présentations,CTRL+C viață,sunumlar,Presentaciones
+UI_COMBAT_FOLDER_NAME_1_15,Timesheets,工数管理,工时表,工時表,PlanilhasHora,Horario,,Zeitpläne,Табели,ewidencja_pracy,Emploi du Temps,Nu sunt XXX,ZamanÇizelgeleri,Horario
+UI_COMBAT_FOLDER_NAME_1_16,Slides(1),スライド (1),幻灯片（1）,投影片（1）,Slides(1),Presentación(1),,Präsi_Seite(1),Слайды(1),slajdy(1),Slides(1),Folder Nou (4),Slaytlar(1),Presentación(1)
+UI_COMBAT_FOLDER_NAME_1_17,Payrolls,給与支払い,薪资表,薪資表,FolhaDePagamento,Nómina de Sueldo,,Lohnabrechnungen,Зарплаты,lista płac,FicheDePaies,Poze din calculatorul lu tata,Maaşlar,Nóminas de sueldo
+UI_COMBAT_FOLDER_NAME_1_18,templates,テンプレート,模板,範本,templates,Plantillas,,Vorlagen,шаблоны,szablony,modèle,Proiect secret NAȘA și NAȘU,şablonlar,Plantillas
+UI_COMBAT_FOLDER_NAME_1_19,wip,作業中,半成品,半成品,wip,En Desarrollo,,Wip,wip,do dokończenia,wip,Folder Nou (2),devam_ediyor,En Desarrollo
+UI_COMBAT_FOLDER_NAME_1_20,hr_confidential,【部外秘】人事,人事机密,人事機密,rh_confidencial,hr_confidential,,hr_vertraulich,кадровые_данные,hr_tajne,confidentiel_RH,workshop,ik_gizli,hr_confidencial
+UI_COMBAT_FOLDER_NAME_1_21,SharedFolder,共有フォルダ,共享文件夹,共用資料夾,PastaCompartilhada,CarpetaCompartida,,Geteilter Ordner,Общие,WspólnyFolder,Dossier Partagé,Nu e ce crezi,PaylaşılanKlasör,CarpetaCompartida
+UI_COMBAT_FOLDER_NAME_1_22,claims,クレーム,报销申请,報銷申請,reinvidicações,Reclamos,,Beschwerden,заявки,roszczenia,réclamations,SaveFiles,talepler,Reclamos
+UI_COMBAT_FOLDER_NAME_1_23,expenses,経費,开支记录,開支記錄,despesas,Gastos,,Ausgaben,расходы,wydatki,dépenses,Nostradamus (2),harcamalar,Gastos
+UI_COMBAT_FOLDER_NAME_1_24,Training Materials,研修資料,培训资料,培訓資料,Materiais de Treinamento,Materiales de entrenamiento,,Trainings_Material,Обучение (материалы),Materiał Treningowy,matériel de formation,Folder interzis,Eğitim Materyalleri,Materiales de entrenamiento
+UI_COMBAT_FOLDER_NAME_1_25,internal Docs,内部資料,内部文档,內部文件,documentos internos,Documentos internos,,Interne_Dokumente,внутренние документы,wewnętrzne Dokumenty,Doc interne,Backup dacă pică tot,iç Dokümanlar,Documentos internos
+UI_COMBAT_FOLDER_NAME_1_26,Annual Reports,年次報告,年度报告,年度報告,Relatórios anuais,Reportes Anuales,,Jährliche Berichte,Годовые отчеты,Roczne Raporty,Rapports Annuels,POZE Din Vama,Yıllık Raporlar,Reportes anuales
+UI_COMBAT_FOLDER_NAME_1_27,Meeting_minutes,議事録,会议记录,會議記錄,Reunião_horários,Horario_reuniones,,Meeting_Minuten,протоколы_встреч,Spotkanie_minuty,Réunions,Co$ De Gunoi,Toplantı_notları,Horario_reuniones
+UI_COMBAT_FOLDER_NAME_1_28,onboarding,新人研修,入职文件,入職文件,onboarding,Incorporaciones,,Onboarding,адаптация,szkolenie,intégrations,Cracks,uyum_süreci,Incorporaciones
+UI_COMBAT_FOLDER_NAME_1_29,Work_policies,業務_ポリシー,工作政策,工作政策,Políticas_trabalho,Políticas de Trabajo,,Arbeits_Richtlinien,Рабочие правила,Zasady_Pracy,politiques de travail,manele_dar_bune,İş_politikaları,Políticas de trabajo
+UI_COMBAT_FOLDER_NAME_1_30,team_proj,チームプロジェクト,团队项目,團隊專案,projeto_time,Trabajo_grupo,,Team_Proj,командный_проект,Grupowy_proj,Projets_Equipe,Skins,ekip_proj,Trabajo_grupo
+UI_COMBAT_FOLDER_NAME_2_1,Homework,宿題,家庭作业,家庭作業,LiçãoDeCasa,Tarea,,Hauses,Домашка,ZadanieDomowe,Devoirs,prostii,Ev Ödevi,Tarea
+UI_COMBAT_FOLDER_NAME_2_2,Homework_real,宿題_本当,真_家庭作业,真_家庭作業,LiçãoDeCasa_real,Tarea_real,,Hausis_echt,Домашка_реально,ZadanieDomowe_prawdziwe,DevoirsVrai,manele vechi,Gerçek_Ev Ödevi,Tarea_real
+UI_COMBAT_FOLDER_NAME_2_3,SandboxV2,サンドボックス_ver.2,沙盒V2,沙盒V2,SandboxV2,SandboxV2,,SandboxV2,Песочница2,PiaskownicaV2,BacASableV2,Marian La Gratar,SandboxV2,SandboxV2
+UI_COMBAT_FOLDER_NAME_2_4,Cats,ネコ,猫猫,貓貓,Gatos,Gatos,,Katzen,Котики,Koty,Chats,Ascuns,Kediler,Gatos
+UI_COMBAT_FOLDER_NAME_2_5,Assets,アセット,资产,資產,Assets,Assets,,Assets,Ассеты,Aktywa,Assets,Nelu poze 2013,Varlıklar,Recursos
+UI_COMBAT_FOLDER_NAME_2_6,New Folder,新しいフォルダ,新建文件夹,新建資料夾,Nova Pasta,Nueva Carpeta,,Neuer Ordner,Новая папка,Nowy Folder,Nouveau Dossier,GigiBecaliQuotes,Yeni Klasör,Nueva carpeta
+UI_COMBAT_FOLDER_NAME_2_7,New Folder(2),新しいフォルダ (2),新建文件夹（2）,新建資料夾（2）,Nova Pasta(2),Nueva Carpeta(2),,Neuer Ordner(2）,Новая папка(2),Nowy Folder(2),Nouveau Dossier(2),Jocuri Veki,Yeni Klasör(2),Nueva carpeta(2)
+UI_COMBAT_FOLDER_NAME_2_8,Not_virus,安全なファイル,不是_病毒,不是_病毒,NãoÉ_virus,No_virus,,Kein_Virus,Не_вирус,Nie_wirus,Pas_Virus,Arta modernă (poze cu pisici),Virüs_Değil,No_virus
+UI_COMBAT_FOLDER_NAME_2_9,TOP_secret,極秘ファイル,最高_机密,最高_機密,TOP_secret,ULTRASECRETO,,TOP_secret,СОВЕРШЕННО_СЕКРЕТНО,ŚCIŚLE_TAJNE,TOP_secret,Torrents,ÇOK_gizli,ULTRASECRETO
+UI_COMBAT_FOLDER_NAME_2_10,Source,ソース,源代码,原始碼,Source,Source,,Quelle,Источник,Źródło,Source,FolderPreaBun,Kaynak,Fuente
+UI_COMBAT_FOLDER_NAME_2_11,scripts,スクリプト,脚本,腳本,scripts,scripts,,Skripte,скрипты,skrypty,scripts,Poze 2009 Nu Rade,betikler,código
+UI_COMBAT_FOLDER_NAME_2_12,bug_reports,バグ報告,Bug报告,Bug報告,bug_reports,bug_reports,,Bug_Berichte,отчеты_об_ошибках,zgłoszenia_błędów,rapports de bugs,Nunta lu verisorul,hata_raporları,reportes_de_errores
+UI_COMBAT_FOLDER_NAME_2_13,APIs,API,API文档,API文件,APIs,APIs,,APIs,API,API,APIs,Scripturi,API'ler,API
+UI_COMBAT_FOLDER_NAME_2_14,lib,ライブラリ,库,函式庫,lib,lib,,Lib,библиотеки,lib,lib,sfântul Word-licență finală,kütüphane,lib
+UI_COMBAT_FOLDER_NAME_2_15,repos,リポジトリ,仓库,倉庫,repos,repos,,Repos,репозитории,repozytoria,repos,Sarmale HD,depolar,repos
+UI_COMBAT_FOLDER_NAME_2_16,sandbox1,サンドボックス1,沙盒1,沙盒1,sandbox1,sandbox1,,Sandbox1,песочница1,piaskownica1,BacASable1,Jocuri cu arme,sandbox1,sandbox1
+UI_COMBAT_FOLDER_NAME_2_17,VirtualEnv,バーチャル環境,虚拟环境,虛擬環境,VirtualEnv,Entorno virtual,,VirtualEnv,Виртуальная среда,WirtualneŚrodowisko,VirtualEnv,copiat din internet,SanalOrtam,Entorno virtual
+UI_COMBAT_FOLDER_NAME_2_18,patches,パッチ,补丁,修補檔,patches,parches,,Patches,патчи,łatki,patches,Poze cool B),yamalar,parches
+UI_COMBAT_FOLDER_NAME_2_19,plugins,プラグイン,插件,外掛,plugins,plugins,,Plugins,плагины,pluginy,plugins,muzica trilulilu,eklentiler,plugins
+UI_COMBAT_FOLDER_NAME_2_20,ext,拡張ファイル,扩展,擴充,ext,ext,,Ext,расширения,ext,ext,CS1.6 original - crack,uzantılar,ext
+UI_COMBAT_FOLDER_NAME_2_21,Extensions,拡張機能,扩展功能,擴充功能,Extensões,Extensciones,,Erweiterungen,Расширения,Rozszerzenia,Extensions,SECRET (ASCUNDE),Uzantılar,Extensiones
+UI_COMBAT_FOLDER_NAME_2_22,alpha_,alpha_,内测,內測,alpha_,alpha_,,alpha_,альфа_,alpha_,alpha_,OldSaves,alfa_,alfa_
+UI_COMBAT_FOLDER_NAME_2_23,beta_build,beta_build,公测版,公測版,build_beta,build_beta,,beta_build,бета_билд,beta_build,beta_build,Hackuri Gratis,beta_sürüm,build_beta
+UI_COMBAT_FOLDER_NAME_2_24,release,リリース,正式版,正式版,release,lanzamiento,,Veröffetnlichung,релиз,wydanie,sorties,GTA cu moduri,yayın sürümü,lanzamiento
+UI_COMBAT_FOLDER_NAME_2_25,debug_3,デバッグ_3,调试_3,除錯_3,debug_3,debug_3,,debug_3,отладка_3,debug_3,debug_3,Colaje De Craciun _-_ XDJROMANIAXx 2003,hata_3,debug_3
+UI_COMBAT_FOLDER_NAME_2_26,dumps,dumps,转储文件,轉儲檔案,dumps,dumps,,Aufgegebene_Entwürfe,дампы,dumps,dumps,Nu_sunt_Viruși,dökümler,dumps
+UI_COMBAT_FOLDER_NAME_2_27,Crash Reports,クラッシュレポート,崩溃报告,當機報告,Relatórios de Erro,Reportes de Crasheos,,Absturz Bericht,Отчеты о сбоях,Raporty o awariach,Rapports de Crash,Tonuri De Apel - Bokia,Çökme Raporları,Reportes de bloqueos
+UI_COMBAT_FOLDER_NAME_2_28,personal_proj,個人プロジェクト,个人项目,個人專案,projeto_pessoal,Projecto_personal,,Eigenes_Proj,мой проект,personalny_proj,Projets_Persos,Proiecte2012,kişisel_proj,Projecto_personal
+UI_COMBAT_FOLDER_NAME_2_29,backups,バックアップ,备份,備份,backups,copias de seguridad,,Backups,резервные копии,kopie zapasowe,backups,Meme-uri 3D,yedekler,copias de seguridad
+UI_COMBAT_FOLDER_NAME_2_30,unit_tests,ユニットテスト,单元测试,單元測試,tests_unitários,tests_unitarios,,unit_Tests,юнит_тесты,testy_jednostkowe,tests_unitaires,Desktop vechi,birim_testleri,tests_unitarios
+UI_COMBAT_FOLDER_NAME_3_1,XXX,XXX,XXX,XXX,XXX,XXX,,XXX,XXX,XXX,XXX,Muzica de la chef,XXX,XXX
+UI_COMBAT_FOLDER_NAME_3_2,Memes,ミーム,表情包,表情包,Memes,Memes,,Memes,Мемы,Memy,Memes,Mihai înarmat,Meme'ler,Memes
+UI_COMBAT_FOLDER_NAME_3_3,test,テスト,测试,測試,teste,test,,Test,тест,test,test,Backup de iarnă,test,test
+UI_COMBAT_FOLDER_NAME_3_4,Test_final,テスト_最終,最终_测试,最終_測試,Teste_final,Test_final,,Finaler_Test,Финальный тест,Test_ostateczny,Test_final,poze cu mine si mistrețul,Test_son,Prueba_final
+UI_COMBAT_FOLDER_NAME_3_5,Pictures_copy,ピクチャ_コピー,图片_副本,圖片_副本,Imagens_cópia,Fotos_copia,,Fotos_Kopie,Изображения_копия,Zdjęcia_kopie,Images_Copie,Totul pierdut,Resimler_kopya,Fotos_copia
+UI_COMBAT_FOLDER_NAME_3_6,Backup,バックアップ,备份,備份,Backup,Copia de Seguridad,,Backup,Бэкап,Kopia zapasowa,Backup,CV final 7,Yedek,Copia de seguridad
+UI_COMBAT_FOLDER_NAME_3_7,backup2,バックアップ2,备份2,備份2,backup2,copia_seguridad2,,Backup2,бэкап2,Kopia zapasowa2,backup2,Folder_vechi_dar_bun,yedek2,copia_seguridad2
+UI_COMBAT_FOLDER_NAME_3_8,hidden,隠しファイル,隐藏,隱藏,escondido,oculto,,Versteckt,скрытое,ukryte,caché,Plan_B,gizli,oculto
+UI_COMBAT_FOLDER_NAME_3_9,NoOpen,絶対開くな,不要打开,不要打開,NãoAbrir,NoAbierto,,NichtÖffnen,НЕ открывать,NieOtwierać,PasOuvrir,Meme-uri supreme,Açma,NoAbierto
+UI_COMBAT_FOLDER_NAME_3_10,SaveData,セーブデータ,存档数据,存檔資料,DadosSave,DatosGuardados,,SaveData,Сохранения,DaneZapisów,DonnéesSauvegarde,CDuri vechi,KayıtVerisi,DatosGuardados
+UI_COMBAT_FOLDER_NAME_3_11,UserData,ユーザーデータ,用户数据,使用者資料,DadosUsuário,DatosUsuario,,NutzerDaten,Данные_пользователя,DaneUżytkowników,DonnéesUtilisateur,Poze din Bârlad,KullanıcıVerisi,DatosUsuario
+UI_COMBAT_FOLDER_NAME_3_12,Mods,MOD,模组,模組,Mods,Mods,,Mods,Моды,Mody,Mods,Învăț pentru școală,Modlar,Mods
+UI_COMBAT_FOLDER_NAME_3_13,cheats,チート,修改器,修改器,trapaças,Trampas,,Cheats,читы,czity,cheats,Poze pentru status,hileler,Trampas
+UI_COMBAT_FOLDER_NAME_3_14,ROMs,ROM,ROM文件,ROM檔案,ROMs,ROMs,,ROM,ROM,ROM,ROMs,Folder secret adevărat,ROM'lar,ROM
+UI_COMBAT_FOLDER_NAME_3_15,Configs,コンフィグ,配置文件,設定檔,Configs,Configs,,Configs,Конфиги,Configs,Configs,Poze cu tort,Ayarlar,Configuración
+UI_COMBAT_FOLDER_NAME_3_16,DLC,DLC,DLC,DLC,DLC,DLC,,DLC,DLC,DLC,DLC,Proiect de la muncă (adevărat),DLC,DLC
+UI_COMBAT_FOLDER_NAME_3_17,OldSaves,過去セーブ,旧存档,舊存檔,SavesAntigos,GuardadosAntiguos,,OldSaves,Старые_сохранения,StareZapisy,OldSaves,Documente secrete,EskiKayıtlar,GuardadosAntiguos
+UI_COMBAT_FOLDER_NAME_3_18,guides,ガイド,指南,指南,guias,Guías,,Guides,гайды,poradniki,guides,internet explorer nu merge,rehberler,Guías
+UI_COMBAT_FOLDER_NAME_3_19,DevLogs,開発ログ,开发日志,開發日誌,DevLogs,Registro de Desarrollo,,DevLogs,DevLogs,DziennikiDeweloperskie,DevLogs,Glume pentru prieteni,GeliştiriciKayıtları,Registro de desarrollo
+UI_COMBAT_FOLDER_NAME_3_20,workshop,ワークショップ,创意工坊,創意工坊,workshop,Taller,,Workshop,мастерская,warsztat,workshop,Meme-uri sfinte 2,atölye,Taller
+UI_COMBAT_FOLDER_NAME_3_21,save_notes,保存_メモ,存档备注,存檔備註,notas_save,notas_guardadas,,Speicher_Notizen,сохранения_заметки,notatki_zapisów,save_notes,Poze pentru Facebook,kayıt_notları,notas_guardadas
+UI_COMBAT_FOLDER_NAME_3_22,clan_docs,クラン資料,公会文档,公會文件,docs_clan,documentos_clan,,clan_docs,доки_клана,dokumenty_klanu,documents_au_propre,Rețete mâncare,klan_dosyaları,documentos_clan
+UI_COMBAT_FOLDER_NAME_3_23,replays,リプレイ,回放,回放,replays,repeticiones,,Replays,повторы,powtórki,replays,Colectie_Personală_Extra,yeniden_oynatmalar,repeticiones
+UI_COMBAT_FOLDER_NAME_3_24,saved_clips,保存済みクリップ,已保存片段,已儲存片段,clipes_salvos,clips_guardados,,gespeicherte_Clips,сохраненные_клипы,zapisane_klipy,clips sauvegardés,Mișto chestii,kaydedilen_klipler,clips_guardados
+UI_COMBAT_FOLDER_NAME_3_25,achievement guides,実績ガイド,成就攻略,成就攻略,guias de conquistas,guias para logros,,Leistungsleitfäden,гайды по ачивкам,poradniki_do_osiagnięć,tuto pour succès,GTA cu babe,başarım rehberleri,guías para logros
+UI_COMBAT_FOLDER_NAME_3_26,server rules,サーバールール,服务器规则,伺服器規則,regras do servidor,Reglas del Servidor,,Server Regeln,правила сервера,zasady serwera,règles du serveur,Poze mama tânără,sunucu kuralları,Reglas del servidor
+UI_COMBAT_FOLDER_NAME_3_27,cheatcodes,チートコード,作弊码,作弊碼,trapaças,Código de Trucos,,Cheatcodes,читкоды,kody do GTA:SA,codes de triches,NeluDanceMix,hile_kodları,Código de trucos
+UI_COMBAT_FOLDER_NAME_3_28,Spam,スパム,垃圾文件,垃圾檔案,Spam,Spam,,Spam,Спам,Spam,Spam,MANELE 1000+,Spam,Spam
+UI_COMBAT_FOLDER_NAME_3_29,cursed,呪い,被污染,被污染,amaldiçoado,Maldito,,Cursed,проклято,przeklęte,cursed,CS1.6 cu Guta mod,lanetli,Maldito
+UI_COMBAT_FOLDER_NAME_3_30,funny,ネタ,搞笑,搞笑,engraçado,Divertido,,Witzig,приколы,smieszne,drole,Colectie .zip,komik,Divertido
+UI_COMBAT_FOLDER_DESC,My virus senses are tingling…,ウイルスセンサーが反応してる…,我的病毒感应在发作……,我的病毒感應在發作……,Meu sentido vírus está apitando…,Mi sentido virus está hormigueando...,,Meine Virus Sinne springen an…,Мое вирусное чутье что-то улавливает …,Moje wirusowe zmysły coś wykrywają...,Mon intuition à virus s'affole...,Simțurile mele legate de virus furnică…,Virüs sezgilerim karıncalanıyor...,Mi sentido virus está hormigueando...
+UI_COMBAT_ZIP_FOLDER_NAME_1,compressed.zip,圧縮済み.zip,压缩.zip,壓縮.zip,comprimido.zip,Comprimido.zip,,.zip,архив.zip,skompresowane.zip,compressé.zip,Poze_Cu_Beciul_Ziarist.rar,sıkıştırılmış.zip,Comprimido.zip
+UI_COMBAT_ZIP_FOLDER_NAME_2,part1.zip,part1.zip,第1部分.zip,第1部分.zip,parte1.zip,Parte1.zip,,Teil1.zip,часть1.zip,część1.zip,part1.zip,Manele_Hituri_2009.7z,parça1.zip,Parte1.zip
+UI_COMBAT_ZIP_FOLDER_NAME_3,poses.zip,ポーズ.zip,姿势.zip,姿勢.zip,poses.zip,Posturas.zip,,Posen.zip,позы.zip,pozycje.zip,poses.zip,Nu_Intra_Mama.zip,pozlar.zip,Posturas.zip
+UI_COMBAT_ZIP_FOLDER_NAME_4,assignment1.zip,課題1.zip,任务1.zip,任務1.zip,tarefa1.zip,Tarea.zip,,Aufgabe1.zip,задание1.zip,zadanie1.zip,àfaire.zip,Poze_Cu_Flori_Și_Ciudatenii.7z,ödev1.zip,Tarea.zip
+UI_COMBAT_ZIP_FOLDER_NAME_5,glsl64.zip,glsl64.zip,glsl64.zip,glsl64.zip,glsl64.zip,glsl64.zip,,glsl64.zip,glsl64.zip,glsl64.zip,glsl.zip,Poze_Cu_Ciori.rar,glsl64.zip,glsl64.zip
+UI_COMBAT_ZIP_FOLDER_NAME_6,_backup.zip,_バックアップ.zip,_备份.zip,_備份.zip,_backup.zip,_backup.zip,,_backup.zip,_бэкап.zip,_kopiazapasowa.zip,_backup.zip,CS1.6_Cu_Guta.zip,_yedek.zip,_respaldo.zip
+UI_COMBAT_ZIP_FOLDER_NAME_7,assets.7z,アセット.7z,资产.7z,資產.7z,assets.7z,assets.7z,,Assets.7z,ассеты.7z,assets.7z,assets.7z,Backup_De_Risc.rar,varlıklar.7z,recursos.7z
+UI_COMBAT_ZIP_FOLDER_NAME_8,new(1).7z,新規 (1).7z,新（1）.7z,新（1）.7z,novo(1).7z,nuevo(1).7z,,Neu(1).7z,новый(1).7z,nowy(1).7z,new(1).zip,Gigi_Becali_Quotes.rar,yeni(1).7z,nuevo(1).7z
+UI_COMBAT_ZIP_FOLDER_NAME_9,vids.tar,vids.tar,视频.tar,影片.tar,vids.tar,videos.tar,,Videos.tar,видео.tar,widea.tar,vidéos.tar,Memeuri_Cu_Dorel.zip,videolar.tar,vídeos.tar
+UI_COMBAT_ZIP_FOLDER_NAME_10,old_save.zip,old_save.zip,旧存档.zip,舊存檔.zip,old_save.zip,guardado_antiguo.zip,,alt_gespeichertes.zip,старое_сохранение.zip,stary_zapis.zip,vieilles_sauvegardes.zip,Poze_Cu_Meme_De_Vara.7z,eski_kayıt.zip,guardado_antiguo.zip
+UI_COMBAT_ZIP_FOLDER_NAME_11,release_build.rar,リリースビルド.rar,正式版.rar,正式版.rar,build_lançamento.rar,release_build.rar,,Veröffentl_build.rar,релизная_сборка.rar,release_build.rar,version_finale.zip,Poze_Vezi_Ce_Am_Făcut.zip,yayın_sürümü.rar,versión_de_lanzamiento.rar
+UI_COMBAT_ZIP_FOLDER_NAME_12,cli_tools.zip,cli_tools.zip,命令行工具.zip,命令列工具.zip,ferramentas_clip.zip,cli_tools.zip,,cli_Werkzeug.zip,cli_утилиты.zip,narzędzia_cli.zip,outils.zip,Ciorbă_HD.zip,komut_satırı_araçları.zip,cli_herramientas.zip
+UI_COMBAT_ZIP_FOLDER_NAME_13,dist.zip,配布物.zip,分发包.zip,發佈包.zip,dist.zip,dist.zip,,dist.zip,сборка.zip,dist.zip,dist.zip,Poze_Cu_Sarbatori_2009.7z,dağıtım.zip,dist.zip
+UI_COMBAT_ZIP_FOLDER_NAME_14,mods.7z,MOD.7z,模组.7z,模組.7z,mods.7z,mods.7z,,mod.7z,моды.7z,mody.7z,mods.7z,Zidarul_Bacau.rar,modlar.7z,mods.7z
+UI_COMBAT_ZIP_FOLDER_NAME_15,modules.rar,モジュール.rar,模块.rar,模塊.rar,modules.rar,modulos.rar,,Module.rar,модули.rar,moduły.rar,modules.rar,Meme_Cu_Mihai_Bendeac.zip,modüller.rar,módulos.rar
+UI_COMBAT_ZIP_FOLDER_NAME_16,debug_logs.zip,デバッグログ.zip,调试日志.zip,除錯日誌.zip,debug_logs.zip,debug_logs.zip,,Debug_logs.zip,логи_отладки.zip,debug_logs.zip,debug_logs.zip,Poze_Cu_Caini_Si_Pisici.rar,hata_kayıtları.zip,debug_logs.zip
+UI_COMBAT_ZIP_FOLDER_NAME_17,hotfix_patch.7z,修正パッチ.7z,热修补丁.7z,熱修補檔.7z,hotfix_patch.7z,hotfix_patch.7z,,hotfix_patch.7z,хотфикс_патч.7z,hotfix_patch.7z,hotfix_patch.7z,Poze_Cu_Manele_Vechi.zip,acil_yama.7z,hotfix_patch.7z
+UI_COMBAT_ZIP_FOLDER_NAME_18,utils.7z,ユーティリティ.7z,工具集.7z,工具集.7z,utils.7z,utiles.7z,,utils.7z,утилиты.7z,utils.7z,utils.7z,Wallpaperuri_HD.zip,araçlar.7z,útiles.7z
+UI_COMBAT_ZIP_FOLDER_NAME_19,reports.zip,レポート.zip,报告.zip,報告.zip,reports.zip,informes.zip,,Berichte.zip,отчеты.zip,raporty.zip,rapports.zip,Poze_Cu_Porcul_Și_Gașca.7z,raporlar.zip,informes.zip
+UI_COMBAT_ZIP_FOLDER_NAME_20,events.rar,イベント.rar,事件.rar,事件.rar,eventos.zip,eventos.rar,,Events.rar,события.rar,ewenty.rar,events.rar,Poze_Cu_Dacia_Logan_2005.7z,etkinlikler.rar,eventos.rar
+UI_COMBAT_ZIP_FOLDER_NAME_21,temp.7z,temp.7z,临时文件.7z,暫存檔.7z,temp.7z,temporal.7z,,Temp.7z,temp.7z,temp.7z,temp.7z,Memeuri_Rare_2007.rar,geçici.7z,temporal.7z
+UI_COMBAT_ZIP_FOLDER_NAME_22,part2.7z,part2.7z,part2.7z,part2.7z,part2.7z,parte2.7z,,Part2.7z,часть2.7z,część2.7z,part2.7z,Backup_Secret_XP.7z,parça2.7z,parte2.7z
+UI_COMBAT_ZIP_FOLDER_NAME_23,assignment_final.zip,課題_最終版.zip,最终作业.zip,最終作業.zip,tarefa_final.zip,tarea_final.zip,,Aufgabe_Final.zip,задание (к отправке).zip,zadanie_ostateczne.zip,devoir_final.zip,Poze_De_Amintire_2006.7z,ödev_son.zip,tarea_final.zip
+UI_COMBAT_ZIP_FOLDER_NAME_24,Identifile.zip,Identifile.zip,Identifile.zip,Identifile.zip,Identifile.zip,Identifile.zip,,Identifile.zip,Identifile.zip,identifile.zip,Identifile.zip,Dorel_Constructor.rar,Identifile.zip,Identifile.zip
+UI_COMBAT_ZIP_FOLDER_NAME_25,hacks.7z,hacks.7z,破解.7z,破解.7z,hacks.7z,hacks.7z,,Hacks.7z,взломы.7z,czity.7z,hacks.7z,Marian_La_Gratar.rar,hacks.7z,hacks.7z
+UI_COMBAT_ZIP_FOLDER_NAME_26,release.zip,リリース.zip,正式版.zip,正式版.zip,release.zip,lanzamiento.zip,,Veröffentlichung.zip,релиз.zip,wydanie.zip,release.zip,Poze_Cu_Memes_De_Satul_Meu.7z,yayın.zip,lanzamiento.zip
+UI_COMBAT_ZIP_FOLDER_NAME_27,final_submit_7z,提出用_最終確定.7z,最终版.7z,最終版.7z,envio_final_7z,envio_final.7z,,Finale_Abgabe.7z,финал_отправить_7z,ostateczna_wersja_7z,version_déposée.7z,Meme_Cu_Ion_Iliescu.zip,son_gönderim_7z,envio_final.7z
+UI_COMBAT_ZIP_FOLDER_NAME_28,w1nrar.rar,w1nrar.rar,w1nrar.rar,w1nrar.rar,w1nrar.rar,w1nrar.rar,,w1nrar.rar,w1nrar.rar,w1nrar.rar,w1nrar.rar,Poze_Cu_Bunica_2008.7z,w1nrar.rar,w1nrar.rar
+UI_COMBAT_ZIP_FOLDER_NAME_29,tempz.zip,tempz.zip,临时包.zip,暫存包.zip,tempz.zip,tempz.zip,,tempz.zip,tempz.zip,tempz.zip,tempz.zip,Poze_Din_Copilarie.zip,geçici_zip.zip,tempz.zip
+UI_COMBAT_ZIP_FOLDER_NAME_30,extra.zip,extra.zip,额外文件.zip,額外檔案.zip,extra.zip,extra.zip,,Extra.zip,бонусы.zip,ekstra.zip,extra.zip,Folder_Interzis.rar,ekstra.zip,extra.zip
+UI_COMBAT_ZIP_FOLDER_DESC,My virus senses are tingling…,ウイルスセンサーが反応してる…,我的病毒感应正在发作……,我的病毒感應正在發作……,Meu sentido vírus está apitando…,Mi sentido virus está hormigueando...,,Meine Virus Sinne springen an…,Мое вирусное чутье что-то улавливает …,Moje wirusowe zmysły coś wykrywają...,Mon intuition à virus s'affole...,Simțurile mele legate de virus furnică…,Virüs sezgilerim karıncalanıyor...,Mi sentido virus está hormigueando...
+UI_TREASURE_FOLDER_NAME,Treasure,お宝,宝藏,寶藏,Tesouro,Tesoro,,Schatz,Сокровище,Skarb,Trésor,Cufăr,Hazine,Tesoro
+UI_TREASURE_FOLDER_DESC,Various items can be found here!,色んなアイテムが入っている,此处可获取加密物品！,此處可獲得加密物品！,Muitos itens podem estar aqui!,Puedes encontrar varios items aquí,,Hier gibts verschiedenste Items!,Здесь можно найти разные предметы!,Możesz tu znaleźć różnorodny łup!,Des items variés peuvent être trouvées ici !,Diverse iteme pot fi găsite aici!,Burada çeşitli eşyalar bulunabilir!,¡Puedes encontrar varios objetos aquí!
+UI_ADS_FOLDER_NAME,LIMITED OFFER!,限定オファー！,限时特惠！,限時特惠！,PROMOÇÃO LIMITADA!,¡OFERTA EXLUSIVA!,,BEGRENZTES ANGEBOT,ОГРАНИЧЕННОЕ ПРЕДЛОЖЕНИЕ!,LIMITOWANA OFERTA!,OFFRE LIMITÉE,OFERTĂ LIMITATĂ!,SINIRLI TEKLİF!,¡OFERTA EXCLUSIVA!
+UI_ADS_FOLDER_DESC,Hmm some advertisements...,うーん、何かの広告みたい…,唔，广告时间……,嗯，廣告時間……,Hmm alguns anúncios...,¡Vienen con anuncios incluidos!,,"Hmm, etwas Werbung",Хм... Какая-то реклама...,Gmm jakieś reklamy...,Mmmh des Pubs.,Hmm ceva reclame…,Hmm bazı reklamlar...,¡Vienen con anuncios incluidos!
+UI_CHALLENGE_FOLDER_NAME,Challenge,チャレンジ,挑战,挑戰,Desafio,Desafio,,Challenge,Испытание,Wyzwanie,Défi,Provocare,Meydan Okuma,Desafío
+UI_CHALLENGE_FOLDER_DESC,Up for a challenge?,チャレンジしてみる？,敢来试试吗？,敢來試試看嗎？,Pronto para um desafio?,¿Preparado para un desafio?,,Bock auf n Challenge？,Испытаешь себя?,Zmierzysz czołą temu wyzwaniu?,Prêt pour un défi?,Pregătit pentru o provocare?,Bir meydan okumaya var mısın?,¿Preparado para un desafío?
+UI_SHOP_FOLDER_NAME,Shop,ショップ,商店,商店,Loja,Tienda,,Shop,Магазин,Sklep,Boutique,Magazin,Mağaza,Tienda
+UI_SHOP_FOLDER_DESC,Various items can be bought here with coins!,コインで様々なアイテムを購入可能,消耗金币购买各类程序！,花費金幣購買各類程式！,Vários itens podem ser comprados aqui com moedas!,Puedes comprar varios items con monedas,,Verschiedeneste Items können hier mit Münzen gekauft werden!,"Здесь продается все, что можно купить за монеты!",Kupisz tu róznorodne przedmioty za monety!,D'incroyables objets pour un prix presque dérisoire !,Diverse iteme pot fi cumparate de aici cu bani!,Burada parayla çeşitli eşyalar satın alınabilir!,¡Puedes comprar varios objetos con monedas!
+UI_SACRIFICE_FOLDER_NAME,Sacrifice,捧げ物,献祭,獻祭,Sacrificar,Sacrificio,,Opferung,Жертвенник,Ofiara,Sacrifice,Sacrificare,Kurban,Sacrificio
+UI_SACRIFICE_FOLDER_DESC,To lose is to gain,手放せば、手に入る…,失即是得,失即是得。,Perder é ganhar,Perder para ganar algo,,Verlieren heißt gewinnen,Теряя – обретаешь,Bez straty nie ma zysku,"Perdre, c'est Gagner",A pierde este să câștigi,"Kaybetmek, kazanmaktır",Perder para ganar algo
+UI_REWARD_FOLDER_NAME,rewards.exe,報酬.exe,奖励.exe,獎勵.exe,recompensas.exe,Recompensas.exe,,Belohnungen.exe,награды.exe,nagrody.exe,récompenses.exe,premii.exe,ödüller.exe,Recompensas.exe
+UI_REWARD_FOLDER_DESC,Rare rewards await...,中にレアな報酬が…,稀有奖励静待开启……,稀有獎勵靜待開啟……,Recompensas raras aguardam...,Recompensas raras te aguardan...,,Seltene Belohnungen erwarten dich…,Редчайшие награды уже тебя ждут...,Czekają na ciebie rzadnie nagrody...,De rares récompenses t'attendent,Recompense rare te așteaptă...,Nadir ödüller seni bekliyor...,Recompensas raras te esperan...
+UI_KEY_FOLDER_NAME,Key!,キー,钥匙！,鑰匙！,Chave!,¡Llave!,,Schlüssel!,Ключ!,Klucz!,Clé!,Cheie!,Anahtar!,¡Llave!
+UI_KEY_FOLDER_DESC,Key to happiness right at your fingertips.,幸せのカギは、その指先に…,触手可及的幸福密钥。,觸手可及的幸福之鑰。,A chave da felicidade ao seu alcance.,La llave de la felicidad a tu alcanze,,Der Schlüssel zur Freude ist in Tastbarer nähe.,Ключ к счастью прямо у тебя под рукой.,Klucz do szczęścia w zasięgu ręki,Il faut se battre pour les clés du bonheur,Cheia fericirii chiar la vârful degetelor tale.,Mutluluğun anahtarı parmaklarının ucunda.,La llave de la felicidad a tu alcanze
+UI_BOSS_FOLDER_NAME,Boss,ボス,Boss,Boss,Chefe,Boss,,Boss,Босс,Boss,Boss,Boss,Patron,Jefe
+UI_BOSS_FOLDER_DESC,Something dangerous lurks within...,危険なものが潜んでいそうだ…,高危目标蛰伏中……,高危目標潛伏中……,Algo perigoso se esconde dentro...,Algo peligroso te espera dentro...,,Böses ist im Busch…,Внутри таится нечто опасное...,Coś niebezpiecznego czycha wewnątrz...,Quelquechose de dangereux rôde à l'intérieur...,Ceva periculos se ascunde înăuntru...,İçeride tehlikeli bir şey gizleniyor...,Algo peligroso te espera dentro...
+UI_MINIGAME_AIM_FOLDER_NAME,Bang! Bang!,バン！バン！,砰！砰！,砰！砰！,Bang! Bang!,¡Bang! ¡Bang!,,Peng! Peng!,Бах! Бах!,Pif! Paf!,Bang! Bang!,Pew! Pew!,Dıkşın! Dıkşın!,¡Bang! ¡Bang!
+UI_MINIGAME_AIM_FOLDER_DESC,How good are your shots?,射撃はお得意？,你枪法如何？,你的槍法如何？,Quão bom são seus tiros?,¿Qué tan bueno eres en los disparos?,,Wie gut kannst du schießen?,Испытаем твою меткость?,Jak dobrze strzelasz?,Tu sais viser?,Cât de bune sunt loviturile tale?,Sence senden Red Kit olur mu??,¿Qué tan bueno eres disparando?
+UI_MINIGAME_DINO_FOLDER_NAME,Disconnected?!,切断！！？,掉线了？！,掉線了？！,Disconectado?!,¡¿Desconectado?!,,Verbindung getrennt?!,Потеря соединения?!,Rozłączony?!,Deconnecté?!,Deconectat?!,Bağlantı mı koptu?!,¡¿Desconectado?!
+UI_MINIGAME_DINO_FOLDER_DESC,Roarrr!!,グオオオーッ！！,嗷呜！！,嗷嗚！！,Roarrr!!,¡¡Roarrr!!,,Roarrr!!,Рааврррр!!,Raaaaaar!!,Agrouuuu !!!!!,Roarrr!!,Kükre!!,¡¡Roarrr!!
+UI_LEVEL_COMPLETE_FOLDER_DESC,What's in this new drive?,一体、このドライブには何が…？,新的驱动盘里有什么？,新的驅動盤裡有什麼？,O que tem de novo nesse drive?,¿Que habrá en este nuevo disco?,,Was ist auf diesem neuen Laufwerk?,Что там на новом диске?,Co jest w tym nowym dysku?,Que se cache-t-il dans ce nouveau disque?,Ce este in noua partitie?,Bu yeni sürücüde ne var acaba?,¿Que habrá en este nuevo disco?
+,,,,,,,,,,,,,,
